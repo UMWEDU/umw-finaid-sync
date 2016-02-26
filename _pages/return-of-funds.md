@@ -1,6 +1,6 @@
 ---
 ID: 42
-post_title: 'Return of Funds for Withdrawal Policy [add links]'
+post_title: Return of Funds for Withdrawal Policy
 author: Emily
 post_date: 2016-02-17 14:11:30
 post_excerpt: ""
@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 ---
 Students who withdraw from any or all classes after the start of a semester will have their aid reduced.  Additionally, if proceeds have been disbursed it is very likely that eligibility will be pro-rated and funds returned to the appropriate programs.
 
-The Return to Title IV (R2T4) Funds policy determines the amount of federal financial aid that must be returned by UMW and the student.  (Title IV refers to federal funds.) The calculation is based on the actual number of days in the semester that were completed or “earned”.  Unearned funds must be returned by the school and in some cases the student, to the appropriate sources.
+The <a href="http://www.umw.edu/financialaid/process/leaving/return-of-funds/treatment-of-title-iv-federal-aid-when-a-student-withdraws/">Return to Title IV (R2T4) Funds</a> policy determines the amount of federal financial aid that must be returned by UMW and the student.  (Title IV refers to federal funds.) The calculation is based on the actual number of days in the semester that were completed or “earned”.  Unearned funds must be returned by the school and in some cases the student, to the appropriate sources.
 
 The amount of federal aid earned by the student is based on the percentage (described above) of aid that was disbursed or that could have been disbursed.  If aid disbursed is equal to or less than aid earned no funds need to be returned.  If aid disbursed is greater than aid earned, then UMW must determine the amount to be returned to federal programs by UMW and the student.  If aid disbursed plus aid that could have been disbursed is greater than aid earned the student/parent may be entitled to receive additional funds.
 
@@ -40,5 +40,3 @@ Other financial assistance is returned to the programs as follows:
 	<li>UMW &amp; private scholarships: Determined by program guidelines and or circumstances</li>
 </ul>
 *AIC for all students = Tuition, Fees, Books: Includes Room &amp; Board if student living on campus
-
-<strong><u>Treatment of Title IV Aid When a Student Withdraws</u></strong> (link to 6.4.4.1 Treatment of Title Four Aid when a student withdraws).

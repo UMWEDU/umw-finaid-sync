@@ -1,6 +1,6 @@
 ---
 ID: 55
-post_title: 'Federal Direct Parent Plus Loan [form?]'
+post_title: Federal Direct Parent Plus Loan
 author: Emily
 post_date: 2016-02-19 14:00:51
 post_excerpt: ""
@@ -16,6 +16,6 @@ Parents of dependent UMW student may apply for a Direct PLUS Loan to help cover 
 
 Graduate and professional students may apply for PLUS Loans for their own educational expenses.  Students must complete the Free Application for Federal Student Aid (FAFSA) to apply.  Students must have received maximum Direct Unsubsidized Student Loans before they may receive a Federal Direct Graduate PLUS loan.
 
-2015-2016 Application Instructions  (link to 6.5.5.2.1)
+<a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/parent-plus-loan-application-instructions/">2015-2016 Application Instructions</a>
 
 <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Parent-Plus-Loan-Request-Form.docx" rel="">2015-2016 Parent Plus Loan Request Form</a> (to be submitted to the UMW Financial Aid Office)

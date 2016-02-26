@@ -15,7 +15,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <tbody>
 <tr>
 <td width="135"><strong>Prior to January 1</strong></td>
-<td width="420">Students and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fsaid.ed.gov">FAFSA</a> after January 1.</td>
+<td width="420">Students, and parents of dependent students: Apply for a <a href="https://fsaid.ed.gov">Federal Student Aid ID</a>, so that you can complete your FAFSA after January 1.</td>
 </tr>
 <tr>
 <td width="135"><strong>January 1</strong></td>
@@ -26,8 +26,8 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <td width="420">Log into a UMW Financial Aid chat! Register through the Office of Admissions.</td>
 </tr>
 <tr>
-<td width="135"><strong>February 1</strong></td>
-<td width="420"><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
+<td width="135"><strong>February </strong></td>
+<td width="420">UMW <a href="https://umw.scholarships.ngwebsolutions.com">Online Scholarship Manager</a> open. Apply for UMW scholarships!</td>
 </tr>
 <tr>
 <td width="135"><strong>March 1</strong></td>
@@ -43,7 +43,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 </tr>
 <tr>
 <td width="135"><strong>July 1</strong></td>
-<td width="420">Deadline to submit all requested verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your MyUMW portal.</td>
+<td width="420">Deadline to submit all requested Verification documents to UMW’s Office of Financial Aid. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your MyUMW portal.</td>
 </tr>
 <tr>
 <td width="135"><strong>Early August</strong></td>

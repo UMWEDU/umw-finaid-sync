@@ -15,8 +15,9 @@ wpcf-homepage-copy:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Due to Federal privacy regulation (FERPA), the Office of Financial Aid is only permitted to speak to students, and individuals that they have designated a ‘<a href="http://www.umw.edu/financialaid/general-information/communication/delegated-access/">delegated user</a>.'
+<h2>Communication with Students and Families</h2>
+Due to the Family Educational Rights and Privacy Act (FERPA), the Office of Financial Aid is only permitted to speak to students and individuals that they have designated a “<em><a href="http://www.umw.edu/financialaid/communication/delegated-access/">Delegated User</a>”</em>
 
-The primary means of communication to students is the UMW email system. Students may contact the Office of Financial Aid at <a href="mailto:finaid@umw.edu">finaid@umw.edu</a>. Required documents may also be sent by email to this address. Students and families may also contact the Financial Aid office by phone (540)654-2468 or by visiting the office in Lee Hall, second floor.
+UMW’s primary means of communication to students is email. Students may contact the Office of Financial Aid at <a href="mailto:finaid@umw.edu">finaid@umw.edu</a>. Required documents may also be sent by email to this address. Students and families may also contact the Office of Financial Aid by phone at (540)654-2468 or by visiting the office on the second floor of Lee Hall.
 
-Please keep in mind that requirements may be added due to the FAFSA Verification process, or updated FAFSA information. Financial Aid awards may also change based on updates to the student’s FAFSA or enrollment changes.  Students will receive an email notification if any changes are made to their financial aid award or financial aid requirements.
+Please keep in mind that requirements may be added due to the FAFSA verification process, or updated FAFSA information. Financial aid awards may also change based on updates to the student’s FAFSA or enrollment changes. Students will receive an email notification if any changes are made to their financial aid award or requirements.

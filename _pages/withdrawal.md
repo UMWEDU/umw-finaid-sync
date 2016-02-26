@@ -1,6 +1,6 @@
 ---
 ID: 40
-post_title: 'Mid-Semester Withdrawal [add form]'
+post_title: Mid-Semester Withdrawal
 author: Emily
 post_date: 2016-02-17 13:56:16
 post_excerpt: ""

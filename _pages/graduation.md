@@ -8,8 +8,9 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/leaving/graduation/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<h2>Graduation and Financial Aid</h2>
 Congratulations! There are several things to consider regarding your financial aid after graduation.
 <h2>Private Educational Student Loans</h2>
 <h3>Loan Repayment:</h3>

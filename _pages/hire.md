@@ -34,7 +34,7 @@ If you would like to hire a student employee and don’t know where to begin, th
 	<li>FOAP to charge (six-digit org# is fine)</li>
 	<li>Any special notes, such as a desired start date so as to provide a deadline for the paperwork</li>
 </ul>
-**Normally an hourly wage. See the Stipend page for details about stipend contracts.
+**Normally an hourly wage. <a href="http://www.umw.edu/financialaid/student-employment/supervisors/stipends/">Stipend contracts</a> are an option in some cases.
 <ol start="6">
 	<li>The Student Employment Coordinator will contact the hired student via UMW e-mail with the required paperwork and other important notices. The supervisor will be copied on this e-mail.</li>
 </ol>

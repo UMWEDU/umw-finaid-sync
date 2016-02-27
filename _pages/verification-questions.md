@@ -11,10 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h3>What is Verification?</h3>
-Verification is a process through which the Office of Financial Aid confirms that the information on a student’s FAFSA is accurate. Any transaction involving the FAFSA can trigger a Verification.
-
-The federal government requires colleges and universities to verify or confirm the information on a student’s FAFSA. This process ensures that students receive all the financial aid to which they are eligible and prevents ineligible students from receiving it.
+<h3></h3>
 <h3>How will I know if I am selected for Verification?</h3>
 Students are selected for Verification by the Department of Education. The selected student FAFSA information is forwarded to the Office of Financial Aid, where financial aid officers are required to verify the information.
 

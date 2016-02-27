@@ -11,7 +11,7 @@ published: true
 ---
 Students who need additional help meeting college expenses may be able to obtain a private or alternative educational loan. These types of loans are offered through many organizations, banks, and credit unions. Application for an alternative loan is made directly through the lending institution.
 
-UMW recommends that students complete the Free Application for Federal Student Aid (FAFSA) to determine eligibility for federal loans before applying with private lenders. The terms and conditions for federal Title IV loans may be more favorable than those of private lenders.
+UMW recommends that students complete the Free Application for Federal Student Aid (<a href="https://fafsa.ed.gov/">FAFSA</a>) to determine eligibility for federal loans before applying with private lenders. The terms and conditions for federal Title IV loans may be more favorable than those of private lenders.
 
 Students may receive private loans up to the cost of attendance minus all other financial aid and resources. Potential borrowers should make a decision on a lender after first comparing interest rates, repayment terms, loan limits, eligibility, and loan fees and other benefits.
 

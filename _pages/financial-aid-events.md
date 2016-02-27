@@ -12,7 +12,7 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>FAFSA Workshop</h2>
-<h4>Combs Hall Room 349 February 16  6:30-8pm</h4>
+<h4>Combs Hall Room 349 February 16  6:30-8 p.m.</h4>
 During this on-campus workshop, students (both current and incoming) and families are invited to work in one of our UMW computer labs to complete the FAFSA with a UMW professional from the Office of Financial Aid.
 <h2>Financial Aid Chats - Spring 2016</h2>
 The Office of Financial Aid will be hosting online chats for incoming freshmen and transfer students on the following dates. Students and families log on to discuss topics such as FAFSA Completion, Verification, Scholarships, etc.

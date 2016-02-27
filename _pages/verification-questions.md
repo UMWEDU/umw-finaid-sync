@@ -11,7 +11,6 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h3></h3>
 <h3>How will I know if I am selected for Verification?</h3>
 Students are selected for Verification by the Department of Education. The selected student FAFSA information is forwarded to the Office of Financial Aid, where financial aid officers are required to verify the information.
 

@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Applying for Financial Aid can be a confusing process for many students, even if they have been through the process before.  Below is a simple timeline to help keep students and families on track!
+Applying for Financial Aid can be a confusing process for many students, even if they have been through it before.  Below is a simple timeline to help keep students and families on track!
 <table>
 <tbody>
 <tr>
@@ -32,11 +32,11 @@ Applying for Financial Aid can be a confusing process for many students, even if
 </tr>
 <tr>
 <td width="135"><strong>May 1</strong></td>
-<td width="538">Online Scholarship Application Deadline – 11:59 pm</td>
+<td width="538">Online Scholarship Application Deadline – 11:59 p.m.</td>
 </tr>
 <tr>
 <td width="135"><strong>July 1</strong></td>
-<td width="538">Deadline to submit all requested Verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your MyUMW portal.</td>
+<td width="538">Deadline to submit all requested Verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your myUMW portal.</td>
 </tr>
 <tr>
 <td width="135"><strong>Early August</strong></td>

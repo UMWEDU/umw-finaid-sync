@@ -36,7 +36,7 @@ Applying for Financial Aid can be a confusing process for many students, even if
 </tr>
 <tr>
 <td width="135"><strong>July 1</strong></td>
-<td width="538">Deadline to submit all requested Verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your myUMW portal.</td>
+<td width="538">Deadline to submit all requested Verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your <a href="https://orgsync.com/home/551">myUMW portal</a>.</td>
 </tr>
 <tr>
 <td width="135"><strong>Early August</strong></td>

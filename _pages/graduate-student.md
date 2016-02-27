@@ -11,15 +11,28 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-As a student in a UMW Graduate Program, you may be eligible for the Federal Direct Loan Program, as well as various Departmental scholarships.
-<h2>Important dates and deadlines:</h2>
-<h3>Prior to January 1</h3>
-Students, and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fafsa.ed.gov/">FAFSA</a> after January 1.
-<h3>January 1</h3>
-<a href="https://fafsa.ed.gov/">FAFSA</a> available!
-<h3>February 1</h3>
-Review scholarship opportunities through your Program website (ex: School of Education, School of Business, etc.) and follow directions to apply for scholarships.
-<h3>April</h3>
-While there is no FAFSA deadline for Graduate students, we encourage students to submit early, so that the student bill will be paid by the billing deadline.
-<h3>Early August</h3>
-If your financial aid exceeds your student bill, consider completing a <a href="http://www.umw.edu/financialaid/eligibility/bookstore-voucher/">Bookstore Voucher</a>, which allows you to use a portion of your refund in the UMW Bookstore!
+As a student in a UMW graduate program, you may be eligible for the Federal Direct Loan Program, as well as various departmental scholarships. See below for a handy guide to the important dates and deadlines in the financial aid process.
+<table>
+<tbody>
+<tr>
+<td width="135"><strong>Prior to January 1</strong></td>
+<td width="538">Students, and parents of dependent students: Apply for a <a href="https://fsaid.ed.gov">Federal Student Aid ID</a>, so that you can complete your FAFSA after January 1.</td>
+</tr>
+<tr>
+<td width="135"><strong>January 1</strong></td>
+<td width="538"><a href="https://fafsa.ed.gov/">FAFSA</a> available!</td>
+</tr>
+<tr>
+<td width="135"><strong>February 1</strong></td>
+<td width="538">Review scholarship opportunities through your program website (ex: College of Education, College of Business, etc.) and follow directions to apply for scholarships.</td>
+</tr>
+<tr>
+<td width="135"><strong>April</strong></td>
+<td width="538">While there is no FAFSA deadline for graduate students, we encourage students to submit early, so that the student bill will be paid by the billing deadline.</td>
+</tr>
+<tr>
+<td width="135"><strong>Early August</strong></td>
+<td width="538">If your financial aid exceeds your student bill, consider completing a Bookstore Voucher, which allows you to use a portion of your refund in the UMW Bookstore!</td>
+</tr>
+</tbody>
+</table>

@@ -1,6 +1,6 @@
 ---
 ID: 47
-post_title: 'Virginia State Grants [add link]'
+post_title: Virginia State Grants
 author: Emily
 post_date: 2016-02-17 14:32:28
 post_excerpt: ""
@@ -14,6 +14,6 @@ This grant is awarded to undergraduate students with financial need according to
 <h3><a href="http://www.schev.edu/students/factsheetComma.asp">Virginia Commonwealth Award</a></h3>
 This grant is awarded to undergraduate students with financial need according to the UMW awarding criteria each year. Students must submit the FAFSA each academic year, and meet all other qualifying criteria by the priority filing deadline to be considered. Virginia residents that file the FAFSA by the priority filing deadline are automatically considered for this award.
 <h3><a href="http://www.schev.edu/students/factsheetTransferGrant.pdf">Virginia Two Year College Transfer Grant</a></h3>
-This educational grant is awarded to incoming students that have transferred to UMW after earning an Associate’s degree at a Virginia two year public institution, and meet all other criteria.  Students may apply by completing the Virginia Two Year College Transfer Grant Application (link to 6.5.4.1.1 ) and submitting the application to the UMW Financial Aid office.
+This educational grant is awarded to incoming students that have transferred to UMW after earning an Associate’s degree at a Virginia two year public institution, and meet all other criteria.  Students may apply by completing the <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Virginia-College-Transfer-Grant-Application.pdf" rel="">Virginia Two Year College Transfer Grant Application</a>  and submitting the application to the UMW Office of Financial Aid.
 <h3><a href="http://www.dvs.virginia.gov/education-employment/virginia-military-survivors-and-dependents-education-program/">Virginia Military Survivors and Dependents Education Program</a></h3>
 This educational benefit is geared toward the spouses and children of military service members killed, missing in action, taken prisoner, or who became at least 90% disabled as a result of military service in an armed conflict.  This benefit includes a waiver of tuition and all required fees associated with tuition to any public institution of higher education, as well as a possible stipend each semester. Students may apply for these benefits, and find more information, through the Virginia Department of Veterans Services.

@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Applying for Financial Aid can be a confusing process for many students, even if they have been through it before.  Below is a simple timeline to help keep students and families on track!
+Applying for financial aid can be a confusing process for many students, even if they have been through it before.  Below is a simple timeline to help keep students and families on track.
 <table width="99%">
 <tbody>
 <tr>

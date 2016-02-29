@@ -8,4 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/applicants/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---

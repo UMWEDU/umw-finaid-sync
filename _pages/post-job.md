@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/supervisors/post-job/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Are you looking to hire student employees to help out in your department?</h2>
 You’re in luck, because we have a ton of students who are looking to work! They just need to know what opportunities are out there.

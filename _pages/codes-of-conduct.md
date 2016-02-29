@@ -10,6 +10,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/consumer-information/codes-of-conduct/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 A UMW financial aid professional is expected to always maintain exemplary standards of professional responsibilities, specifically including all dealings with any entities involved in any manner in student financial aid, regardless of whether such entities are tied to a government sponsored, subsidized, or regulated activity.
 

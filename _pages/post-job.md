@@ -14,7 +14,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Are you looking to hire student employees to help out in your department?</h2>
 You’re in luck, because we have a ton of students who are looking to work! They just need to know what opportunities are out there.
 
-If you are hiring, please contact Laura Needham, Student Employment Coordinator, at <a href="mailto:lneedham@umw.edu">lneedham@umw.edu</a> or (540) 654-1685, so that she can advertise your position on the Student Employment portal on MyUMW. Please include:
+If you are hiring, please contact Laura Needham, Student Employment Coordinator, at <a href="mailto:lneedham@umw.edu">lneedham@umw.edu</a> or (540) 654-1685, so that she can advertise your position on the <a href="https://orgsync.com/129314/chapter">Student Employment portal</a> on myUMW. Please include:
 <ul>
 	<li>Name of position available</li>
 	<li>Number of positions available</li>

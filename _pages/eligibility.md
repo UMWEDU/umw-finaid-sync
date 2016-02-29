@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h3>Citizenship Status</h3>
+<h2>Citizenship Status</h2>
 Federal Student Aid (Direct Student Loans, Parent Plus Loans, Pell Grant, etc.) are available to U.S. Citizens, and eligible noncitizens. Eligible noncitizens must meet one of the below qualifications:
 
 1. You are a
@@ -38,21 +38,21 @@ Federal Student Aid (Direct Student Loans, Parent Plus Loans, Pell Grant, etc.) 
 </ul>
 <h3>Deferred Action for Childhood Arrivals (DACA)</h3>
 Undocumented students, including DACA recipients, are not eligible for federal student aid, but may still be eligible for state or college aid, in addition to private scholarships. Please feel free to contact the Office of Financial Aid at (540) 654-2468 for more information.
-<h3>Housing Status</h3>
+<h2>Housing Status</h2>
 Financial Aid eligibility can be affected by whether the student is living in on-campus housing. While Federal loans and grants are not affected by housing status, some merit-based institutional scholarship may be affected. If you are considering changing your UMW housing status, please first contact the Office of Financial Aid to determine any potential changes to your financial aid package.
-<h3>Enrollment Status (Full-time, part time, etc.)</h3>
+<h2>Enrollment Status (Full-time, part time, etc.)</h2>
 All initial financial aid packages are based on full-time enrollment. Enrollment is then reviewed after the add-drop period each semester. At that time, it is determined if changes will be made to <a href="http://www.umw.edu/financialaid/eligibility/enrollment-requirements/">financial aid awards based on enrollment</a>.
 
 <strong><em>For example</em></strong>: A student is awarded a Transfer Award upon their admissions to UMW. One criteria of this award is that the student must be full time each semester.  Upon review after the add-drop period, the student is only enrolled in six credits. The award would then be cancelled.
-<h3>Satisfactory Academic Progress</h3>
+<h2>Satisfactory Academic Progress</h2>
 <a href="http://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/">Satisfactory Academic Progress (SAP)</a> is a policy based on a federal regulations that states that students must maintain a steady rate of completion toward a degree and maintain a minimum GPA in order to be eligible for financial aid.
 
 After semester grades are posted, the Financial Aid office identifies students that are not progressing satisfactorily, and notifies them of their change in eligibility.  A student may appeal for their financial aid eligibility if they meet certain criteria.
-<h3>Special Circumstance Process</h3>
+<h2>Special Circumstance Process</h2>
 If the information you filed on the Free Application for Federal Student Aid (FAFSA) does not reflect your current financial situation or does not take into account an <a href="http://www.umw.edu/financialaid/the-financial-aid-process/fafsa-verification/special-situations/">unusual circumstance</a> with you and/or your family you may submit a request for review of your financial aid status for special circumstances.   In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
-<h3>Study Abroad</h3>
+<h2>Study Abroad</h2>
 Students can use their financial aid from UMW for <a href="http://www.umw.edu/financialaid/financial-aid-eligibility/study-abroad/">Approved Study Abroad programs</a>. The UMW Financial Aid office works with the student’s host school to create an agreement allowing UMW to award financial aid while the student is enrolled at another institution.
-<h3>Taking courses at multiple institutions</h3>
+<h2>Taking courses at multiple institutions</h2>
 Students that have been preapproved to take courses simultaneously while taking courses at UMW are required to complete a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Financial-Aid-Consortium-Agreement.docx" rel="">Financial Aid Consortium Agreement</a>. This allows UMW to work with your host school to ensure that your financial aid is based on total enrollment at both institutions.  Please keep in mind that the Consortium Agreement process does not affect payment deadlines, as each institution has its own set of billing deadlines and policies.
-<h3>Bookstore Voucher Eligibility</h3>
+<h2>Bookstore Voucher Eligibility</h2>
 The <a href="http://www.umw.edu/financialaid/financial-aid-eligibility/bookstore-voucher-process/">Bookstore Voucher</a> process allows students to use a portion of their financial aid refund in the UMW Bookstore up to one week prior to the start of classes.  Bookstore Vouchers can be applied for through the myUMW <a href="https://banner.umw.edu/prod/twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Financial Aid portal</a>.

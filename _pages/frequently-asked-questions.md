@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at (540) 654-2468 or finaid@umw.edu if you need more information.
+Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> if you need more information.
 <h2>How do I apply for financial aid?</h2>
 Complete the 2015-2016 <a href="http://FAFSA.ed.gov">Free Application for Federal Student Aid</a>. The Office of Financial Aid will then contact you through mail (first-time students) or email (continuing students) regarding any additional requirements that are needed. Requirements can also be viewed through your MyUMW portal.
 <h2>When do I apply for financial aid?</h2>

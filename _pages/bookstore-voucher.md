@@ -8,10 +8,12 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/bookstore-voucher/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-The Bookstore Voucher process allows students to use a portion of their financial aid refund in the UMW Bookstore up to one week prior to the start of classes.  Bookstore Vouchers can be applied for through the MyUMW Financial Aid portal.
+The Bookstore Voucher process allows students to use a portion of their financial aid refund in the UMW Bookstore up to one week prior to the start of classes.  Bookstore Vouchers can be applied for through the <a href="https://orgsync.com/115365/chapter">myUMW Financial Aid</a> portal.
 
-The Bookstore Voucher <strong>may not be used online, for rentals, or purchases outside of the University of Mary Washington’s bookstore.  </strong>(Exception: Students attending the Stafford Campus who are required to make purchases online through MBS Direct.)
+The Bookstore Voucher <strong>may not be used online, for rentals, or purchases outside of the University of Mary Washington’s bookstore.  </strong>Exception: Students attending the Stafford Campus who are required to make purchases online through MBS Direct.
 <h2>Instructions</h2>
 <ol>
 	<li>Fill out the appropriate voucher request form on <a href="https://auth.umw.edu/cas/login?service=https%3A%2F%2Forgsync.com%2Fcas%2Funiversity-of-mary-washington">myUMW</a> Financial Aid portal and submit it to the Office of Financial Aid.  Please ‘join’ the Financial Aid page to access this form.</li>

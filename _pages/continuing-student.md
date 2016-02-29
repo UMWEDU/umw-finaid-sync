@@ -1,8 +1,6 @@
 ---
 ID: 17
-post_title: >
-  Continuing Student Financial Aid
-  Timeline
+post_title: Continuing Student Timeline
 author: Emily
 post_date: 2016-02-10 13:30:45
 post_excerpt: ""

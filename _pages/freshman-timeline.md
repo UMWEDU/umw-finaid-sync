@@ -15,8 +15,8 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <table width="99%">
 <tbody>
 <tr>
-<td><strong>Prior to January 1</strong></td>
-<td>Students and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fsaid.ed.gov">FAFSA</a> after January 1.</td>
+<td width="20%"><strong>Prior to January 1</strong></td>
+<td width="80%">Students and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fsaid.ed.gov">FAFSA</a> after January 1.</td>
 </tr>
 <tr>
 <td><strong>January 1</strong></td>

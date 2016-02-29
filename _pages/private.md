@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/types/loans/private/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Students who need additional help meeting college expenses may be able to obtain a private or alternative educational loan. These types of loans are offered through many organizations, banks, and credit unions. Application for an alternative loan is made directly through the lending institution.
 

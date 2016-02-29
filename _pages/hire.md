@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/supervisors/hire/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 If you would like to hire a student employee and don’t know where to begin, then this page is for you. Please find below the step-by-step process for hiring a student employee:
 <ol>

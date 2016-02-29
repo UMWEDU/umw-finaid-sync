@@ -24,7 +24,7 @@ The Financial Aid Representative then works with the student’s Study Abroad 
 
 At the time of financial aid disbursement (after the semester add/drop date has passed), the financial aid will be applied to the student’s account. The overage of financial aid will be refunded directly to the student.
 
-Students are strongly encouraged to sign up for Direct Deposit through the <a href="https://orgsync.com/82489/chapter">Eagle Gateway</a> in MyUMW. Otherwise, the student will automatically receive a check to their UMW campus mailbox.
+Students are strongly encouraged to sign up for Direct Deposit through the <a href="https://orgsync.com/82489/chapter">Eagle Gateway</a> in myUMW. Otherwise, the student will automatically receive a check to their UMW campus mailbox.
 <h3>Enrollment</h3>
 For Fall, Spring or Academic Year programs, Financial Aid awards are based on full-time enrollment. If enrollment is decreased below full-time status (12 credits per semester), financial aid packages could also decrease.  Students are encouraged to contact the UMW Office of Financial Aid if this situation occurs. Otherwise, financial aid will be prorated when notification is received from the host school.
 <h3>Summer Study Abroad Programs</h3>

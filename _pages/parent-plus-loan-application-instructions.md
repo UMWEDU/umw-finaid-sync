@@ -13,7 +13,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h3>If your parent would like to apply for a Parent PLUS loan, the steps are as follows:</h3>
+If your parent would like to apply for a Parent PLUS loan, the steps are as follows:
 <ol>
 	<li>The student must complete the <a href="http://www.fafsa.gov">Free Application for Federal Student Aid</a> before being considered for a Parent PLUS Loan.</li>
 	<li>The parent should log on to the <a href="https://studentloans.gov/myDirectLoan/index.action">Direct Loan website</a>. The parent (not the student) should log in using his or her own Federal Student Aid ID and password.</li>
@@ -22,4 +22,4 @@ wpcf-home-page-grid-inclusion:
 	<li>Read the PLUS Loan Information and <a href="http://adminfinance.umw.edu/financialaid/files/2011/09/IMPORTANT_INFORMATI ON_ABOUT_YOUR_PLUS_LOAN_APPLICATION1.pdf">Privacy Act Disclosure Statement</a>.</li>
 	<li>Complete the Direct PLUS Request form and fax, email, or mail it to the University's Office of Financial Aid.</li>
 </ol>
-<h3>Please note that the PLUS loan cannot be disbursed or credited to a student’s bill until all steps have been completed and recorded by the Office of Financial Aid.</h3>
+<strong>Please note that the PLUS loan cannot be disbursed or credited to a student’s bill until all steps have been completed and recorded by the Office of Financial Aid.</strong>

@@ -18,7 +18,7 @@ wpcf-homepage-copy:
     <ul>
     	<li><a href="https://www.umw.edu/financialaid/student-employment/work-study/">Federal vs Institutional Work Study</a></li>
     	<li><a href="https://www.umw.edu/financialaid/student-employment/applicants/apply-for-open-jobs/">Apply for open jobs</a></li>
-    	<li>Forms for <a href="https://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/">new</a> and <a href="https://www.umw.edu/financialaid/student-employment/applicants/returning-student-employees/">returning</a> student employees</li>
+    	<li>Forms: <a href="https://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/">new</a> and <a href="https://www.umw.edu/financialaid/student-employment/applicants/returning-student-employees/">returning</a> student employees</li>
     	<li><a href="https://www.umw.edu/financialaid/student-employment/supervisors/hire/">Hiring</a> and <a href="https://www.umw.edu/financialaid/student-employment/supervisors/">supervisor resources</a></li>
     	<li>Payroll and MyTime</li>
     </ul>

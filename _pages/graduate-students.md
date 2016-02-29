@@ -29,6 +29,8 @@ Students interested in applying for financial aid must file the Free Application
 Once students are accepted into a degree program, the Office of Financial Aid determines eligibility for financial assistance. Awarding of financial aid for the Fall term begins in April and in November for the Spring term. <strong>                                                                  </strong>
 
 If enrolling for summer courses<strong>, </strong>students must also submit the Request for Summer Financial Aid form to the Office of Financial Aid.
+
+See the <a href="http://www.umw.edu/financialaid/process/timelines/graduate-student/">Graduate Student Financial Aid Timeline</a> for more information.
 <h2>Financial Aid by Degree Type</h2>
 <h3>Master’s Degree Programs</h3>
 Students that have earned their undergraduate degree, and are enrolled in a master’s program (MBA, MED, GIS), are eligible to receive <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Graduate Loans</a> by completing the FAFSA each year. Students may also be eligible for limited departmental scholarships.

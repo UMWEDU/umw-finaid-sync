@@ -20,7 +20,7 @@ In some cases, returning student employees may be prompted via UMW e-mail to sub
 </ul>
 <h2>Submit In-Person to Office of Financial Aid:</h2>
 <ul>
-	<li><a href="http://adminfinance.umw.edu/financialaid/files/2015/03/2015-2016-Application.pdf">Campus Employment Application</a></li>
-	<li><a href="http://adminfinance.umw.edu/financialaid/files/2015/07/2015-2016-Work-Agreement.pdf">2015-2016 Student Aide Work Agreement</a></li>
-	<li><a href="http://adminfinance.umw.edu/financialaid/files/2015/03/2015-2016-Confidentiality-Agreement.pdf">Confidentiality Agreement</a></li>
+	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/CampusEmploymentApplication.pdf" rel="">Campus Employment Application</a></li>
+	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Work-Agreement.pdf" rel="">Student Employee Work Agreement</a></li>
+	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Confidentiality-Agreement.pdf" rel="">Confidentiality Agreement Form</a></li>
 </ul>

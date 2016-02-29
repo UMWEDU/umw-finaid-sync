@@ -11,10 +11,8 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>Satisfactory Academic Progress (SAP) Policy</h2>
 In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each semester attended (fall, spring and summer semesters).
-
-The following definitions apply to this policy:
+<h2>The following definitions apply to this policy:</h2>
 <ul>
 	<li><strong>Financial Aid Programs</strong>: All federal programs, VA State grant programs, scholarship programs offered through the University, outside programs offered from other states and private organizations, federal work-study and institutional student employment and private education loans.</li>
 	<li><strong>Earned and Attempted Credit hours: </strong>Satisfactory Academic Progress uses credit hours to measure both the Pace and Maximum Timeframe requirements. It is important to understand the difference between the two types of credit hours. Credit hours “earned” are courses in which the student receives a letter grade of “D” or “PA” in a Pass/Fail course. “Attempted” credits are all courses in which the student enrolls and remains enrolled in after the add/drop period of each semester even if the student withdraws later or fails the course at the end.</li>

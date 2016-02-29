@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/applicants/payroll/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Click <a href="http://adminfinance.umw.edu/payroll/files/2013/08/2016-Wage-and-Student-Pay-Calendar-12-14-2015.pdf">here</a> to view the 2016 payroll schedule for student employees.</h2>
 <h3>Accessing Paystubs and W-2s</h3>

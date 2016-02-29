@@ -18,11 +18,10 @@ wpcf-home-page-grid-inclusion:
 </div>
 <div class="one-half">
 <h2>Training &amp; Resources</h2>
+Supervisors will be notified when any changes occur.
 <ul>
 	<li><a href="http://adminfinance.umw.edu/financialaid/files/2015/10/WSSupervisors-100215.pptx">Student Employment: Everything Supervisors Need To Know</a></li>
 	<li><a href="http://adminfinance.umw.edu/payroll/files/2014/11/Supervisor-MyTime-Manual-November-2015.pdf">MyTime Manual for Supervisors</a></li>
 	<li><a href="https://orgsync.com/129314/chapter">Student Employment Portal</a> (myUMW) for related news and resources</li>
 </ul>
-Supervisors will be notified when any changes occur.
-
 </div>

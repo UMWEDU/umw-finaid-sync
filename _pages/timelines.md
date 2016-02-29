@@ -1,6 +1,6 @@
 ---
 ID: 14
-post_title: 'Timelines [blank]'
+post_title: Timelines
 author: Emily
 post_date: 2016-02-08 14:47:34
 post_excerpt: ""

@@ -28,7 +28,7 @@ Students interested in applying for financial aid must file the Free Application
 
 Once students are accepted into a degree program, the Office of Financial Aid determines eligibility for financial assistance. Awarding of financial aid for the Fall term begins in April and in November for the Spring term. <strong>                                                                  </strong>
 
-If enrolling for summer courses<strong>, </strong>students must also submit the Request for Summer Financial Aid form to the Office of Financial Aid.
+If enrolling for summer courses<strong>, </strong>students must also submit the <a href="https://orgsync.com/115365/forms">Request for Summer Financial Aid form</a> (myUMW) to the Office of Financial Aid.
 
 See the <a href="http://www.umw.edu/financialaid/process/timelines/graduate-student/">Graduate Student Financial Aid Timeline</a> for more information.
 <h2>Financial Aid by Degree Type</h2>

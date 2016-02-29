@@ -13,10 +13,10 @@ wpcf-home-page-grid-inclusion:
 ---
 <h2>Using Financial Aid for Study Abroad</h2>
 Students may apply to use their UMW financial aid for Study Abroad. In coordination with the UMW Center for International Education, students must complete the <strong>Request for Study Abroad Financial Aid Form</strong><strong>.</strong>
-
-<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Study-Abroad-Form-AY.docx" rel="">Study Abroad Form - Fall, Spring, or Academic year</a>
-
-<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Study-Abroad-Form-Summer.docx" rel="">Study Abroad Form - Summer</a>
+<ul>
+	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Study-Abroad-Form-Summer-1.docx" rel="">Study Abroad Form - Summer</a></li>
+	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Study-Abroad-Form-AY-1.docx" rel="">Study Abroad Form - All Year</a></li>
+</ul>
 <h3>The Process</h3>
 The Request for Study Abroad Financial Aid form, along with supporting documentation, is submitted to the Office of Financial Aid. Students are encouraged to meet with a Financial Aid representative at that time to discuss the specifics of the financial aid process.
 

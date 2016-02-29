@@ -22,7 +22,9 @@ Submitting items after the deadline may result in:
 </ul>
 If you are having trouble meeting these deadlines for any reason, please contact the Office of Financial Aid. Our staff will be happy to assist you and determine the best way to proceed with the financial aid process.
 <h3>The <a href="http://fafsa.ed.gov">FAFSA</a> is available on:</h3>
-January 1
+<ul>
+	<li>January 1</li>
+</ul>
 <h3>The FAFSA must be filed by:</h3>
 <ul>
 	<li>Freshmen/Continuing Students: March 1</li>

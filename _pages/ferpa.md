@@ -1,6 +1,6 @@
 ---
 ID: 7
-post_title: FERPA and Familes
+post_title: FERPA and Families
 author: Emily
 post_date: 2016-02-08 14:03:40
 post_excerpt: ""

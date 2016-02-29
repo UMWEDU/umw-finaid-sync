@@ -11,7 +11,7 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Applying for Financial Aid can be a confusing process for many first-time freshmen students.  Below is a simple timeline to help keep students and families on track.
+Applying for Financial Aid can be a confusing process for many first-time freshmen students. Below is a simple timeline to help keep students and families on track.
 <table width="99%">
 <tbody>
 <tr>

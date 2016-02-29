@@ -1,6 +1,8 @@
 ---
 ID: 41
-post_title: Withdrawal or Leave of Absence
+post_title: >
+  Withdrawal or Leave of Absence Before
+  Semester Begins
 author: Emily
 post_date: 2016-02-17 14:04:19
 post_excerpt: ""
@@ -8,8 +10,9 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/leaving/withdrawal-or-leave/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<h2>Withdrawal Prior to the Beginning of the Semester or Leave of Absence</h2>
 Official withdrawals from academic courses occur through the UMW Office of the Registrar. If you are planning to withdraw from all courses in a semester, please contact Rhonda Stills, Office of the Registrar, at (540)654-1259 or <a href="mailto:rstills@umw.edu">rstills@umw.edu</a>  for <a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">full withdrawal procedures</a>.
 
 If the total course withdrawal takes place before the semester has begun, or if the student has taken a full-semester leave of absence, the estimated financial aid for that semester will be cancelled, therefore not applied to the student’s University account.

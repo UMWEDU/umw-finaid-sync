@@ -1,6 +1,8 @@
 ---
 ID: 20
-post_title: 'Financial Aid Events, Workshops, and Chats [pull from myUMW]'
+post_title: >
+  Financial Aid Events, Workshops, and
+  Chats
 author: Emily
 post_date: 2016-02-10 13:53:59
 post_excerpt: ""
@@ -24,6 +26,3 @@ The Office of Financial Aid will be hosting online chats for incoming freshmen a
 	<li>Tuesday, May 10 6:30-8 p.m.</li>
 </ul>
 Students and families must <a href="https://umw.askadmissions.net/emtinterestpage.aspx?ip=chatreg">register</a> for these FREE events.
-<h2>Financial Literacy Events</h2>
-<span style="color: #ff0000;">View upcoming financial literacy events here. - pull from myUMW?
-</span>

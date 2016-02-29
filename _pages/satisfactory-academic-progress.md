@@ -1,6 +1,6 @@
 ---
 ID: 32
-post_title: 'Satisfactory Academic Progress [update form]'
+post_title: Satisfactory Academic Progress
 author: Emily
 post_date: 2016-02-16 13:46:53
 post_excerpt: ""

@@ -11,12 +11,12 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<div class="one-third first">
+<div class="one-half first">
 <h2>Tasks &amp; Support</h2>
 [children]
 
 </div>
-<div class="two-thirds">
+<div class="one-half">
 <h2>Training &amp; Resources</h2>
 Supervisors will be notified when any changes occur.
 <ul>

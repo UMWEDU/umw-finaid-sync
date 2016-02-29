@@ -39,7 +39,7 @@ Actual costs are determined in late April when the Board of Visitors meets. Once
 <h2>How do I apply for a student or parent loan?</h2>
 Students are considered for federal loans when they apply for federal student aid via the FAFSA. In order to accept federal Direct Loans, students must complete the <a href="http://www.studentloans.gov/">Direct Loan Entrance Counseling and Master Promissory Note</a>. Students must also accept/decline all loan offers in <a href="https://ssb.umw.edu/ssomanager/c/SSB?pkg=twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Banner</a>.
 
-<a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Parents may apply</a> for the <a href="http://www.studentloans.gov">PLUS Loan</a> after June 1 each year. Once approved, parents must also complete the PLUS Master Promissory Note each year. The <a href="http://adminfinance.umw.edu/financialaid/2015-2016-information/">Direct PLUS Request Form</a> must be submitted to our office after completing the online processes.
+A <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Parent Plus Loan</a> is an educational loan that a parent may use on behalf of their dependent student. This is a credit-based loan. Parents may apply for the <a href="http://www.studentloans.gov">PLUS Loan</a> after June 1 each year at studentloans.gov.
 
 Students may also apply for <a href="http://adminfinance.umw.edu/financialaid/2012-2013-loan-instructions-and-forms/private-loans/">private educational loans</a>.
 <h2>How do I request consideration for special circumstances?</h2>

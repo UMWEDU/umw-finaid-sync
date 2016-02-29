@@ -6,7 +6,7 @@ post_date: 2016-02-17 14:24:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/contact-us/federal-grants/
+  http://www.umw.edu/financialaid/types/federal-grants/
 published: true
 ---
 <h2>Federal Grant Opportunities</h2>

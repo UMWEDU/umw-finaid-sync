@@ -11,10 +11,14 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<table>
+<table width="99%">
 <tbody>
 <tr>
-<td></td>
+<td width="30%">&nbsp;</td>
+<td colspan="4"><strong>Eligibility</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
 <td><strong>Full time (12+)</strong></td>
 <td><strong>¾ Time (9-11)</strong></td>
 <td><strong>½ Time (6-8)</strong></td>
@@ -22,76 +26,78 @@ wpcf-home-page-grid-inclusion:
 </tr>
 <tr>
 <td><strong>Federal Direct Loan Program</strong></td>
-<td>Eligible for full amount</td>
-<td>Eligible for full amount</td>
-<td>Eligible for full amount</td>
+<td>Full amount</td>
+<td>Full amount</td>
+<td>Full amount</td>
 <td>NOT ELIGIBLE</td>
 </tr>
 <tr>
 <td><strong>Federal Parent Plus Loan </strong></td>
-<td>Eligible for full amount</td>
-<td>Eligible for full amount</td>
-<td>Eligible for full amount</td>
+<td>Full amount</td>
+<td>Full amount</td>
+<td>Full amount</td>
 <td>NOT ELIGIBLE</td>
 </tr>
 <tr>
 <td><strong>Private Educational Loan</strong></td>
-<td>Eligible for full amount</td>
-<td>Eligible for full amount</td>
-<td>Eligible for full amount</td>
+<td>Full amount</td>
+<td>Full amount</td>
+<td>Full amount</td>
 <td>Based on lenders policy.</td>
 </tr>
 <tr>
-<td><strong>Merit- Based Admissions Award (presidential, presidential diversity, Blue and Gray, Eagle, Transfer, etc)</strong></td>
-<td>Eligible for Full amount</td>
+<td><strong>Merit-Based Admissions Awards* </strong></td>
+<td>Full amount</td>
 <td>NOT ELIGIBLE</td>
 <td>NOT ELIGIBLE</td>
 <td>NOT ELIGIBLE</td>
 </tr>
 <tr>
-<td><strong>Departmental/Institutional Endowed Foundation Scholarships</strong></td>
-<td>Eligible for full amount</td>
+<td><strong>Endowed Foundation Scholarships</strong></td>
+<td>Full amount</td>
 <td>Determined by Scholarship Coordinator</td>
 <td>Determined by Scholarship Coordinator</td>
 <td>NOT ELIGIBLE</td>
 </tr>
 <tr>
 <td><strong>Federal Pell Grant</strong></td>
-<td>Eligible for full amount</td>
-<td>Eligible for ¾ of full amount</td>
-<td>Eligible for ½ of full amount</td>
+<td>Full amount</td>
+<td>¾ of full amount</td>
+<td>½ of full amount</td>
 <td>3-5 credits – eligible for ¼ of full amount</td>
 </tr>
 <tr>
 <td><strong>Federal SEOG</strong></td>
-<td>Eligible for full amount</td>
-<td>Eligible for ¾ of full amount</td>
-<td>Eligible for ½ of full amount</td>
+<td>Full amount</td>
+<td>¾ of full amount</td>
+<td>½ of full amount</td>
 <td>3-5 credits – eligible for ¼ of full amount</td>
 </tr>
 <tr>
 <td><strong>Virginia Guaranteed Assistance Program Grant</strong></td>
-<td>Eligible for full amount</td>
+<td>Full amount</td>
 <td>NOT ELIGIBLE</td>
 <td>NOT ELIGIBLE</td>
-<td>NOT  ELIGIBLE</td>
+<td>NOT ELIGIBLE</td>
 </tr>
 <tr>
 <td><strong>Virginia Commonwealth Grant</strong></td>
-<td>Eligible for full amount</td>
-<td>Eligible for ¾ of full amount</td>
-<td>Eligible for ½ of full amount</td>
+<td>Full amount</td>
+<td>¾ of full amount</td>
+<td>½ of full amount</td>
 <td>NOT ELIGIBLE</td>
 </tr>
 <tr>
-<td><strong>UMW  General Scholarship</strong></td>
-<td>Eligble for full amount</td>
-<td>NOT ELIGIBLE</td>
-<td>NOT ELIGIBLE</td>
-<td>NOT ELIGIBLE</td>
+<td><strong>UMW General Scholarship</strong></td>
+<td>Full amount</td>
+<td width="86">NOT ELIGIBLE</td>
+<td width="86">NOT ELIGIBLE</td>
+<td width="85">NOT ELIGIBLE</td>
 </tr>
 </tbody>
 </table>
-<strong><u> </u></strong>
+<strong>Merit-Based Admissions Awards:</strong> Presidential, Presidential Diversity, Blue and Gray, Eagle Transfer, etc.
 
 Please feel free to call (540)654-2468 or email <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> the Office of Financial Aid for information regarding other possible award adjustments.
+
+&nbsp;

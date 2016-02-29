@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 ---
 Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> if you need more information.
 <h2>How do I apply for financial aid?</h2>
-Complete the 2015-2016 <a href="http://FAFSA.ed.gov">Free Application for Federal Student Aid</a>. The Office of Financial Aid will then contact you through mail (first-time students) or email (continuing students) regarding any additional requirements that are needed. Requirements can also be viewed through your myUMW portal.
+Complete the 2015-2016 <a href="http://FAFSA.ed.gov">Free Application for Federal Student Aid</a>. The Office of Financial Aid will then contact you through mail (first-time students) or email (continuing students) regarding any additional requirements that are needed. Requirements can also be viewed through <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a>.
 <h2>When do I apply for financial aid?</h2>
 In order to be considered for federal, state, and institutional financial aid, you must file the FAFSA by March 1 (freshmen or continuing students) or April 1 (incoming transfer students). If you submit the FAFSA after these dates, you may only be considered for the Direct Loan Program and the Federal Pell Grant.
 <h2>What happens after I file the FAFSA?</h2>
@@ -25,7 +25,7 @@ If you are an incoming freshman applicant, you will receive an award letter at t
 </ul>
 *Late paperwork may result in cancelled aid.
 
-Continuing students will receive notices of their verification requirements in April via myUMW and their UMW email account. Verification paperwork for continuing students is due July 1. Continuing students will be able to view their financial aid award through myUMW in May.
+Continuing students will receive notices of their verification requirements in April via <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a> and their UMW email account. Verification paperwork for continuing students is due July 1. Continuing students will be able to view their financial aid award through <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a> in May.
 <h2>Is the financial aid application process different for graduate students?</h2>
 Graduate students must also file the FAFSA in order to be considered for federal aid. Graduate students are only eligible for the Federal Direct Unsubsidized Loan. Gift aid typically comes from departmental scholarships.
 <h2>When will I hear about merit scholarships?</h2>

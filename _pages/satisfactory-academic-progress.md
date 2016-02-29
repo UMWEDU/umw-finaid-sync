@@ -52,17 +52,17 @@ Any student who has exceeded the Maximum Time Frame requirements for the appropr
 <h3>Notification</h3>
 Letters explaining the SAP status along with instructions on the appeal process will be mailed to the student’s permanent home address on file with UMW. It is recommended that students keep their permanent home address up to date with the Registrar’s Office. Email notifications to the student UMW email account will only contain a notice that you should refer to the letter for your status and instructions. UMW will also notify the Student Success Coordinators &amp; Faculty Advisors that a student has been suspended for financial aid eligibility.
 <h2>Treatment of Special Grades</h2>
-<h5>Incomplete Grades:</h5>
+<h3>Incomplete Grades:</h3>
 Courses for which a student receives a grade of “I” are included in the number of attempted credits but don’t count as earned credits for SAP calculations. It is the responsibility of the student to notify the Office of Financial Aid of all grade changes once complete. A review of satisfactory academic progress can’t be conducted until the incomplete grade is changed therefore the student will be considered ineligible for financial aid.
-<h5>Audited Courses:</h5>
+<h3>Audited Courses:</h3>
 Courses in this category do not count as credits attempted or earned.
-<h5>Repeating Courses:</h5>
+<h3>Repeating Courses:</h3>
 All repeated courses affect financial aid SAP calculations. Regardless of whether the student received financial aid or not, all repeated coursework must be counted as attempted credits. The grade earned in the repeated course is the grade that determines the student’s cumulative grade point average. No additional credits will be considered as earned credits for repeated courses for which credits were earned previously. Before registering to repeat a course, a student should verify that he or she is eligible to do so according to Academic Policy. Only courses repeated at UMW can improve the student’s cumulative grade point average.
-<h5>Withdrawals:</h5>
+<h3>Withdrawals:</h3>
 Courses for which a student receives a grade of “W” or “WA” are included in the number of attempted credits but do not count as earned credits for SAP determination.
-<h5>Remedial Courses:</h5>
+<h3>Remedial Courses:</h3>
 The university does not have ESL (English as a second language), CLEP or Remedial coursework.
-<h5>Transfer Credits:</h5>
+<h3>Transfer Credits:</h3>
 Credits are included in both attempted and completed but the grade doesn’t transfer to UMW and therefore is not used in the calculation of the cumulative GPA.
 <h2>Appeal Process</h2>
 Students are permitted to appeal their financial aid suspension; however, the right to appeal must be based on extraordinary, personal circumstances that contributed to student’s inability to meet the SAP requirements. Acceptable circumstances include:

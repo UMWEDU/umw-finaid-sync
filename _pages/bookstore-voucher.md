@@ -13,12 +13,10 @@ The Bookstore Voucher process allows students to use a portion of their financia
 
 The Bookstore Voucher <strong>may not be used online, for rentals, or purchases outside of the University of Mary Washington’s bookstore.  </strong>(Exception: Students attending the Stafford Campus who are required to make purchases online through MBS Direct.)
 <h2>Instructions</h2>
-1.  Fill out the appropriate voucher request form on <a href="https://auth.umw.edu/cas/login?service=https%3A%2F%2Forgsync.com%2Fcas%2Funiversity-of-mary-washington">My UMW</a> Financial Aid portal and submit it to the Office of Financial Aid.  Please ‘join’ the Financial Aid page to access this form
-
-2.  Students must complete a bookstore voucher request each semester to be considered.  Students who are not approved will receive an email via the University of Mary Washington’s campus email.  Those who are approved will receive an email with instructions regarding the use of their voucher.
-
-3.  Regardless of when a student receives notice of their approved voucher, the funds will not be available for use until approximately 1 week before the start of classes for a given term.
-
-4. Bookstore vouchers will be limited to $750 per semester.
-
-5.  If a student’s enrollment level is lessened or aid eligibility is otherwise effected after receipt of a bookstore voucher, the resulting change may cause the student to owe a balance to the University.  These balances are the sole responsibility of the student.
+<ol>
+	<li>Fill out the appropriate voucher request form on <a href="https://auth.umw.edu/cas/login?service=https%3A%2F%2Forgsync.com%2Fcas%2Funiversity-of-mary-washington">myUMW</a> Financial Aid portal and submit it to the Office of Financial Aid.  Please ‘join’ the Financial Aid page to access this form.</li>
+	<li>Students must complete a bookstore voucher request each semester to be considered.  Students who are not approved will receive an email via the University of Mary Washington’s campus email.  Those who are approved will receive an email with instructions regarding the use of their voucher.</li>
+	<li>Regardless of when a student receives notice of their approved voucher, the funds will not be available for use until approximately 1 week before the start of classes for a given term.</li>
+	<li>Bookstore vouchers will be limited to $750 per semester.</li>
+	<li>If a student’s enrollment level is lessened or aid eligibility is otherwise effected after receipt of a bookstore voucher, the resulting change may cause the student to owe a balance to the University.  These balances are the sole responsibility of the student.</li>
+</ol>

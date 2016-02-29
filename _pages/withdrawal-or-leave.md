@@ -1,8 +1,8 @@
 ---
 ID: 41
 post_title: >
-  Withdrawal or Leave of Absence Before
-  Semester Begins
+  Pre-Semester Withdrawal or Leave of
+  Absence
 author: Emily
 post_date: 2016-02-17 14:04:19
 post_excerpt: ""

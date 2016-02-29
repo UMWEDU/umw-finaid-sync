@@ -37,4 +37,4 @@ Students that have earned their undergraduate degree, and are enrolled in a mast
 <h3>Post-Master’s Pathway Programs in Education</h3>
 Students that are enrolled in a Post-Masters Pathway Program in Education are not eligible for Federal Direct Loans. However, they may apply for <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans</a>.
 <h3>Teaching Certification Programs</h3>
-Students in teaching certification programs may be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Undergraduate Loans</a>. Students may also be eligible for private educational loans.
+Students in teaching certification programs may be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Undergraduate Loans</a>. Students may also be eligible for <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans</a>.

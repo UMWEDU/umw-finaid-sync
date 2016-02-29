@@ -11,13 +11,12 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>Free Application for Federal Student Aid</h2>
-The Office of Financial Aid strives to make the FAFSA process as easy as possible for UMW students by offering a variety of workshops and chats throughout the spring both at our campus, and off-site at local high schools.
+The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a> throughout the spring both at our campus, and off-site at local high schools.
 
-The <a href="https://fafsa.ed.gov/">online FAFSA</a><em> </em>will guide you through the different sections of the FAFSA. Begin by clicking the “Start a New FAFSA” button, and follow the directions on the screen.  Here are some tips to completing your FAFSA correctly.
-<h3><a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSAID</a></h3>
-You’ll need an FSA ID, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online. You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.
-<h2>INFORMATION NEEDED TO APPLY</h2>
+The <a href="https://fafsa.ed.gov/">online FAFSA</a> will guide you through the different sections of the FAFSA. Begin by clicking the “Start a New FAFSA” button, and follow the directions on the screen.  Here are some tips to completing your FAFSA correctly.
+<h3>FSAID</h3>
+You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online. You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.
+<h2>Information Needed to Apply</h2>
 The FAFSA asks for information about you (your name, date of birth, address, etc.) and about your financial situation. Depending on your circumstances (for instance, when you filed taxes or what tax form you used), you might need the following information or documents as you fill out the FAFSA:
 <ul>
 	<li>Your Social Security number (it’s important that you enter it correctly on the FAFSA!)</li>
@@ -35,10 +34,9 @@ The FAFSA asks for information about you (your name, date of birth, address, etc
 	<li>Information on cash; savings and checking account balances; investments, including stocks and bonds and real estate but not including the home in which you live; and business and farm assets for you, and for your parents if you are a dependent student</li>
 </ul>
 <h4>Keep these records! You may need them again. Do not mail your records to us.</h4>
-&nbsp;
-<h3>DETERMINING DEPENDENCY STATUS</h3>
+<h3>Determining Dependency Status</h3>
 The FAFSA asks a series of questions that determine whether you are a <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/dependency">dependent or independent student</a> for purposes of applying for federal student aid. If you are a dependent student, you must report parent information, as well as your own information, on your FAFSA.
-<h3>REPORTING FINANCIAL INFORMATION</h3>
+<h3>Reporting Financial Information</h3>
 The FAFSA asks for financial information, including balances of savings and checking accounts and information from tax forms.
 <ul>
 	<li>Use income records for the tax year prior to the academic year for which you are applying. For instance, if you are filling out the 2016-17 FAFSA, you will need 2015 tax information.</li>
@@ -55,7 +53,7 @@ The FAFSA asks for financial information, including balances of savings and chec
 </ol>
 </ol>
 </ol>
-<h3>THE NEXT STEPS</h3>
+<h2>The Next Steps</h2>
 When you click “submit,” the office of Federal Student Aid at the U.S. Department of Education will send you a <em>Student Aid Report</em> (SAR), which is a summary of the FAFSA data you submitted. You’ll get your SAR within three days to three weeks after you submit your FAFSA. Be sure to look over your SAR to make sure you didn’t make a <a href="https://studentaid.ed.gov/sa/fafsa/next-steps#correct-mistakes">mistake on your FAFSA</a>. Find out more about the<a href="https://studentaid.ed.gov/sa/fafsa/next-steps/student-aid-report"> Student Aid Report</a><i> </i>and its purpose, and how the type of FAFSA you file determines when you’ll get the SAR and what you should do with it.
 
 The SAR won’t tell you how much financial aid you’ll get. Instead, if you applied for admission to a college or career school and have been accepted, and you listed that school on your FAFSA, <a href="https://studentaid.ed.gov/sa/fafsa/next-steps/how-calculated">the school will calculate your aid</a> and will send you an electronic or paper <a href="https://studentaid.ed.gov/sa/fafsa/next-steps/comparing-aid-offers">aid offer</a>, sometimes called an award letter, telling you how much aid you’re eligible for at the school.

@@ -15,11 +15,4 @@ wpcf-home-page-grid-inclusion:
 ---
 Students have control over which individual(s) may have access to their academic and financial information and the length of time that the access is granted. Delegated access is limited to financial aid and final grade information only. When completing this process, students will also see the word “proxy” used to describe the access given to their selected individual(s).
 
-To grant access, students must:
-<ul>
-	<li><a href="https://ssb.umw.edu/ssomanager/c/SSB?pkg=bwgkprxy.P_ManageProxy">Add Delegated User</a> (proxy)</li>
-</ul>
-To remove access, students must:
-<ul>
-	<li><a href="https://ssb.umw.edu/ssomanager/c/SSB?pkg=bwgkprxy.P_ManageProxy">Remove Delegated User</a> (proxy)</li>
-</ul>
+To grant access, students must <a href="https://ssb.umw.edu/ssomanager/c/SSB?pkg=bwgkprxy.P_ManageProxy">add delegated user</a> (proxy).

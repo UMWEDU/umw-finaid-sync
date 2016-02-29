@@ -24,7 +24,7 @@ The University of Mary Washington offers financial assistance to students enroll
 
 Students enrolled in other non-degree certificate programs or enrolled less than half time, are only eligible for alternative loans.
 <h2>How and When to Apply</h2>
-Students interested in applying for financial aid must file the Free Application for Federal Student Aid (FAFSA) on -line at <a href="http://www.fafsa.ed.gov/">www.fafsa.ed.gov. </a>In order for results from the FAFSA to download into the UMW financial aid system, students must have applied for admission.
+Students interested in applying for financial aid must file the Free Application for Federal Student Aid (FAFSA) online at <a href="http://www.fafsa.ed.gov/">www.fafsa.ed.gov. </a>In order for results from the FAFSA to download into the UMW financial aid system, students must have applied for admission.
 
 Once students are accepted into a degree program, the Office of Financial Aid determines eligibility for financial assistance. Awarding of financial aid for the Fall term begins in April and in November for the Spring term. <strong>                                                                  </strong>
 

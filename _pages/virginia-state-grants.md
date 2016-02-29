@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/types/virginia-state-grants/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h3><a href="http://www.schev.edu/students/factsheetVGAP.asp">Virginia Guaranteed Assistance Program</a></h3>
 This grant is awarded to undergraduate students with financial need according to the UMW awarding criteria each year. Students must submit the FAFSA each academic year, and meet all other qualifying criteria by the priority filing deadline to be considered. Other criteria include being a dependent student and graduating from a VA High School. Virginia residents that file the FAFSA by the priority filing deadline are automatically considered for this award

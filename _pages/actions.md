@@ -11,7 +11,8 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>How To Accept, Decline, or Adjust Federal Direct Student Loans</h2>
+<strong>How To Accept, Decline, or Adjust Federal Direct Student Loans</strong>
+
 Students can now log into the <a href="https://orgsync.com/82489/chapter">myUMW portal</a> to web accept or web decline student loans.   Please follow the directions below:
 <ul>
 	<li>Login to <a href="https://orgsync.com/82489/chapter">myUMW</a> (You will need to provide your credentials, if you have an issue finding this, please contact the IT Help Desk at <a href="tel:%28540%29%20654-2255">(540) 654-2255</a>)</li>

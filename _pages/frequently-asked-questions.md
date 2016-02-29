@@ -31,7 +31,7 @@ Graduate students must also file the FAFSA in order to be considered for federal
 <h2>When will I hear about merit scholarships?</h2>
 The Office of Admissions notifies students of merit scholarship awards with admission offers. UMW Foundation Scholarships are determined in June and added to student financial aid packages at that time.
 <h2>Are there any other scholarships available?</h2>
-For consideration of UMW Foundation Scholarships, submit the Scholarship Application (available through the UMW Online Scholarship Manager) by June 1. The scholarships available through this application are both merit- and need-based. All need-based scholarships require financial need demonstrated through the FAFSA. If you have declared your major, you can also check your department’s website for information about departmental scholarships.
+For consideration of UMW Foundation Scholarships, submit the scholarship application (available through the UMW <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>) by June 1. The scholarships available through this application are both merit- and need-based. All need-based scholarships require financial need demonstrated through the FAFSA. If you have declared your major, you can also check your department’s website for information about departmental scholarships.
 <h2>How do I apply for a job on campus?</h2>
 Students may complete the <a href="http://www.umw.edu/financialaid/student-employment/applicants/apply/">work application</a> at any time; however, students who have filed a FAFSA and been proven to have demonstrated financial need are considered for jobs first.
 <h2>What are the costs for tuition, fees, room and board?</h2>

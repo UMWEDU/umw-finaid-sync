@@ -12,7 +12,6 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>Satisfactory Academic Progress (SAP) Policy</h2>
-<h4>(New policy effective Fall Semester 2014)</h4>
 In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each semester attended (fall, spring and summer semesters).
 
 The following definitions apply to this policy:
@@ -77,7 +76,7 @@ Students are permitted to appeal their financial aid suspension; however, the ri
 </ul>
 <strong>The appeal of a financial aid suspension is a separate process from an appeal of academic suspension. The two processes are not related and approval of an academic suspension does not automatically remove the suspension from financial aid. </strong>
 <h2>Satisfactory Academic Progress (SAP) Appeals</h2>
-Students who wish to appeal must complete and submit a <a href="http://adminfinance.umw.edu/financialaid/files/2014/12/Satisfactory-Academic-Progress-Appeal-form-050314.docx">SAP Appeal form</a> together with all required documents within 15 days of the notification that they have been placed on suspension.
+Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SAP-Appeal-Form.docx" rel="">Satisfactory Academic Process Appeal Form</a> [.doc] together with all required documents within 15 days of the notification that they have been placed on suspension.
 
 SAP Appeals should be submitted to the Office of Financial Aid either by mail, fax or in person to:
 

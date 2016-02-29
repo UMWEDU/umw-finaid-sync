@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/timelines/transfer-student/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Applying for financial aid can be a confusing process for many transfer students. Below is a simple timeline to help keep students and families on track!
 <table>

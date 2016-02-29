@@ -1,6 +1,6 @@
 ---
 ID: 77
-post_title: 'Consumer Information [empty]'
+post_title: Consumer Information
 author: Emily
 post_date: 2016-02-22 17:33:20
 post_excerpt: ""

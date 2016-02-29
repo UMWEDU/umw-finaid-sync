@@ -13,7 +13,6 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>Satisfying your Financial Aid Tax Requirements for Verification</h2>
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
 
 Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.

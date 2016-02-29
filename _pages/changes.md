@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/applicants/changes/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Keeping your address current is important for the mail distribution of your W-2. Please completely follow the instructions below to update your address:
 <ul>
@@ -24,5 +26,5 @@ Please submit a new <a href="http://adminfinance.umw.edu/financialaid/files/2011
 <ul>
 	<li>A voided check, <strong>OR</strong></li>
 	<li>A screen print of your account and routing numbers from online banking, <strong>OR</strong></li>
+	<li>A signature from your bank verifying the account and routing numbers on your form</li>
 </ul>
-A signature from your bank verifying the account and routing numbers on your form

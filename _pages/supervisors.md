@@ -12,7 +12,7 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <div class="one-half first">
-<h2>Tasks</h2>
+<h2>Tasks & Support</h2>
 [children]
 
 </div>

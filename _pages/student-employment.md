@@ -20,7 +20,7 @@ wpcf-homepage-copy:
     	<li><a href="https://www.umw.edu/financialaid/student-employment/applicants/apply-for-open-jobs/">Apply for open jobs</a></li>
     	<li>Forms: <a href="https://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/">new</a> and <a href="https://www.umw.edu/financialaid/student-employment/applicants/returning-student-employees/">returning</a> student employees</li>
     	<li><a href="https://www.umw.edu/financialaid/student-employment/supervisors/hire/">Hiring</a> and <a href="https://www.umw.edu/financialaid/student-employment/supervisors/">supervisor resources</a></li>
-    	<li>Payroll and MyTime</li>
+    	<li><a href="https://www.umw.edu/financialaid/student-employment/applicants/payroll/">Payroll and MyTime</a></li>
     </ul>
 ---
 The University of Mary Washington employs students for 650 positions across 95 departments. The Office of Financial Aid coordinates the hiring procedures for each of these positions.

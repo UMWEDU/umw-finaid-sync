@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/completing-the-fafsa/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Free Application for Federal Student Aid</h2>
 The Office of Financial Aid strives to make the FAFSA process as easy as possible for UMW students by offering a variety of workshops and chats throughout the spring both at our campus, and off-site at local high schools.

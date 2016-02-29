@@ -1,8 +1,6 @@
 ---
 ID: 20
-post_title: >
-  Financial Aid Events, Workshops, and
-  Chats
+post_title: Financial Aid Events and Chats
 author: Emily
 post_date: 2016-02-10 13:53:59
 post_excerpt: ""

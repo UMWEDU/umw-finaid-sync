@@ -9,3 +9,6 @@ permalink: >
   http://www.umw.edu/financialaid/process/timelines/
 published: true
 ---
+Applying for Financial Aid can be a confusing process for many.  Below are simple timelines to help keep students and families on track!
+
+[children]

@@ -21,6 +21,6 @@ First- time freshmen and transfer students are automatically considered for sele
 <h3>Washington and Alvey Programs</h3>
 These endowed scholarship programs equate to the cost of tuition, fees, room and board. Incoming freshmen may apply for these programs through the <a href="http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/washington-and-alvey/">Office of Admissions</a>.
 <h3>Scholarships from non-UMW Sources</h3>
-Students that are receiving scholarships from non-UMW sources (high school, religious organization, etc.) Along with the scholarship check, the donor should be sure to indicate the student recipient’s name and student ID number.  <del><em>Click here</em> for more information about Scholarships from non-UMW sources.</del>
+Students that are receiving scholarships from non-UMW sources (high school, religious organization, etc.) Along with the scholarship check, the donor should be sure to indicate the student recipient’s name and student ID number.<del></del>
 <h3>Scholarships for UMW Employee Children</h3>
 Scholarships are available for employee’s dependent children.  For more information regarding these scholarships, please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> .

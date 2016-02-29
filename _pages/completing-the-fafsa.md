@@ -14,7 +14,7 @@ wpcf-home-page-grid-inclusion:
 The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a> throughout the spring both at our campus, and off-site at local high schools.
 
 The <a href="https://fafsa.ed.gov/">online FAFSA</a> will guide you through the different sections of the FAFSA. Begin by clicking the “Start a New FAFSA” button, and follow the directions on the screen.  Here are some tips to completing your FAFSA correctly.
-<h3>FSAID</h3>
+<h2>FSAID</h2>
 You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online. You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.
 <h2>Information Needed to Apply</h2>
 The FAFSA asks for information about you (your name, date of birth, address, etc.) and about your financial situation. Depending on your circumstances (for instance, when you filed taxes or what tax form you used), you might need the following information or documents as you fill out the FAFSA:

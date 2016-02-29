@@ -8,11 +8,13 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/enrollment-requirements/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <table>
 <tbody>
 <tr>
-<td><strong></strong></td>
+<td></td>
 <td><strong>Full time (12+)</strong></td>
 <td><strong>¾ Time (9-11)</strong></td>
 <td><strong>½ Time (6-8)</strong></td>

@@ -22,7 +22,7 @@ Keeping your address current is important for the mail distribution of your W-2.
 	<li>Log out</li>
 </ul>
 <h2>Change of Direct Depost</h2>
-Please submit a new <a href="http://adminfinance.umw.edu/financialaid/files/2011/09/Direct-Deposit-Form-1-10.pdf">Direct Deposit form</a> to the Office of Financial Aid and mark “Change” on the form. New forms should include one of the following:
+Please submit a new <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Direct-Deposit-Form.pdf" rel="">direct deposit form</a> to the Office of Financial Aid and mark “Change” on the form. New forms should include one of the following:
 <ul>
 	<li>A voided check, <strong>OR</strong></li>
 	<li>A screen print of your account and routing numbers from online banking, <strong>OR</strong></li>

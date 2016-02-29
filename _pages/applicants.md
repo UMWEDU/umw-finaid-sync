@@ -1,6 +1,6 @@
 ---
 ID: 63
-post_title: 'Applicants [empty]'
+post_title: Applicants
 author: Emily
 post_date: 2016-02-22 13:34:32
 post_excerpt: ""

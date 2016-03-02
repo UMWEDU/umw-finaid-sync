@@ -11,7 +11,6 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>University of Mary Washington</h2>
 The primary goal of the financial aid office and financial aid professionals is to help students achieve their educational potential by providing appropriate financial resources. To this end, this Statement, adopted from the National Association of Student Financial Aid Administrators (NASFAA), provides the financial aid office with a set of principles that serves as a common foundation for accepted standards of conduct.
 
 <strong>Staff Members in the Office of Financial Aid shall:</strong>

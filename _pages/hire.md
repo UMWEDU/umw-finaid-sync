@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890475542;s:3:"url";s:68:"http://www.umw.edu/financialaid/student-employment/supervisors/hire/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890475542";}s:4:"time";i:1456938730;}}'
 ---
 If you would like to hire a student employee and don’t know where to begin, then this page is for you. Please find below the step-by-step process for hiring a student employee:
 <ol>
@@ -44,6 +46,6 @@ If you would like to hire a student employee and don’t know where to begin, th
 	<li>The student submits the completed paperwork, including IDs for the Form I-9, to the Office of Financial Aid.</li>
 </ol>
 <ol start="8">
-	<li>The Student Employment Coordinator follows up with the supervisor and the student via UMW e-mail with an official work authorization. <strong>NOTE: In order to ensure compliance with federal and institutional employment policies, students are NOT to begin work until they have been authorized to work by the Office of Financial Aid. See the <a href="http://www.umw.edu/financialaid/student-employment/applicants/federal-form-i-9-faq/">Federal Form I-9 FAQ</a> page for more details.</strong></li>
+	<li>The Student Employment Coordinator follows up with the supervisor and the student via UMW e-mail with an official work authorization. <strong>NOTE: In order to ensure compliance with federal and institutional employment policies, students are NOT to begin work until they have been authorized to work by the Office of Financial Aid. See the <a href="http://www.umw.edu/financialaid/student-employment/applicants/i-9/">Federal Form I-9 FAQ</a> page for more details.</strong></li>
 </ol>
 If you have any questions at all about the hiring process, please contact Laura Needham at <a href="mailto:lneedham@umw.edu">lneedham@umw.edu</a> or (540) 654-1685.

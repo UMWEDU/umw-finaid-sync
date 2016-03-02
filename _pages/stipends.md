@@ -20,7 +20,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Once a stipend for a position has been approved:</h2>
 <ol>
 	<li>Create a stipend contract for the position. Contact the Student Employment Coordinator for a sample. This contract will eventually be signed by the students who are assigned this position.</li>
-	<li>Complete the hiring process as detailed on the “<a href="http://www.umw.edu/financialaid/student-employment/supervisors/hire-a-student-employee/">Hire a Student Employee</a>” page as normal.</li>
+	<li>Complete the hiring process as detailed on the “<a href="http://www.umw.edu/financialaid/student-employment/supervisors/hire/">Hire a Student Employee</a>” page as normal.</li>
 	<li>After a student has been hired for the position, the student needs to sign a copy of the stipend contract. The student may sign the contract before receiving a work authorization, but the student cannot actually begin working until he has been authorized to work.</li>
 	<li>Send a copy of the signed contract to the Student Employment Coordinator in Office of Financial Aid, Lee Hall 230.</li>
 </ol>

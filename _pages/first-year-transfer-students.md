@@ -16,6 +16,6 @@ wpcf-homepage-copy:
     	<li><a href="/financialaid/the-financial-aid-process/timelines/freshman-timeline/">Freshman</a> and <a href="https://www.umw.edu/financialaid/the-financial-aid-process/timelines/transfer-student-timeline/">Transfer Student</a> Timelines</li>
     	<li><a href="https://www.umw.edu/financialaid/process/completing-the-fafsa/">Completing the FAFSA</a></li>
     	<li><a href="http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/">Admissions Merit Scholarships</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/general-information/communication/">FERPA and Families</a></li>
+    	<li><a href="https://www.umw.edu/financialaid/ferpa/">FERPA and Families</a></li>
     </ul>
 ---

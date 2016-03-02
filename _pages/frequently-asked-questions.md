@@ -41,7 +41,7 @@ Students are considered for federal loans when they apply for federal student ai
 
 A <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Parent Plus Loan</a> is an educational loan that a parent may use on behalf of their dependent student. This is a credit-based loan. Parents may apply for the <a href="http://www.studentloans.gov">PLUS Loan</a> after June 1 each year at studentloans.gov.
 
-Students may also apply for <a href="http://adminfinance.umw.edu/financialaid/2012-2013-loan-instructions-and-forms/private-loans/">private educational loans</a>.
+Students may also apply for <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans</a>.
 <h2>How do I request consideration for special circumstances?</h2>
 Since funds are limited, all requests for additional aid must be made formally using the <a href="http://www.umw.edu/financialaid/process/verification/special-situations/">special circumstances instructions</a>. Students may complete these requests after April 1 if they fall into one of the applicable situations. If approved, the student may be eligible for a conversion of unsubsidized loans to subsidized loans, or a Federal Pell Grant.
 <h2>When is my bill due and what other options are available?</h2>

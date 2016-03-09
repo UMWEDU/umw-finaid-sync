@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/financialaid/general-information-2016-2017/
 published: true
 wpsi_page_checks:
-  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15991334904;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=176";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991334904";}s:4:"time";i:1457548079;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15991334904;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=176";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991334904";}s:4:"time";i:1457547213;}}'
+  - 'a:3:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15991335986;s:3:"url";s:62:"http://www.umw.edu/financialaid/general-information-2016-2017/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991335986";}s:4:"time";i:1457548287;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15991334904;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=176";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991334904";}s:4:"time";i:1457548079;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15991334904;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=176";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991334904";}s:4:"time";i:1457547213;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -63,7 +63,7 @@ There are situations that are not considered to be special circumstances and the
 	<li>independent students or parents (dependent students) who voluntarily terminate full-time employment or</li>
 	<li>family indebtedness from mortgages, excessive credit card debt or personal loans not associated with medical issues.</li>
 </ul>
-Special circumstance situations are reviewed on a case-by-case basis.   A special form is available on the financial aid web page at <a href="http://www.umw.edu/financialaid">http://www.umw.edu/financialaid</a>  under ‘<em>2016-17 Forms’</em>.  Please submit all documentation together in one packet and note the student’s Banner ID number on each page.
+Special circumstance situations are reviewed on a case-by-case basis. A special form is available on the <a href="http://www.umw.edu/financialaid/forms/">financial aid website</a>. Please submit all documentation together in one packet and note the student’s Banner ID number on each page.
 <h3><a href="https://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/">Satisfactory Academic Progress</a></h3>
 Undergraduate students are required under federal regulation to maintain progress toward graduation and complete their degree within 6 years of beginning classes for their Bachelor’s degree.
 

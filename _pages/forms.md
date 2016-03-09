@@ -1,27 +1,12 @@
 ---
-ID: 25
-post_title: FAFSA Verification Forms
+ID: 180
+post_title: Forms
 author: Emily
-post_date: 2016-02-10 14:16:49
+post_date: 2016-03-09 13:53:46
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/financialaid/process/verification/forms/
+permalink: http://www.umw.edu/financialaid/forms/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15991338185;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=180";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991338185";}s:4:"time";i:1457549606;}}'
 ---
-Students selected for verification are required to complete a verification form. There are several different types of verifications (V1, V4, V5, V6). Each verification type has different requirements based on students’ unique situations.
-
-Some types of documentation that may be required are:
-<ul>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Verification-Form-V1-V6.docx" rel="">V1 and V6 Verification Worksheet</a></li>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Verification-Form-V4.docx" rel="">V4 Verification Worksheet</a></li>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Verification-Form-V5.docx" rel="">V5 Verification Worksheet</a></li>
-	<li><a href="http://www.irs.gov">IRS Tax Return Transcript</a></li>
-	<li>Copies of W2s, 1099s, or other wage statements</li>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Income-Clarification-Form.doc" rel="">Income Clarification Form</a></li>
-	<li>Documentation of Child Support, received or paid</li>
-	<li>Leave and Earning Statement</li>
-</ul>
-A list of financial aid requirements can be viewed at any time through the student myUMW portal by accessing the <a href="https://orgsync.com/82489/chapter">Eagle Gateway</a>.

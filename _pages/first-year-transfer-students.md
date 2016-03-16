@@ -7,6 +7,8 @@ post_excerpt: ""
 layout: page
 permalink: /financialaid/process/timelines/
 published: true
+wpsi_page_checks:
+  - 'a:2:{i:0;O:8:"stdClass":3:{s:7:"message";s:51:"Unable to check url, domain does not belong to site";s:4:"type";s:12:"RequestError";s:4:"time";i:1458150597;}i:1;O:8:"stdClass":3:{s:7:"message";s:51:"Unable to check url, domain does not belong to site";s:4:"type";s:12:"RequestError";s:4:"time";i:1456938514;}}'
 wpcf-home-page-grid-inclusion:
   - "1"
 wpcf-homepage-copy:
@@ -17,7 +19,6 @@ wpcf-homepage-copy:
     	<li><a href="https://www.umw.edu/financialaid/process/completing-the-fafsa/">Completing the FAFSA</a></li>
     	<li><a href="http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/">Admissions Merit Scholarships</a></li>
     	<li><a href="https://www.umw.edu/financialaid/ferpa/">FERPA and Families</a></li>
+    	<li><a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">Estimated Cost of Attendance</a></li>
     </ul>
-wpsi_page_checks:
-  - 'a:1:{i:0;O:8:"stdClass":3:{s:7:"message";s:51:"Unable to check url, domain does not belong to site";s:4:"type";s:12:"RequestError";s:4:"time";i:1456938514;}}'
 ---

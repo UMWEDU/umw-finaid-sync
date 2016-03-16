@@ -32,7 +32,7 @@ Applying for financial aid can be a confusing process for many transfer students
 </tr>
 <tr>
 <td><strong>April 1</strong></td>
-<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.</td>
+<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the April 1 deadline. All undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will also be awarded at that time if available.</td>
 </tr>
 <tr>
 <td><strong>May 1</strong></td>

@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890466369;s:3:"url";s:59:"http://www.umw.edu/financialaid/frequently-asked-questions/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890466369";}s:4:"time";i:1456938610;}}'
 ---
 Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> if you need more information.
 <h2>How do I apply for financial aid?</h2>
@@ -19,9 +21,9 @@ In order to be considered for federal, state, and institutional financial aid, y
 <h2>What happens after I file the FAFSA?</h2>
 If you are an incoming freshman applicant, you will receive an award letter at the address listed on your FAFSA by March 16. This award letter provides the following:
 <ul>
-	<li>Overview of your information based on FAFSA results in the top right corner.</li>
-	<li>Breakdown of your financial aid offers in the body of the award letter.</li>
-	<li>If you are selected for verification, a list of documents that must be submitted to the Office of Financial Aid by July 1 at the bottom of the letter.</li>
+ 	<li>Overview of your information based on FAFSA results in the top right corner.</li>
+ 	<li>Breakdown of your financial aid offers in the body of the award letter.</li>
+ 	<li>If you are selected for verification, a list of documents that must be submitted to the Office of Financial Aid by July 1 at the bottom of the letter.</li>
 </ul>
 *Late paperwork may result in cancelled aid.
 
@@ -31,7 +33,7 @@ Graduate students must also file the FAFSA in order to be considered for federal
 <h2>When will I hear about merit scholarships?</h2>
 The Office of Admissions notifies students of merit scholarship awards with admission offers. UMW Foundation Scholarships are determined in June and added to student financial aid packages at that time.
 <h2>Are there any other scholarships available?</h2>
-For consideration of UMW Foundation Scholarships, submit the scholarship application (available through the UMW <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>) by June 1. The scholarships available through this application are both merit- and need-based. All need-based scholarships require financial need demonstrated through the FAFSA. If you have declared your major, you can also check your department’s website for information about departmental scholarships.
+For consideration of UMW Foundation Scholarships, submit the scholarship application (available through the UMW <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>) by May 1. The scholarships available through this application are both merit- and need-based. All need-based scholarships require financial need demonstrated through the FAFSA. If you have declared your major, you can also check your department’s website for information about departmental scholarships.
 <h2>How do I apply for a job on campus?</h2>
 Students may complete the <a href="http://www.umw.edu/financialaid/student-employment/applicants/apply/">work application</a> at any time; however, students who have filed a FAFSA and been proven to have demonstrated financial need are considered for jobs first.
 <h2>What are the costs for tuition, fees, room and board?</h2>

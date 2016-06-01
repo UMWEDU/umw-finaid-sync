@@ -13,160 +13,162 @@ wpsi_page_checks:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h3>2016-2017 <u>Estimated</u> Cost of Attendance (2% tuition &amp; fee increase)</h3>
-Undergraduate Students based on Full Time Enrollment (12 – 18 credits)
-<h2>Virginia Residents</h2>
+<h2>2016-2017 Actual Cost of Attendance</h2>
+<h3>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h3>
+<h4>VIRGINA RESIDENTS</h4>
 <table>
 <tbody>
 <tr>
-<td width="332"></td>
-<td width="173">On Campus</td>
-<td width="180">Living with Parents</td>
-<td width="210">Off Campus</td>
+<td width="332"><strong> </strong></td>
+<td width="173"><strong>ON CAMPUS</strong></td>
+<td width="180"><strong>LIVING WITH PARENTS</strong></td>
+<td width="210"><strong>OFF CAMPUS</strong></td>
 </tr>
 <tr>
-<td width="332">Tuition</td>
-<td width="173">$5,716</td>
-<td width="180">$5,716</td>
-<td width="210">$5,716</td>
+<td width="332"><strong>Tuition</strong></td>
+<td width="173">$5,772</td>
+<td width="180">$5,772</td>
+<td width="210">$5,772</td>
 </tr>
 <tr>
-<td width="332">Education and General Fees</td>
-<td width="173">2,154</td>
-<td width="180">2,154</td>
-<td width="210">2,154</td>
+<td width="332"><strong>Education and General Fees</strong></td>
+<td width="173">2,236</td>
+<td width="180">2,236</td>
+<td width="210">2,236</td>
 </tr>
 <tr>
-<td width="332">Auxiliary Fees</td>
-<td width="173">3,420</td>
-<td width="180">3,420</td>
-<td width="210">3,420</td>
+<td width="332"><strong>Auxiliary Fees</strong></td>
+<td width="173">3,622</td>
+<td width="180">3,622</td>
+<td width="210">3,622</td>
 </tr>
 <tr>
-<td width="332">Meal Plan Allowance (Average)</td>
+<td width="332"><strong>Meal Plan Allowance (Average)</strong></td>
 <td width="173">3,792</td>
 <td width="180">---</td>
 <td width="210">---</td>
 </tr>
 <tr>
-<td width="332">Housing Allowance (Average)</td>
+<td width="332"><strong>Housing Allowance (Average)</strong></td>
 <td width="173">7,326</td>
 <td width="180">---</td>
 <td width="210">---</td>
 </tr>
 <tr>
-<td width="332"><strong>Charges Billed to Students:</strong></td>
-<td width="173"><strong>$22,408</strong></td>
-<td width="180"><strong>$11,290</strong></td>
-<td width="210"><strong>$11,290</strong></td>
+<td width="332"><strong>CHARGES BILLED TO STUDENTS:</strong></td>
+<td width="173"><strong>$22,748</strong></td>
+<td width="180"><strong>$11,630</strong></td>
+<td width="210"><strong>$11,630</strong></td>
 </tr>
 <tr>
-<td width="332">Books and Supplies</td>
-<td width="173">$1,200</td>
-<td width="180">$1,200</td>
-<td width="210">$1,200</td>
-</tr>
-<tr>
-<td width="332">Personal Expenses</td>
-<td width="173">1,500</td>
-<td width="180">1,500</td>
-<td width="210">1,500</td>
-</tr>
-<tr>
-<td width="332">Transportation</td>
-<td width="173">1,392</td>
-<td width="180">2,400</td>
-<td width="210">1,392</td>
-</tr>
-<tr>
-<td width="332">Housing &amp; Food Allowance</td>
-<td width="173">---</td>
-<td width="180">4,500</td>
-<td width="210">11,118</td>
-</tr>
-<tr>
-<td width="332"><strong>TOTAL COSTS</strong></td>
-<td width="173"><strong>$26,500</strong></td>
-<td width="180"><strong>$20,890</strong></td>
-<td width="210"><strong>$26,500</strong></td>
-</tr>
-</tbody>
-</table>
-<h2>Non-Virginia Residents</h2>
-<table>
-<tbody>
-<tr>
-<td width="332"></td>
-<td width="173">On Campus</td>
-<td width="180">Living with Parents</td>
-<td width="210">Off Campus</td>
-</tr>
-<tr>
-<td width="332">Tuition</td>
-<td width="173">$20,164</td>
-<td width="180">$20,164</td>
-<td width="210">$20,164</td>
-</tr>
-<tr>
-<td width="332">Education and General Fees</td>
-<td width="173">2,154</td>
-<td width="180">2,154</td>
-<td width="210">2,154</td>
-</tr>
-<tr>
-<td width="332">Auxiliary Fees</td>
-<td width="173">3,420</td>
-<td width="180">3,420</td>
-<td width="210">3,420</td>
-</tr>
-<tr>
-<td width="332">Meal Plan Allowance (Average)</td>
-<td width="173">3,792</td>
-<td width="180">---</td>
-<td width="210">---</td>
-</tr>
-<tr>
-<td width="332">Housing Allowance (Average)</td>
-<td width="173">7,326</td>
-<td width="180">---</td>
-<td width="210">---</td>
-</tr>
-<tr>
-<td width="332"><strong>Charges Billed to Students:</strong></td>
-<td width="173"><strong>$36,856</strong></td>
-<td width="180"><strong>$25,738</strong></td>
-<td width="210"><strong>$25,738</strong></td>
-</tr>
-<tr>
-<td width="332">Books and Supplies</td>
+<td width="332"><strong>Books and Supplies</strong></td>
 <td width="173">1,200</td>
 <td width="180">1,200</td>
 <td width="210">1,200</td>
 </tr>
 <tr>
-<td width="332">Personal Expenses</td>
+<td width="332"><strong>Personal Expenses</strong></td>
 <td width="173">1,500</td>
 <td width="180">1,500</td>
 <td width="210">1,500</td>
 </tr>
 <tr>
-<td width="332">Transportation</td>
-<td width="173">1,704</td>
-<td width="180">2,082</td>
-<td width="210">1,704</td>
+<td width="332"><strong>Transportation</strong></td>
+<td width="173">1,392</td>
+<td width="180">2,400</td>
+<td width="210">1,392</td>
 </tr>
 <tr>
-<td width="332">Housing and Food Allowance</td>
+<td width="332"><strong>Housing &amp; Food Allowance</strong></td>
 <td width="173">---</td>
 <td width="180">4,500</td>
 <td width="210">11,118</td>
 </tr>
 <tr>
 <td width="332"><strong>TOTAL COSTS</strong></td>
-<td width="173"><strong>$41,260</strong></td>
-<td width="180"><strong>$35,020</strong></td>
-<td width="210"><strong>$41,260</strong></td>
+<td width="173"><strong>$26,840</strong></td>
+<td width="180"><strong>$21,230</strong></td>
+<td width="210"><strong>$26,840</strong></td>
 </tr>
 </tbody>
 </table>
-"Charges Billed to Students" are estimated charges paid directly to UMW and vary based on student choices. Other costs are additional estimated expenses that families can expect throughout the academic year and can also vary from student to student.
+<h4>NON-VIRGINIA RESIDENTS</h4>
+<table width="894">
+<tbody>
+<tr>
+<td width="332"><strong> </strong></td>
+<td width="173"><strong>ON CAMPUS</strong></td>
+<td width="180"><strong>LIVING WITH PARENTS</strong></td>
+<td width="210"><strong>OFF CAMPUS</strong></td>
+</tr>
+<tr>
+<td width="332"><strong>Tuition</strong></td>
+<td width="173">$20,362</td>
+<td width="180">$20,362</td>
+<td width="210">$20,362</td>
+</tr>
+<tr>
+<td width="332"><strong>Education and General Fees</strong></td>
+<td width="173">2,236</td>
+<td width="180">2,236</td>
+<td width="210">2,236</td>
+</tr>
+<tr>
+<td width="332"><strong>Auxiliary Fees</strong></td>
+<td width="173">3,622</td>
+<td width="180">3,622</td>
+<td width="210">3,622</td>
+</tr>
+<tr>
+<td width="332"><strong>Meal Plan Allowance (Average)</strong></td>
+<td width="173">3,792</td>
+<td width="180">---</td>
+<td width="210">---</td>
+</tr>
+<tr>
+<td width="332"><strong>Housing Allowance (Average)</strong></td>
+<td width="173">7,326</td>
+<td width="180">---</td>
+<td width="210">---</td>
+</tr>
+<tr>
+<td width="332"><strong>CHARGES BILLED TO STUDENTS:</strong></td>
+<td width="173"><strong>$37,338</strong></td>
+<td width="180"><strong>$26,220</strong></td>
+<td width="210"><strong>$26,220</strong></td>
+</tr>
+<tr>
+<td width="332"><strong>Books and Supplies</strong></td>
+<td width="173">1,200</td>
+<td width="180">1,200</td>
+<td width="210">1,200</td>
+</tr>
+<tr>
+<td width="332"><strong>Personal Expenses</strong></td>
+<td width="173">1,500</td>
+<td width="180">1,500</td>
+<td width="210">1,500</td>
+</tr>
+<tr>
+<td width="332"><strong>Transportation</strong></td>
+<td width="173">1,702</td>
+<td width="180">2,080</td>
+<td width="210">1,702</td>
+</tr>
+<tr>
+<td width="332"><strong>Housing and Food Allowance</strong></td>
+<td width="173">---</td>
+<td width="180">4,500</td>
+<td width="210">11,118</td>
+</tr>
+<tr>
+<td width="332"><strong>TOTAL COSTS</strong></td>
+<td width="173"><strong>$41,740</strong></td>
+<td width="180"><strong>$35,500</strong></td>
+<td width="210"><strong>$41,740</strong></td>
+</tr>
+</tbody>
+</table>
+<strong>‘CHARGES BILLED TO STUDENTS’ are estimated charges paid directly to UMW and vary based on student choices. Other costs are additional estimated expenses that families can expect throughout the academic year and can also vary from student to student.</strong>
+
+Please refer to the back of this form for additional information regarding college costs, billing and payment plan options.

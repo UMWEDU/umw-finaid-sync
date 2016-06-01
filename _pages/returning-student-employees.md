@@ -16,11 +16,8 @@ Supervisors must receive a work authorization from the Office of Financial Aid b
 In some cases, returning student employees may be prompted via UMW e-mail to submit additional forms.
 <h2>Submit Online:</h2>
 <ul>
-	<li>Required Forms for Work Authorization (Coming Summer 2016!)</li>
-</ul>
-<h2>Submit In-Person to Office of Financial Aid:</h2>
-<ul>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/CampusEmploymentApplication.pdf" rel="">Campus Employment Application</a></li>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Work-Agreement.pdf" rel="">Student Employee Work Agreement</a></li>
-	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Confidentiality-Agreement.pdf" rel="">Confidentiality Agreement Form</a></li>
+ 	<li>Required Forms for Work Authorization (Coming Summer 2016!)</li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/CampusEmploymentApplication.pdf" rel="">Campus Employment Application</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Work-Agreement.pdf" rel="">Student Employee Work Agreement</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Confidentiality-Agreement.pdf" rel="">Confidentiality Agreement Form</a></li>
 </ul>

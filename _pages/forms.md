@@ -27,6 +27,6 @@ Forms/Info:
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Financial-Aid-Consortium-Agreement.docx">Financial Aid Consortium Agreement</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Parent-Plus-Loan-Request-Form.docx">Parent Plus Loan Request Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2016-2017GeneralInformation.pdf" rel="">General Information</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/cost-of-attendance/">Estimated Cost of Attendance</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/COA-2016_2017-REVISED.pdf">2016-2017 Cost of Attendance</a></li>
 </ul>
 &nbsp;

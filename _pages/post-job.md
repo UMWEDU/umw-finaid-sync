@@ -14,7 +14,7 @@ wpcf-home-page-grid-inclusion:
 <strong>Are you looking to hire student employees to help out in your department?
 </strong>You’re in luck, because we have a ton of students who are looking to work! They just need to know what opportunities are out there.
 
-If you are hiring, please contact the Student Employment Coordinator at<a href="mailto:studentemployment@umw.edu"> studentemployment@umw.edu</a> or (540) 654-1685, so that she can advertise your position on the <a href="https://orgsync.com/129314/chapter">Student Employment portal</a> on myUMW. Please include:
+If you are hiring, please contact the Student Employment Coordinator at<a href="mailto:studentemployment@umw.edu"> studentemployment@umw.edu</a> or (540) 654-1685, so that they can advertise your position on the <a href="https://orgsync.com/129314/chapter">Student Employment portal</a> on myUMW. Please include:
 <ul>
  	<li>Name of position available</li>
  	<li>Number of positions available</li>

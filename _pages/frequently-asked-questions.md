@@ -8,12 +8,12 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/frequently-asked-questions/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890466369;s:3:"url";s:59:"http://www.umw.edu/financialaid/frequently-asked-questions/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890466369";}s:4:"time";i:1456938610;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> if you need more information.
+Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at 540-654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> if you need more information.
 <h2>How do I apply for financial aid?</h2>
 Complete the 2015-2016 <a href="http://FAFSA.ed.gov">Free Application for Federal Student Aid</a>. The Office of Financial Aid will then contact you through mail (first-time students) or email (continuing students) regarding any additional requirements that are needed. Requirements can also be viewed through <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a>.
 <h2>When do I apply for financial aid?</h2>
@@ -47,4 +47,4 @@ Students may also apply for <a href="http://www.umw.edu/financialaid/types/loans
 <h2>How do I request consideration for special circumstances?</h2>
 Since funds are limited, all requests for additional aid must be made formally using the <a href="http://www.umw.edu/financialaid/process/verification/special-situations/">special circumstances instructions</a>. Students may complete these requests after April 1 if they fall into one of the applicable situations. If approved, the student may be eligible for a conversion of unsubsidized loans to subsidized loans, or a Federal Pell Grant.
 <h2>When is my bill due and what other options are available?</h2>
-The fall bill is usually due in late July. Payment plan information will be sent to students and parents during the spring semester of the previous academic year. Additional questions about payment plans and coordination of prepaid plans should be directed to the Office of Student Accounts at <a href="mailto:umwbills@umw.edu">umwbills@umw.edu</a> or (540) 654-1250.
+The fall bill is usually due in late July. Payment plan information will be sent to students and parents during the spring semester of the previous academic year. Additional questions about payment plans and coordination of prepaid plans should be directed to the Office of Student Accounts at <a href="mailto:umwbills@umw.edu">umwbills@umw.edu</a> or 540-654-1250.

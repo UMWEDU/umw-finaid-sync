@@ -18,5 +18,4 @@ In some cases, returning student employees may be prompted via UMW e-mail to sub
 <ul>
  	<li><a href="https://orgsync.com/129314/forms/166199" rel="">Campus Employment Application</a></li>
  	<li><a href="https://orgsync.com/129314/forms/188994" rel="">Student Employee Work Agreements</a></li>
- 	<li><a href="https://orgsync.com/129314/forms/189118">Summer 2016 Addendum</a></li>
 </ul>

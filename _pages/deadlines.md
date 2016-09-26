@@ -12,9 +12,11 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>Financial Aid Dates and Deadlines</h2>
-Submitting financial aid information before the published deadline will ensure that students receive the maximum amount of financial aid for which they are eligible.
+Submitting financial aid information before the published FAFSA and Verification deadlines will ensure that students receive the maximum amount of financial aid.
 
-Submitting items after the deadline may result in:
+Students may submit a FAFSA at any time during the academic year to be considered for Federal Direct Loans and Federal grants.
+
+However, submitting the FAFSA and other Verification documentation after the FAFSA and Verification deadlines may result in:
 <ul>
  	<li>Loss of eligibility for limited state grant funds</li>
  	<li>Delay in processing leading to a billing late fee</li>
@@ -23,12 +25,13 @@ Submitting items after the deadline may result in:
 If you are having trouble meeting these deadlines for any reason, please contact the Office of Financial Aid. Our staff will be happy to assist you and determine the best way to proceed with the financial aid process.
 <h3>The <a href="http://fafsa.ed.gov">FAFSA</a> is available on:</h3>
 <ul>
- 	<li>January 1</li>
+ 	<li>October 1</li>
 </ul>
-<h3>The FAFSA must be filed by:</h3>
+<h3>FAFSA Filing Deadlines:</h3>
 <ul>
- 	<li>Freshmen/Continuing Students: February 1</li>
+ 	<li>Incoming Freshmen Students: February 1</li>
  	<li>Transfer Students (First Year): April 1</li>
+ 	<li>All UMW Continuing Students: January 15</li>
  	<li>If selected for <a href="http://www.umw.edu/financialaid/process/verification/">FAFSA verification</a> for the fall semester, all documentation and FAFSA IRS Data Retrieval must be submitted by July 1.</li>
 </ul>
 <h3>Online Scholarship Application</h3>
@@ -36,9 +39,4 @@ If you are having trouble meeting these deadlines for any reason, please contact
  	<li>Available: February 1</li>
  	<li>Deadline:  May 1</li>
 </ul>
-<h3>Bookstore Vouchers</h3>
-Can apply up to one month prior to the start of classes on <a href="https://orgsync.com/home/551">myUMW portal</a>.
-<ul>
- 	<li>Fall Semester Deadline: October 1</li>
- 	<li>Spring Semester Deadline: February 1</li>
-</ul>
+&nbsp;

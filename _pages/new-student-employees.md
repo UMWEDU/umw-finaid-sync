@@ -14,8 +14,8 @@ wpcf-home-page-grid-inclusion:
 Supervisors must receive a Work Authorization from the Student Employment Coordinator before student employees are authorized to begin work. Below are the forms required for a Work Authorization.
 <h2>Submit Online:</h2>
 <ul>
- 	<li><a href="https://orgsync.com/129314/forms/166199" rel="">Campus Employment Application</a></li>
- 	<li><a href="https://orgsync.com/129314/forms/188994" rel="">Student Employee Work Agreements</a></li>
+ 	<li><a href="https://orgsync.com/129314/forms/166199" target="_blank" rel="">Campus Employment Application</a></li>
+ 	<li><a href="https://orgsync.com/129314/forms/188994" target="_blank" rel="">Student Employee Work Agreements</a></li>
 </ul>
 <h2>Submit In-Person to Office of Financial Aid:</h2>
 <ul>

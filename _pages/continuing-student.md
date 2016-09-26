@@ -11,24 +11,26 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Applying for financial aid can be a confusing process for many students, even if they have been through it before.  Below is a simple timeline to help keep students and families on track.
+Applying for financial aid can be a confusing process for many students, even if they have been through it before. Below is a simple timeline to help keep students and families on track.
 <table width="99%">
 <tbody>
 <tr>
-<td width="20%"><strong>Prior to January 1</strong></td>
+<td width="20%"><strong>Prior to October 1
+</strong></td>
 <td width="80%">Students, and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fafsa.ed.gov/">FAFSA</a> after January 1.</td>
 </tr>
 <tr>
-<td><strong>January 1</strong></td>
+<td><strong>October 1</strong></td>
 <td><a href="https://fafsa.ed.gov/">FAFSA</a> available!</td>
 </tr>
 <tr>
-<td><strong>February </strong></td>
-<td><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
+<td><strong>January 15</strong></td>
+<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.</td>
 </tr>
 <tr>
-<td><strong>March 1</strong></td>
-<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.</td>
+<td><strong>February
+</strong></td>
+<td><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>
 <tr>
 <td><strong>May 1</strong></td>

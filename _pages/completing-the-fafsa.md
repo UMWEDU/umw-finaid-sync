@@ -28,10 +28,10 @@ Here are some tips for completing an <a href="https://fafsa.ed.gov/">online FAFS
 After the FAFSA filing deadline, all undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will not be available after that date.
 <h2>FSAID</h2>
 <ul>
- 	<li>You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online.</li>
+ 	<li>Apply for an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically.</li>
  	<li>You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.</li>
 </ul>
-<h2>Information Needed to Apply</h2>
+<h2>Information Needed for the FAFSA</h2>
 <ul>
  	<li>Student , parent and/or spouse Social Security Numbers</li>
  	<li>Student driver's license</li>
@@ -51,22 +51,23 @@ After the FAFSA filing deadline, all undergraduate students continue to be eligi
 </ul>
 <h3>Reporting Financial Information</h3>
 <ul>
- 	<li>Use income records for the tax year two years prior to the academic year for which you are applying. For instance, if you are filling out the 2017-18 FAFSA, you will need 2015 tax information..</li>
- 	<li>If you have done your taxes before filling out your FAFSA, be sure to consider the option to use the IRS Data Retrieval Tool (IRS DRT). You may be able to use the tool if you filed your taxes electronically at least two weeks prior or if you filed on paper at least eight weeks prior. Here’s how the IRS DRT process works:</li>
+ 	<li>Use two-year prior tax data. For instance, if you are filling out the 2017-18 FAFSA, use 2015 tax information..</li>
+ 	<li>If eligible, use the IRS Data Retrieval Tool (IRS DRT).</li>
 </ul>
 <ol>
 <ol>
 <ol>
- 	<li>The IRS DRT takes you to the IRS website, where you’ll need to log in by providing your name and other information exactly as you provided it on your tax return.</li>
- 	<li>At the IRS site, you can preview your information before agreeing to have it transferred to your FAFSA.</li>
+ 	<li>The IRS DRT will direct you to the IRS website</li>
+ 	<li>Log in by providing your name and other information exactly as you provided it on your tax return.</li>
+ 	<li>At the IRS site, preview your information before agreeing to have it transferred to your FAFSA.</li>
  	<li>When you return to the FAFSA, you’ll see that questions populated with tax information marked “Transferred from the IRS.” Don’t make any changes to those answers (except where Individual Retirement Accounts or pension rollovers are involved), or you’ll invalidate the information you retrieved.</li>
- 	<li>If you or your parents are married and you’ve used IRS DRT to transfer information into your FAFSA, you’ll see that a value for Income Earned from Work is transferred.</li>
 </ol>
 </ol>
 </ol>
-<h2>The Next Steps</h2>
+<h2>FAFSA- The Next Steps</h2>
 <ul>
- 	<li>Student Aid Report (SAR) will be sent to the email address provided by the student on the FAFSA approximately three days after submitting the FAFSA. Be sure to look over your SAR to make sure you didn’t make a <a href="https://studentaid.ed.gov/sa/fafsa/next-steps#correct-mistakes">mistake on your FAFSA</a>. Find out more about the<a href="https://studentaid.ed.gov/sa/fafsa/next-steps/student-aid-report"> Student Aid Report</a><i> </i>and its purpose, and how the type of FAFSA you file determines when you’ll get the SAR and what you should do with it.</li>
+ 	<li><a href="https://studentaid.ed.gov/sa/fafsa/next-steps/student-aid-report">Student Aid Report</a>(SAR) will be sent to the email address provided by the student on the FAFSA approximately three days after submitting the FAFSA.</li>
+ 	<li>Review your SAR to make sure you didn’t make a <a href="https://studentaid.ed.gov/sa/fafsa/next-steps#correct-mistakes">mistake on your FAFSA</a>.</li>
  	<li>The SAR will provide information to the financial aid office to determine your financial aid eligibility.</li>
  	<li>If your two years prior tax information has changed significantly due to income changes, change in number of family members in the household, etc. please contact the UMW Office of Financial Aid to determine if a change to your financial aid eligibility is needed.</li>
 </ul>

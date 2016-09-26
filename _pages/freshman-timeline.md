@@ -17,11 +17,13 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <table width="99%">
 <tbody>
 <tr>
-<td width="20%"><strong>Prior to January 1</strong></td>
-<td width="80%">Students and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fsaid.ed.gov">FAFSA</a> after January 1.</td>
+<td width="20%"><strong>Prior to October 1
+</strong></td>
+<td width="80%">Students and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fsaid.ed.gov">FAFSA</a> after October 1 of the year prior to admissions.</td>
 </tr>
 <tr>
-<td><strong>January 1</strong></td>
+<td><strong>October 1
+</strong></td>
 <td><a href="https://fafsa.ed.gov/">FAFSA</a> available!</td>
 </tr>
 <tr>
@@ -34,7 +36,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 </tr>
 <tr>
 <td><strong>February 1</strong></td>
-<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will also be awarded at that time if available.</td>
+<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will not be available at this time.</td>
 </tr>
 <tr>
 <td><strong>May 1</strong></td>

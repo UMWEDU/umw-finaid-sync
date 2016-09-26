@@ -23,12 +23,13 @@ New FAFSA filing deadlines:
 </ul>
 The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a>  both at our campus, and off-site at local high schools.
 
-The <a href="https://fafsa.ed.gov/">online FAFSA</a> will guide you through the different sections of the FAFSA. Begin by clicking the “Start a New FAFSA” button, and follow the directions on the screen.  Here are some tips to completing your FAFSA correctly.
+Here are some tips for completing an <a href="https://fafsa.ed.gov/">online FAFSA</a>.
 
 After the FAFSA filing deadline, all undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will not be available after that date.
 <h2>FSAID</h2>
 <ul>
- 	<li>You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online. You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.</li>
+ 	<li>You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online.</li>
+ 	<li>You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.</li>
 </ul>
 <h2>Information Needed to Apply</h2>
 <ul>
@@ -64,8 +65,11 @@ After the FAFSA filing deadline, all undergraduate students continue to be eligi
 </ol>
 </ol>
 <h2>The Next Steps</h2>
-When you click “submit,” the office of Federal Student Aid at the U.S. Department of Education will send you a <em>Student Aid Report</em> (SAR), which is a summary of the FAFSA data you submitted. You’ll get your SAR within three days to three weeks after you submit your FAFSA. Be sure to look over your SAR to make sure you didn’t make a <a href="https://studentaid.ed.gov/sa/fafsa/next-steps#correct-mistakes">mistake on your FAFSA</a>. Find out more about the<a href="https://studentaid.ed.gov/sa/fafsa/next-steps/student-aid-report"> Student Aid Report</a><i> </i>and its purpose, and how the type of FAFSA you file determines when you’ll get the SAR and what you should do with it.
-
-The SAR won’t tell you how much financial aid you’ll get. Instead, if you applied for admission to a college or career school and have been accepted, and you listed that school on your FAFSA, <a href="https://studentaid.ed.gov/sa/fafsa/next-steps/how-calculated">the school will calculate your aid</a> and will send you an electronic or paper <a href="https://studentaid.ed.gov/sa/fafsa/next-steps/comparing-aid-offers">aid offer</a>, sometimes called an award letter, telling you how much aid you’re eligible for at the school.
+<ul>
+ 	<li>Student Aid Report (SAR) will be sent to the email address provided by the student on the FAFSA approximately three days after submitting the FAFSA. Be sure to look over your SAR to make sure you didn’t make a <a href="https://studentaid.ed.gov/sa/fafsa/next-steps#correct-mistakes">mistake on your FAFSA</a>. Find out more about the<a href="https://studentaid.ed.gov/sa/fafsa/next-steps/student-aid-report"> Student Aid Report</a><i> </i>and its purpose, and how the type of FAFSA you file determines when you’ll get the SAR and what you should do with it.</li>
+ 	<li>The SAR will provide information to the financial aid office to determine your financial aid eligibility.</li>
+ 	<li>If your two years prior tax information has changed significantly due to income changes, change in number of family members in the household, etc. please contact the UMW Office of Financial Aid to determine if a change to your financial aid eligibility is needed.</li>
+</ul>
+&nbsp;
 
 The information on this page is found on the <a href="https://studentaid.ed.gov/sa/fafsa/filling-out">Federal Student Aid website</a>, which is an excellent resource for all students using federal aid (Direct Loans, Plus Loans, Federal Pell Grant, etc), especially while filling out the FAFSA.

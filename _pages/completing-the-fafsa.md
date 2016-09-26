@@ -8,25 +8,33 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/completing-the-fafsa/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057062170;s:3:"url";s:61:"http://www.umw.edu/financialaid/process/completing-the-fafsa/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057062170";}s:4:"time";i:1458149776;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a> throughout the spring both at our campus, and off-site at local high schools.
+<strong>IMPORTANT: The 2017-2018 FAFSA will be available October 1, 2016. </strong>
+
+New FAFSA filing deadlines:
+<ul>
+ 	<li>Incoming 2017-2018 Freshman Students - February 1, 2017</li>
+ 	<li>Incoming 2017-2018 Transfer Students - April 1, 2017</li>
+ 	<li>All current continuing students - January 15, 2017</li>
+</ul>
+The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a>  both at our campus, and off-site at local high schools.
 
 The <a href="https://fafsa.ed.gov/">online FAFSA</a> will guide you through the different sections of the FAFSA. Begin by clicking the “Start a New FAFSA” button, and follow the directions on the screen.  Here are some tips to completing your FAFSA correctly.
 
-While the priority deadline is February 1 for new students and April 1 for incoming transfer students, students may complete the FAFSA after those dates to be considered for financial aid. All undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will also be awarded at that time if available.
+After the FAFSA filing deadline, all undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will not be available after that date.
 <h2>FSAID</h2>
-You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online. You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.
-<h2>Information Needed to Apply</h2>
-The FAFSA asks for information about you (your name, date of birth, address, etc.) and about your financial situation. Depending on your circumstances (for instance, when you filed taxes or what tax form you used), you might need the following information or documents as you fill out the FAFSA:
 <ul>
- 	<li>Your Social Security number (it’s important that you enter it correctly on the FAFSA!)</li>
- 	<li>Your parents’ Social Security numbers if you are a <em>dependent student</em></li>
- 	<li>Your driver’s license number if you have one</li>
- 	<li>Your Alien Registration number if you are not a U.S. citizen</li>
+ 	<li>You’ll need an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically. Your FSA ID also can be used to sign loan contracts and to access certain information online. You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.</li>
+</ul>
+<h2>Information Needed to Apply</h2>
+<ul>
+ 	<li>Student , parent and/or spouse Social Security Numbers</li>
+ 	<li>Student driver's license</li>
+ 	<li> Alien Registration number if you are not a U.S. citizen</li>
  	<li>Federal tax information or tax returns including IRS W-2 information, for you (and your spouse, if you are married), and for your parents if you are a dependent student:
 <ul>
  	<li>IRS 1040, 1040A, 1040EZ</li>
@@ -34,17 +42,15 @@ The FAFSA asks for information about you (your name, date of birth, address, etc
  	<li>Tax return for Puerto Rico, Guam, American Samoa, the U.S. Virgin Islands, the Marshall Islands, the Federated States of Micronesia, or Palau</li>
 </ul>
 </li>
- 	<li>Records of your (and, if you are a dependent student, your parents’) untaxed income, such as child support received, interest income, and veterans non-education benefits</li>
- 	<li>Information on cash; savings and checking account balances; investments, including stocks and bonds and real estate but not including the home in which you live; and business and farm assets for you, and for your parents if you are a dependent student</li>
+ 	<li>Student, parent and/or spouse untaxed income, such as child support received, interest income, and veterans non-education benefits</li>
 </ul>
-<h4>Keep these records! You may need them again. Do not mail your records to us.</h4>
 <h3>Determining Dependency Status</h3>
-The FAFSA asks a series of questions that determine whether you are a <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/dependency">dependent or independent student</a> for purposes of applying for federal student aid. If you are a dependent student, you must report parent information, as well as your own information, on your FAFSA.
-<h3>Reporting Financial Information</h3>
-The FAFSA asks for financial information, including balances of savings and checking accounts and information from tax forms.
 <ul>
- 	<li>Use income records for the tax year prior to the academic year for which you are applying. For instance, if you are filling out the 2016-17 FAFSA, you will need 2015 tax information.</li>
- 	<li>If you haven’t done your taxes by the time you fill out your FAFSA, it’s okay to estimate the amounts. You might want to base your estimates on last year’s tax return. If your income changed drastically since last year’s tax return, you may click on “Income Estimator” on the FAFSA page that asks for income information. The Income Estimator will help you estimate adjusted gross income (AGI)<em>.</em> After you file your taxes, you’ll need to log back in to the FAFSA and correct any estimated information that was wrong.</li>
+ 	<li>The FAFSA asks a series of questions that determine whether you are a <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/dependency">dependent or independent student</a> for purposes of applying for federal student aid. If you are a dependent student, you must report parent information, as well as your own information, on your FAFSA.</li>
+</ul>
+<h3>Reporting Financial Information</h3>
+<ul>
+ 	<li>Use income records for the tax year two years prior to the academic year for which you are applying. For instance, if you are filling out the 2017-18 FAFSA, you will need 2015 tax information..</li>
  	<li>If you have done your taxes before filling out your FAFSA, be sure to consider the option to use the IRS Data Retrieval Tool (IRS DRT). You may be able to use the tool if you filed your taxes electronically at least two weeks prior or if you filed on paper at least eight weeks prior. Here’s how the IRS DRT process works:</li>
 </ul>
 <ol>

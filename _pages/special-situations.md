@@ -14,10 +14,10 @@ wpcf-home-page-grid-inclusion:
 <h2>My parents don’t support me financially but I am considered dependent by Federal Department of Education standards.</h2>
 Per federal regulation, students are considered "dependent" until the age of 24 unless they can answer "yes" to  (and can document) one of the following criteria:
 <ul>
- 	<li>Will you be working toward a master’s or doctorate degree (such as M.A., M.B.A., M.D., J.D., Ph.D., Ed.D., etc.)?</li>
+ 	<li>Have you earned your undergraduate degree and will you be working toward a master’s or doctorate degree ?</li>
  	<li>Are you married or separated but not divorced?</li>
  	<li>Do you have children who receive more than half of their support from you?</li>
- 	<li>Do you have dependents (other than children or a spouse) who live with you and receive more than half of their support from you?</li>
+ 	<li>Do you have dependents (other than children or a spouse) who live with you and receive more than half of their financial support from you?</li>
  	<li>At any time since you turned age 13, were both of your parents deceased, were you in foster care, or were you a ward or dependent of the court?</li>
  	<li>Are you an emancipated minor or in a legal guardianship as determined by a court?</li>
  	<li>Are you an unaccompanied youth who is homeless or self-supporting and at risk of being homeless?</li>

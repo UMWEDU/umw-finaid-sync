@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 ---
 Students selected for verification are required to complete a verification form. There are several different types of verification (V1, V4, V5, V6). Each verification type has different requirements based on students’ unique situations.
 
-Some types of documentation that may be required are:
+Some types of documentation that may be required for the 2016-2017 academic year are:
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/V1V6VerificationWS1617.docx" rel="">V1 and V6 Verification Worksheet</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/V4VerificationWS1617-1.docx" rel="">V4 Verification Worksheet</a></li>

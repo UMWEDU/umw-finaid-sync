@@ -20,21 +20,29 @@ wpcf-homepage-copy:
     	<li><a href="https://www.umw.edu/financialaid/types/loans/private/">Private Educational Loans</a></li>
     </ul>
 ---
-The University of Mary Washington offers financial assistance to students enrolled at least half-time in degree programs and pathway programs. Half-time enrollment for graduate students is five graduate level credit hours per semester. These credits can be taken in a combination of 8 or 16 week courses.
+The University of Mary Washington offers financial assistance to students enrolled at least half-time in degree programs and pathway programs. Half-time enrollment for graduate students is five graduate level credit hours per semester. A combination of 8 and 16 week courses can be taken.
 
 Students enrolled in other non-degree certificate programs or enrolled less than half time, are only eligible for alternative loans.
 <h2>How and When to Apply</h2>
-Students interested in applying for financial aid must file the Free Application for Federal Student Aid (FAFSA) online at <a href="http://www.fafsa.ed.gov/">www.fafsa.ed.gov.</a> In order for results from the FAFSA to download into the UMW financial aid system, students must have applied for admission.
+Students interested in applying for financial aid must file the Free Application for Federal Student Aid (FAFSA) at <a href="http://www.fafsa.ed.gov/">www.fafsa.ed.gov.</a> In order for results from the FAFSA to download into the UMW financial aid system, students must have applied for admission.
 
-Once students are accepted into a degree program, the Office of Financial Aid determines eligibility for financial assistance. Awarding of financial aid for the Fall term begins in April and in November for the Spring term. <strong>                                                                  </strong>
+The Office of Financial Aid determines eligibility for financial assistance after a student's acceptance into a program. Awarding of financial aid for the Fall term begins in April and in November for the Spring term. <strong>                                                                  </strong>
 
 If enrolling for summer courses<strong>, </strong>students must also submit the <a href="https://orgsync.com/115365/forms">Request for Summer Financial Aid form</a> (myUMW) to the Office of Financial Aid.
 
 See the <a href="http://www.umw.edu/financialaid/process/timelines/graduate-student/">Graduate Student Financial Aid Timeline</a> for more information.
 <h2>Financial Aid by Degree Type</h2>
-<h3>Master’s Degree Programs</h3>
-Students that have earned their undergraduate degree, and are enrolled in a master’s program (MBA, MED, GIS), are eligible to receive <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Graduate Loans</a> by completing the FAFSA each year. Students may also be eligible for limited departmental scholarships.
+<h3>Master’s Degree Programs (MED, MBA, GIS)</h3>
+<ul>
+ 	<li> <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Graduate Loans</a></li>
+ 	<li>Limited departmental scholarships.</li>
+</ul>
 <h3>Post-Master’s Pathway Programs in Education</h3>
-Students that are enrolled in a Post-Masters Pathway Program in Education are not eligible for Federal Direct Loans. However, they may apply for <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans</a>.
+<ul>
+ 	<li> P<a href="http://www.umw.edu/financialaid/types/loans/private/">rivate educational loans</a>.</li>
+</ul>
 <h3>Teaching Certification Programs</h3>
-Students in teaching certification programs may be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Undergraduate Loans</a>. Students may also be eligible for <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans</a>.
+<ul>
+ 	<li><a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Undergraduate Loans</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/types/loans/private/">P</a><a href="http://www.umw.edu/financialaid/types/loans/private/">rivate educational loans</a>.</li>
+</ul>

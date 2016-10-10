@@ -31,6 +31,10 @@ After the FAFSA filing deadline, all undergraduate students continue to be eligi
  	<li>Apply for an <a href="https://studentaid.ed.gov/sa/fafsa/filling-out/fsaid">FSA ID</a>, a username and password combination that allows you to sign your FAFSA electronically.</li>
  	<li>You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.</li>
 </ul>
+<p style="text-align: justify">Watch this video to learn how to create an FSA ID.</p>
+https://www.youtube.com/watch?v=lLi0q7hkFns
+<p style="text-align: justify"></p>
+
 <h2>Information Needed for the FAFSA</h2>
 <ul>
  	<li>Student , parent and/or spouse Social Security Numbers</li>

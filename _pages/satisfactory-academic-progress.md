@@ -14,23 +14,23 @@ wpcf-home-page-grid-inclusion:
 In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each semester attended (fall, spring and summer semesters).
 <h2>The following definitions apply to this policy:</h2>
 <ul>
-	<li><strong>Financial Aid Programs</strong>: All federal programs, VA State grant programs, scholarship programs offered through the University, outside programs offered from other states and private organizations, federal work-study and institutional student employment and private education loans.</li>
-	<li><strong>Earned and Attempted Credit hours: </strong>Satisfactory Academic Progress uses credit hours to measure both the Pace and Maximum Timeframe requirements. It is important to understand the difference between the two types of credit hours. Credit hours “earned” are courses in which the student receives a letter grade of “D” or “PA” in a Pass/Fail course. “Attempted” credits are all courses in which the student enrolls and remains enrolled in after the add/drop period of each semester even if the student withdraws later or fails the course at the end.</li>
-	<li><strong>Pace requirement</strong>:   Both undergraduate and graduate students must earn at least 70% (no rounding up) of the credits attempted each semester. A full-time student who attempts 15 credits in a semester must successfully complete 10.5 credits to maintain their pace requirement (15 credits x .7 = 10.5 credits).</li>
-	<li><strong>Maximum time frame</strong>: The maximum period in which students may receive financial aid based on the degree program in which they are enrolled. Students have a period of 150% of the credits required to complete the program to remain eligible.
+ 	<li><strong>Financial Aid Programs</strong>: All federal programs, VA State grant programs, scholarship programs offered through the University, outside programs offered from other states and private organizations, federal work-study and institutional student employment and private education loans.</li>
+ 	<li><strong>Earned and Attempted Credit hours: </strong>Satisfactory Academic Progress uses credit hours to measure both the Pace and Maximum Timeframe requirements. It is important to understand the difference between the two types of credit hours. Credit hours “earned” are courses in which the student receives a letter grade of “D” or “PA” in a Pass/Fail course. “Attempted” credits are all courses in which the student enrolls and remains enrolled in after the add/drop period of each semester even if the student withdraws later or fails the course at the end.</li>
+ 	<li><strong>Pace requirement</strong>:   Both undergraduate and graduate students must earn at least 70% (no rounding up) of the credits attempted each semester. A full-time student who attempts 15 credits in a semester must successfully complete 10.5 credits to maintain their pace requirement (15 credits x .7 = 10.5 credits).</li>
+ 	<li><strong>Maximum time frame</strong>: The maximum period in which students may receive financial aid based on the degree program in which they are enrolled. Students have a period of 150% of the credits required to complete the program to remain eligible.
 <ul>
-	<li>Bachelor degree program that requires 120 credits to graduate will have a total  of 180 attempted credits allowed.</li>
-	<li>Graduate degree program that requires 30 credits to graduate will have a total of 45 attempted credits allowed.</li>
-	<li>There are limited appeals or extensions of the 150% maximum time frame rule. Students may continue to receive limited federal financial aid assistance and will also be able to apply for private loan funding or participate in a tuition payment plan for their educational expenses.</li>
+ 	<li>Bachelor degree program that requires 120 credits to graduate will have a total  of 180 attempted credits allowed.</li>
+ 	<li>Graduate degree program that requires 30 credits to graduate will have a total of 45 attempted credits allowed.</li>
+ 	<li>There are limited appeals or extensions of the 150% maximum time frame rule. Students may continue to receive limited federal financial aid assistance and will also be able to apply for private loan funding or participate in a tuition payment plan for their educational expenses.</li>
 </ul>
 </li>
 </ul>
 <strong>Cumulative Grade Point Average</strong>: The grade point average calculated at UMW from all credits taken. Coursework transferred from other institutions are included in the total number of credits attempted and completed but are not factored into the cumulative GPA.
 <ul>
-	<li>The minimum cumulative GPA requirement is 1.8 for each semester of attendance at UMW for a student who has earned less than 30 credits.</li>
-	<li>The minimum cumulative GPA is 1.9 for students who have earned 31 – 59 credits.</li>
-	<li>The minimum cumulative GPA is 2.0 for students who have earned 60 or more credits.</li>
-	<li>There are UMW scholarship programs which require a higher cumulative GPA and a student must meet the requirement to retain those program awards.<strong> </strong></li>
+ 	<li>The minimum cumulative GPA requirement is 1.8 for each semester of attendance at UMW for a student who has earned less than 30 credits.</li>
+ 	<li>The minimum cumulative GPA is 1.9 for students who have earned 31 – 59 credits.</li>
+ 	<li>The minimum cumulative GPA is 2.0 for students who have earned 60 or more credits.</li>
+ 	<li>There are UMW scholarship programs which require a higher cumulative GPA and a student must meet the requirement to retain those program awards.<strong> </strong></li>
 </ul>
 <h2>Review Process</h2>
 <h3>Frequency</h3>
@@ -44,8 +44,8 @@ Suspension of financial aid eligibility occurs the semester immediately followin
 
 These options are:
 <ul>
-	<li>Pay for the next semester or session on your own and have the SAP status reevaluated after completion of the semester, or</li>
-	<li>Submit an Appeal of SAP requirements, as outline in the SAP notification letter.</li>
+ 	<li>Pay for the next semester or session on your own and have the SAP status reevaluated after completion of the semester, or</li>
+ 	<li>Submit an Appeal of SAP requirements, as outline in the SAP notification letter.</li>
 </ul>
 <h3>Maximum Time Frame suspension</h3>
 Any student who has exceeded the Maximum Time Frame requirements for the appropriate degree program will be placed on a Maximum Time Suspension. Students in this group will be required to appeal and provide the Office of Financial Aid with an academic plan that has been approved by their Faculty Advisor. The academic plan must be followed as prescribed and will be reviewed at the end of each semester until graduation from UMW. Students will not be permitted to receive institutional grants or scholarship unless approved through the Office of Financial Aid in conjunction with the institutional scholarship or grant provider’s approval. In most cases, aid will be limited to federal financial aid only.
@@ -67,14 +67,14 @@ Credits are included in both attempted and completed but the grade doesn’t tra
 <h2>Appeal Process</h2>
 Students are permitted to appeal their financial aid suspension; however, the right to appeal must be based on extraordinary, personal circumstances that contributed to student’s inability to meet the SAP requirements. Acceptable circumstances include:
 <ul>
-	<li>The death of an immediate family member or close relative (i.e. mother, father, grandparent, sibling or immediate family such as a related aunt or uncle)</li>
-	<li>A serious injury or illness of the student which required medical intervention</li>
-	<li>Significant, unanticipated family obligations due to medical issue or illness</li>
-	<li>A catastrophic loss due to fire, flood or natural disaster that affects the student’s academic attendance or performance<strong> </strong></li>
+ 	<li>The death of an immediate family member or close relative (i.e. mother, father, grandparent, sibling or immediate family such as a related aunt or uncle)</li>
+ 	<li>A serious injury or illness of the student which required medical intervention</li>
+ 	<li>Significant, unanticipated family obligations due to medical issue or illness</li>
+ 	<li>A catastrophic loss due to fire, flood or natural disaster that affects the student’s academic attendance or performance<strong> </strong></li>
 </ul>
 <strong>The appeal of a financial aid suspension is a separate process from an appeal of academic suspension. The two processes are not related and approval of an academic suspension does not automatically remove the suspension from financial aid. </strong>
 <h2>Satisfactory Academic Progress (SAP) Appeals</h2>
-Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SAP-Appeal-Form.docx" rel="">Satisfactory Academic Process Appeal Form</a> [.doc] together with all required documents within 15 days of the notification that they have been placed on suspension.
+Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SAP-Appeal-Form.docx" rel="">Satisfactory Academic Process Appeal Form</a>  together with all required documents within 15 days of the notification that they have been placed on suspension.
 
 SAP Appeals should be submitted to the Office of Financial Aid either by mail, fax or in person to:
 
@@ -85,9 +85,9 @@ Fredericksburg, VA 22401
 Fax: 540-654-1858
 <h3>SAP Appeal Deadlines</h3>
 <ul>
-	<li>Fall semester appeals must be received by January 9th</li>
-	<li>Spring semester appeals must be received by June 1st</li>
-	<li>Summer semesters appeals must be received by August 1st</li>
+ 	<li>Fall semester appeals must be received by January 9th</li>
+ 	<li>Spring semester appeals must be received by June 1st</li>
+ 	<li>Summer semesters appeals must be received by August 1st</li>
 </ul>
 Appeals received after these dates will not be considered except in documented instances where the student was unable to obtain their supporting documentation prior to the deadline.
 <h3>SAP Appeal Notification</h3>
@@ -109,11 +109,11 @@ Under no circumstances will more than two probation periods be approved for any 
 <h2>Plan for Academic Success</h2>
 Students placed on Financial Aid Warning, Probation or Suspension are strongly encouraged to schedule an academic advisement appointment with the Office of Academic and Career Services or with their Faculty Advisor. Through advisement, students will work to create academic plans and become connected to campus resources that support academic success. Resources at UMW to help students succeed academically include:
 <ul>
-	<li>The Tutoring Center</li>
-	<li>The Writing Center</li>
-	<li>The Speaking Center</li>
-	<li>Academic Success Workshops</li>
-	<li>The Office of Disability Resources</li>
-	<li>Talley Center for Counseling Services</li>
+ 	<li>The Tutoring Center</li>
+ 	<li>The Writing Center</li>
+ 	<li>The Speaking Center</li>
+ 	<li>Academic Success Workshops</li>
+ 	<li>The Office of Disability Resources</li>
+ 	<li>Talley Center for Counseling Services</li>
 </ul>
 Each of these resources are available to help identify learning issues, provide training for improving academic skills and developing academic plans that assist our students in regaining good academic standing.

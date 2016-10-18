@@ -1,6 +1,6 @@
 ---
 ID: 95
-post_title: 'First-Year &#038; Transfer Students'
+post_title: 'First-Year &amp; Transfer Students'
 author: Shelley Keith
 post_date: 2016-02-23 13:16:01
 post_excerpt: ""
@@ -19,6 +19,6 @@ wpcf-homepage-copy:
     	<li><a href="https://www.umw.edu/financialaid/process/completing-the-fafsa/">Completing the FAFSA</a></li>
     	<li><a href="http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/">Admissions Merit Scholarships</a></li>
     	<li><a href="https://www.umw.edu/financialaid/ferpa/">FERPA and Families</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">Estimated Cost of Attendance</a></li>
+    	<li><a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">Cost of Attendance</a></li>
     </ul>
 ---

@@ -15,7 +15,7 @@ wpcf-homepage-copy:
     Graduate students pursuing post-baccalaureate degrees, certificates, and licensing have different financial aid requirements and options.
     <ul>
      	<li><a href="https://www.umw.edu/financialaid/the-financial-aid-process/timelines/graduate-student/">Graduate Student Timeline</a></li>
-     	<li><a href="https://www.umw.edu/financialaid/process/completing-the-fafsa/">Completing the FAFSA</a></li>
+     	<li><a href="http://students.umw.edu/veterans/">Veterans/Military Student Resources</a></li>
      	<li><a href="https://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a></li>
      	<li><a href="https://www.umw.edu/financialaid/types/loans/private/">Private Educational Loans</a></li>
     </ul>

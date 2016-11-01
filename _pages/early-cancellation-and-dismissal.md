@@ -14,7 +14,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Early Cancellation</h2>
 Students are encouraged to provide at least two weeks’ notice to their supervisors if they plan to resign before meeting the full term of their job assignment. When a student resigns, supervisors must complete a Notice of Cancellation and an employment evaluation with the student:
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/Notice-of-Cancellation-20150304.pdf">notice-of-cancellation-20150304</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/Notice-of-Cancellation-20150304.pdf">Notice of Cancellation Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Employment-Service-Rating.pdf" rel="">Employment Service Rating Form</a> (student employee evaluation)</li>
 </ul>
 Please submit these forms to the <strong>Office of Financial Aid, Lee Hall 230, ATTN: Student Employment Coordinator</strong>. Signing these forms is encouraged but optional for the student.

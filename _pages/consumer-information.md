@@ -11,6 +11,4 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<a href="http://www.umw.edu/financialaid/consumer-information/consumer-information-2/">Consumer Information Index</a>
-
 [children]

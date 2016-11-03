@@ -11,4 +11,3 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-[children]

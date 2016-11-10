@@ -11,6 +11,8 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
+University of Mary Washington Consumer Information
+
 General Institutional Information
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/ferpa/">FERPA (Family Educational Rights and Privacy Act) and Families </a></li>

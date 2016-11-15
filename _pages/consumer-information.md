@@ -205,7 +205,7 @@ Student Outcomes
 Additional Disclosures
 <ul>
  	<li><a href="https://vote.elections.virginia.gov/VoterInformation">Voter Registration</a></li>
- 	<li>U.S. Constitution and Citizenship Day</li>
+ 	<li><a href="https://www.loc.gov/law/help/commemorative-observations/constitution-day.php">U.S. Constitution and Citizenship Day</a></li>
  	<li>State Approval Disclosure Information</li>
 </ul>
 Employee Disclosure Information and Resources

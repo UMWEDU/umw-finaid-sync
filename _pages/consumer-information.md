@@ -13,19 +13,51 @@ wpcf-home-page-grid-inclusion:
 ---
 University of Mary Washington Consumer Information
 
-This page contains University of Mary Washington consumer information, which must be made available to all students at the University of Mary Washington in accordance with the Higher Education Act of 1965. Under each general heading is a link to the information that can be obtained.
+This page contains University of Mary Washington consumer information, which must be made available to all students at the University of Mary Washington in accordance with the Higher Education Act of 1965. Under each general heading is a brief summary and link to the information that can be obtained.  To obtain a paper copy of this information, please contact the University of Mary Washington Office of Financial Aid at (540)654-2468 or finaid@umw.edu .
 
 General Institutional Information
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/ferpa/">FERPA (Family Educational Rights and Privacy Act) and Families </a></li>
- 	<li><a href="http://academics.umw.edu/disability/">Disability Resources </a></li>
- 	<li><a href="http://diversity.umw.edu/">Diversity and Inclusion</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/process/cost-of-attendance/">Cost of Attendance</a></li>
- 	<li><a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a></li>
- 	<li><a href="http://adminfinance.umw.edu/studentaccounts/refund-policy-and-schedule/">Refund Policy</a></li>
- 	<li><a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">Withdrawal and Cancellation Procedures</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/process/leaving/return-of-funds/">Return of Federal Financial Aid</a></li>
- 	<li><a href="https://bookstore.umw.edu/site_textbook_reservations.asp">Textbooks – UMW Bookstore</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/ferpa/">FERPA (Family Educational Rights and Privacy Act) and Families </a>
+<ul>
+ 	<li>This website provides information regarding the Privacy policies at UMW, as well as instructions for students to delegate access to a third party user, such as a parent.</li>
+</ul>
+</li>
+ 	<li><a href="http://academics.umw.edu/disability/">Disability Resources </a>
+<ul>
+ 	<li><span class="left">The Office of Disability Resources (ODR) works with the university community to increase awareness, eliminate barriers, and create a welcoming and inclusive environment for students with disabilities. </span></li>
+</ul>
+</li>
+ 	<li><a href="http://diversity.umw.edu/">Diversity and Inclusion</a>
+<ul>
+ 	<li>The University of Mary Washington is committed to creating a community that is diverse, inclusive and affirming to all individuals. The Office of Diversity and Inclusion will work to ensure an academically and socially engaged environment where all faculty, staff and students feel supported.</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/financialaid/process/cost-of-attendance/">Cost of Attendance</a>
+<ul>
+ 	<li>This website provides an estimated cost of attendance, which includes estimated costs for tuition &amp; fees, meal plan allowance, housing allowance, books &amp; supplies, personal expenses, and transportation.</li>
+</ul>
+</li>
+ 	<li><a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a>
+<ul>
+ 	<li>The Net Price Calculator is designed to help you estimate your financial aid options for the University of Mary Washington. The calculator is designed to determine estimated financial assistance for first-year, full-time undergraduate students.</li>
+</ul>
+</li>
+ 	<li><a href="http://adminfinance.umw.edu/studentaccounts/refund-policy-and-schedule/">Refund Policy</a>
+<ul>
+ 	<li>Refunds for dropping a course or withdrawing from the University are based on the official date of drop or withdrawal, not on the date of last attendance.</li>
+</ul>
+</li>
+ 	<li><a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">Withdrawal and Cancellation Procedures</a>
+<ul>
+ 	<li>This website outlines the Office of the Registrar's Withdrawal &amp; Cancellation procedures.</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/financialaid/process/leaving/return-of-funds/">Return of Federal Financial Aid</a>
+<ul>
+ 	<li>Students who withdraw from any or all classes after the start of a semester will have their aid reduced in accord with the Federal Return to Title Four Funds policy.  Additionally, if proceeds have been disbursed it is very likely that eligibility will be pro-rated and funds returned to the appropriate programs.</li>
+</ul>
+</li>
+ 	<li><a href="http://bookstore.umw.edu/">Textbooks – UMW Bookstore</a></li>
  	<li><a href="https://academics.umw.edu/">Academic Programs</a></li>
  	<li><a href="http://www.umw.edu/directory/employee-type/faculty/">Faculty</a></li>
  	<li><a href="http://academics.umw.edu/registrar/transfer-information/">Transferring Credits to UMW </a></li>

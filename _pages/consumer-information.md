@@ -197,8 +197,6 @@ Student Outcomes
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Graduation Rates (Student Right-to-Know Act)</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Transfer-out Rates (Student Right-to-Know Act)</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Institutional Six-Year Cohort Graduation Rates</a></li>
- 	<li>Academic Progress Rates for Students Receiving Athletically Related Student Aid</li>
- 	<li>Job Placement Rates for Graduates (Gainful Employment)</li>
  	<li>Graduate and Professional Education Placement for Graduates</li>
  	<li>Consumer Information Outcome Disclaimers</li>
 </ul>

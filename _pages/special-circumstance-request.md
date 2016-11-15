@@ -14,6 +14,20 @@ wpcf-home-page-grid-inclusion:
 <h2>Special Circumstance</h2>
 If the information you filed on the Free Application for Federal Student Aid (FAFSA) does not reflect your current financial situation or does not take into account an unusual circumstance with you and/or your family you may submit a request for review of your financial aid status for special circumstances.   In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
 
+These situations may include (but are not limited to):
+<ul>
+ 	<li>Death in the family resulting in decreased yearly income</li>
+ 	<li>Unusual Medical Expenses</li>
+ 	<li>Involuntary job loss of a family member</li>
+ 	<li>Loss of other income, such as child support, disability benefits, etc.</li>
+ 	<li>Divorce or separation after the FAFSA has been filed</li>
+</ul>
+Examples of situations that can not be considered Special Circumstance include:
+<ul>
+ 	<li>Voluntary job loss</li>
+ 	<li>Removing funds early from a retirement account to pay debt</li>
+ 	<li>Loss of other income that can not be documented or was not  court ordered</li>
+</ul>
 NOTE: Even if an adjustment is made, it may not result in additional aid.
 
 To process a request for review we must have the following:

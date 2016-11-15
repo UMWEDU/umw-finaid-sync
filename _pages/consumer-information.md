@@ -13,6 +13,8 @@ wpcf-home-page-grid-inclusion:
 ---
 University of Mary Washington Consumer Information
 
+This page contains University of Mary Washington consumer information, which must be made available to all students at the University of Mary Washington in accordance with the Higher Education Act of 1965. Under each general heading is a link to the information that can be obtained.
+
 General Institutional Information
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/ferpa/">FERPA (Family Educational Rights and Privacy Act) and Families </a></li>

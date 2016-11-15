@@ -98,17 +98,45 @@ General Institutional Information
 </ul>
 </li>
  	<li>Teacher Preparation Program Report</li>
- 	<li><a href="http://research.schev.edu/iprofile.asp?UID=232681">State Council of Higher Education for Virginia (SCHEV) Profile for UMW</a></li>
- 	<li>Appeal and Complaint Policies
+ 	<li><a href="http://research.schev.edu/iprofile.asp?UID=232681">State Council of Higher Education for Virginia (SCHEV) Profile for UMW</a>
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/">Satisfactory Academic Progress Appeal</a> – Financial Aid</li>
- 	<li><a href="http://www.umw.edu/financialaid/eligibility/merit-curriculum-scholarship-appeal-process/">Merit and Curriculum Scholarship Appeal Process</a> – Admissions</li>
- 	<li><a href="http://president.umw.edu/audit/fraud-theft-waste-or-abuse/">Reporting Fraud, Theft, Waste or Abuse</a></li>
- 	<li><a href="http://diversity.umw.edu/title-ix/complaints-survivors/">Complaints and Reporting</a></li>
+ 	<li>Information regarding UMW, including Admissions, enrollment, undergraduate origin, graduation rates, tuition rates, etc.</li>
 </ul>
 </li>
- 	<li><a href="http://students.umw.edu/judicialaffairs/the-judicial-system/code-of-conduct/">Code of Conduct</a></li>
- 	<li><a href="http://students.umw.edu/judicialaffairs/drug-policies/#Policy">Drug Policy</a></li>
+ 	<li>Appeal and Complaint Policies
+<ul>
+ 	<li><a href="http://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/">Satisfactory Academic Progress Appeal</a> – Financial Aid
+<ul>
+ 	<li>In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously.</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/financialaid/eligibility/merit-curriculum-scholarship-appeal-process/">Merit and Curriculum Scholarship Appeal Process</a> – Admissions
+<ul>
+ 	<li>This appeal process is for students that have not been renewed for a merit-based scholarship or curriculum award based on unmet renewal criteria.</li>
+</ul>
+</li>
+ 	<li><a href="http://president.umw.edu/audit/fraud-theft-waste-or-abuse/">Reporting Fraud, Theft, Waste or Abuse</a>
+<ul>
+ 	<li>Internal Audit encourages individuals with information pertaining to potential fraud, waste, or abuse to contact the Internal Audit Department.</li>
+</ul>
+</li>
+ 	<li><a href="http://diversity.umw.edu/title-ix/complaints-survivors/">Complaints and Reporting</a>
+<ul>
+ 	<li>UMW is committed to fostering a community that promotes prompt reporting of all types of Prohibited Conduct and timely and fair resolution of Prohibited Conduct complaints. Prohibited Conduct violates UMW’s tradition of honor and integrity and will not be tolerated.</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/financialaid/consumer-information/codes-of-conduct/">Code of Conduct for Financial Aid Professionals</a>
+<ul>
+ 	<li>A UMW financial aid professional is expected to always maintain exemplary standards of professional responsibilities, specifically including all dealings with any entities involved in any manner in student financial aid, regardless of whether such entities are tied to a government sponsored, subsidized, or regulated activity</li>
+</ul>
+</li>
+ 	<li><a href="http://students.umw.edu/judicialaffairs/drug-policies/#Policy">Drug Policy</a>
+<ul>
+ 	<li>  The University of Mary Washington does not tolerate the possession or use of, or being under the influence of, illegal drugs. This policy also pertains to any University-sponsored event, or while operating or traveling in any Mary Washington or state-owned vehicle.</li>
+</ul>
+</li>
 </ul>
 Student Financial Assistance
 <ul>

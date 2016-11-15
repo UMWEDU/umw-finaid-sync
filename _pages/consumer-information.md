@@ -127,9 +127,9 @@ General Institutional Information
 </li>
 </ul>
 </li>
- 	<li><a href="http://www.umw.edu/financialaid/consumer-information/codes-of-conduct/">Code of Conduct for Financial Aid Professionals</a>
+ 	<li><a href="http://students.umw.edu/judicialaffairs/the-judicial-system/code-of-conduct/">University Code of Conduct Policy</a>
 <ul>
- 	<li>A UMW financial aid professional is expected to always maintain exemplary standards of professional responsibilities, specifically including all dealings with any entities involved in any manner in student financial aid, regardless of whether such entities are tied to a government sponsored, subsidized, or regulated activity</li>
+ 	<li>This website lists specific violations of community standards which are addressed through UMW's judicial system, and the hearing board or administrator who adjudicates them.</li>
 </ul>
 </li>
  	<li><a href="http://students.umw.edu/judicialaffairs/drug-policies/#Policy">Drug Policy</a>
@@ -140,16 +140,45 @@ General Institutional Information
 </ul>
 Student Financial Assistance
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/types/">Types of Aid Available From Federal, State, Local, and Institutional Programs</a></li>
- 	<li><a href="http://students.umw.edu/judicialaffairs/drug-policies/#Financial">Drugs and Eligibility for Financial Assistance</a></li>
- 	<li><a href="https://studentloans.gov/myDirectLoan/index.action">Entrance Counseling for Student Borrowers</a></li>
- 	<li><a href="https://studentloans.gov/myDirectLoan/index.action">Exit Counseling for Student Borrowers</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/consumer-information/codes-of-conduct/">Code of Conduct for Educational Student Loans
+</a>
+<ul>
+ 	<li>A UMW financial aid professional is expected to always maintain exemplary standards of professional responsibilities, specifically including all dealings with any entities involved in any manner in student financial aid, regardless of whether such entities are tied to a government sponsored, subsidized, or regulated activity</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/financialaid/types/">Types of Aid Available From Federal, State, Local, and Institutional Programs</a>
+<ul>
+ 	<li>The UMW Office of Financial Aid strives to assist students in reaching their educational goals by providing information and resources regarding financial aid options. UMW administers a variety of institutional, state, federal, and private aid in the form of grants, scholarships and student loans. UMW also works with private lenders and scholarship administrators to ensure that students receive their financial aid in a timely manner.</li>
+</ul>
+</li>
+ 	<li><a href="http://students.umw.edu/judicialaffairs/drug-policies/#Financial">Drugs and Eligibility for Financial Assistance</a>
+<ul>
+ 	<li>The Higher Education Opportunity Act (HEOA) enacted in 2008 reauthorizes the Higher Education Act (HEA) of 1965, as amended. These laws state that any student who has been convicted of any Federal or State law involving the possession or sale of a controlled substance shall not be eligible to receive any grant, loan, or work assistance during the period beginning on the date of such conviction and ending after the interval specified on this website.</li>
+</ul>
+</li>
+ 	<li><a href="https://studentaid.ed.gov/sa/fafsa/next-steps/entrance-counseling">Entrance Federal Loan Counseling for Student Borrowers</a><br class="BasicParagraphCxSpFirst" />
+<ul>
+ 	<li>First-time student borrowers are federally required to complete Direct Loan Entrance Loan Counseling prior to receiving their first loan disbursement.</li>
+</ul>
+</li>
+ 	<li><a href="https://studentloans.gov/myDirectLoan/index.action">Exit Counseling for Student Borrowers</a>
+<ul>
+ 	<li>All federal student loan borrowers must complete exit counseling after they graduate, or are no longer enrolled at least half-time.</li>
+</ul>
+</li>
  	<li>Institutional Code of Conduct for Educational Loans</li>
- 	<li><a href="http://www.umw.edu/financialaid/types/loans/private/">Private Educational Loans</a></li>
- 	<li>Preferred Lender Arrangements</li>
- 	<li>Federal Shopping Sheet (made available to all undergraduate students and all levels of military students in ASIST once awarded financial aid)</li>
+ 	<li><a href="http://www.umw.edu/financialaid/types/loans/private/">Private Educational Loans</a>
+<ul>
+ 	<li>Students who need additional help meeting college expenses may be able to obtain a private or alternative educational loan. These types of loans are offered through many organizations, banks, and credit unions</li>
+</ul>
+</li>
+ 	<li>Federal Shopping Sheet</li>
  	<li>Financial Aid Disbursement Process</li>
- 	<li><a href="http://www.umw.edu/financialaid/eligibility/enrollment-requirements/">Enrollment Requirement by Award Type</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/eligibility/enrollment-requirements/">Enrollment Requirement by Award Type</a>
+<ul>
+ 	<li>This website outlines the enrollment requirements for different sources of financial aid.</li>
+</ul>
+</li>
  	<li>Third Party Servicer Cash Management Contract</li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2016-2017GeneralInformation.pdf">Financial Aid General Information for 2016-2017</a></li>
 </ul>

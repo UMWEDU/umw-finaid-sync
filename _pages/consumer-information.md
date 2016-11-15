@@ -57,15 +57,47 @@ General Institutional Information
  	<li>Students who withdraw from any or all classes after the start of a semester will have their aid reduced in accord with the Federal Return to Title Four Funds policy.  Additionally, if proceeds have been disbursed it is very likely that eligibility will be pro-rated and funds returned to the appropriate programs.</li>
 </ul>
 </li>
- 	<li><a href="http://bookstore.umw.edu/">Textbooks – UMW Bookstore</a></li>
- 	<li><a href="https://academics.umw.edu/">Academic Programs</a></li>
- 	<li><a href="http://www.umw.edu/directory/employee-type/faculty/">Faculty</a></li>
- 	<li><a href="http://academics.umw.edu/registrar/transfer-information/">Transferring Credits to UMW </a></li>
- 	<li><a href="http://www.umw.edu/about/fast-facts/accreditations/">Accreditation</a></li>
- 	<li><a href="http://technology.umw.edu/it-policies/">IT Policies – Computer Use, Copyright Infringement, etc. </a></li>
- 	<li><a href="http://students.umw.edu/studentactivities/">Student Activities and Engagement</a></li>
- 	<li><a href="http://www.umw.edu/careercenter/">Center for Career and Professional Development</a></li>
- 	<li><a href="https://title2.ed.gov/Public/Report/PrintReport.aspx?Year=2013&amp;StateID=51">Teacher Preparation Program Report</a></li>
+ 	<li><a href="http://bookstore.umw.edu/">Textbooks – UMW Bookstore</a>
+<ul>
+ 	<li>Your <strong>University of Mary Washington Bookstore</strong> is the place to find competitive pricing on course materials; to buy, sell and trade new and used textbooks; and to supply your Eagle Pride needs.</li>
+</ul>
+</li>
+ 	<li><a href="https://academics.umw.edu/">Academic Programs</a>
+<ul>
+ 	<li>A comprehensive list of all academic programs, majors and minors, and degree options offered at University of Mary Washington</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/directory/employee-type/faculty/">Faculty</a>
+<ul>
+ 	<li>Alphabetical listing of employees, departments, and buildings with complete contact information and links to further resources.</li>
+</ul>
+</li>
+ 	<li><a href="http://academics.umw.edu/registrar/transfer-information/">Transferring Credits to UMW </a>
+<ul>
+ 	<li>The links on this page provide important information for new incoming students, as well as, current students wishing to obtain permission to bring in transfer coursework from other institutions.</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/about/fast-facts/accreditations/">Accreditation</a>
+<ul>
+ 	<li>We are accredited by the <a href="http://www.sacscoc.org/">Commission on Colleges of the Southern Association of Colleges and Schools</a> (SACS) to award Bachelor’s and Master’s degrees.</li>
+</ul>
+</li>
+ 	<li><a href="http://technology.umw.edu/it-policies/">IT Policies – Computer Use, Copyright Infringement, etc. </a>
+<ul>
+ 	<li>The website contains a listing of IT policies, standards, procedures, plans, and guidelines relevant to students, faculty, and staff.</li>
+</ul>
+</li>
+ 	<li><a href="http://students.umw.edu/studentactivities/">Student Activities and Engagement</a>
+<ul>
+ 	<li>The Office of Student Activities and Engagement (SAE) is the home to a myriad of student activities on campus. From working with our over 130 student organizations to collaborating with academic departments, we are here to assist the UMW community in proposing, developing, and executing meaningful programming for the entire campus.</li>
+</ul>
+</li>
+ 	<li><a href="http://www.umw.edu/careercenter/">Center for Career and Professional Development</a>
+<ul>
+ 	<li>The Center for Career and Professional Development prepares UMW students for the transition from college to career and the world of work.</li>
+</ul>
+</li>
+ 	<li>Teacher Preparation Program Report</li>
  	<li><a href="http://research.schev.edu/iprofile.asp?UID=232681">State Council of Higher Education for Virginia (SCHEV) Profile for UMW</a></li>
  	<li>Appeal and Complaint Policies
 <ul>

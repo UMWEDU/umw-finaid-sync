@@ -166,20 +166,17 @@ Student Financial Assistance
  	<li>All federal student loan borrowers must complete exit counseling after they graduate, or are no longer enrolled at least half-time.</li>
 </ul>
 </li>
- 	<li>Institutional Code of Conduct for Educational Loans</li>
  	<li><a href="http://www.umw.edu/financialaid/types/loans/private/">Private Educational Loans</a>
 <ul>
  	<li>Students who need additional help meeting college expenses may be able to obtain a private or alternative educational loan. These types of loans are offered through many organizations, banks, and credit unions</li>
 </ul>
 </li>
  	<li>Federal Shopping Sheet</li>
- 	<li>Financial Aid Disbursement Process</li>
  	<li><a href="http://www.umw.edu/financialaid/eligibility/enrollment-requirements/">Enrollment Requirement by Award Type</a>
 <ul>
  	<li>This website outlines the enrollment requirements for different sources of financial aid.</li>
 </ul>
 </li>
- 	<li>Third Party Servicer Cash Management Contract</li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2016-2017GeneralInformation.pdf">Financial Aid General Information for 2016-2017</a></li>
 </ul>
 Health and Safety
@@ -197,14 +194,11 @@ Student Outcomes
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Graduation Rates (Student Right-to-Know Act)</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Transfer-out Rates (Student Right-to-Know Act)</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Institutional Six-Year Cohort Graduation Rates</a></li>
- 	<li>Graduate and Professional Education Placement for Graduates</li>
- 	<li>Consumer Information Outcome Disclaimers</li>
 </ul>
 Additional Disclosures
 <ul>
  	<li><a href="https://vote.elections.virginia.gov/VoterInformation">Voter Registration</a></li>
  	<li><a href="https://www.loc.gov/law/help/commemorative-observations/constitution-day.php">U.S. Constitution and Citizenship Day</a></li>
- 	<li>State Approval Disclosure Information</li>
 </ul>
 Employee Disclosure Information and Resources
 <ul>

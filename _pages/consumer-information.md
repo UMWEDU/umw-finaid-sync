@@ -184,7 +184,11 @@ Health and Safety
  	<li><a href="http://www.samhsa.gov/prevention/">Drug</a> and <a href="http://www.collegedrinkingprevention.gov/">Alcohol</a> Abuse <a href="http://www.drugabuse.gov/">Prevention Program</a></li>
  	<li><a href="https://students.umw.edu/healthcenter/health-info/immunizations/">Immunizations</a></li>
  	<li><a href="http://www.umw.edu/police/">University Police Department</a></li>
+ 	<li><a href="http://www.umw.edu/police/2016-annual-security-report/">Annual Campus Security Report</a>
+<ul>
  	<li><a href="http://www.umw.edu/police/2016-annual-security-report/fire-safety/">Fire Safety</a></li>
+</ul>
+</li>
  	<li><a href="http://diversity.umw.edu/title-ix/resource-guides-downloads/">Sexual Assault Resource Guides</a></li>
  	<li><a href="http://diversity.umw.edu/title-ix/on-campus/">Title IX on Campus</a></li>
 </ul>

@@ -11,11 +11,8 @@ published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-University of Mary Washington Consumer Information
-
-This page contains University of Mary Washington consumer information, which must be made available to all students at the University of Mary Washington in accordance with the Higher Education Act of 1965. Under each general heading is a brief summary and link to the information that can be obtained.  To obtain a paper copy of this information, please contact the University of Mary Washington Office of Financial Aid at (540)654-2468 or finaid@umw.edu .
-
-General Institutional Information
+This page contains University of Mary Washington consumer information, which must be made available to all students at the University of Mary Washington in accordance with the Higher Education Act of 1965. Under each general heading is a brief summary and link to the information that can be obtained.  To obtain a paper copy of this information, please contact the University of Mary Washington Office of Financial Aid at 540-654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a>.
+<h2>General Institutional Information</h2>
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/ferpa/">FERPA (Family Educational Rights and Privacy Act) and Families </a>
 <ul>
@@ -138,7 +135,7 @@ General Institutional Information
 </ul>
 </li>
 </ul>
-Student Financial Assistance
+<h2>Student Financial Assistance</h2>
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/consumer-information/codes-of-conduct/">Code of Conduct for Educational Student Loans
 </a>
@@ -179,7 +176,7 @@ Student Financial Assistance
 </li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2016-2017GeneralInformation.pdf">Financial Aid General Information for 2016-2017</a></li>
 </ul>
-Health and Safety
+<h2>Health and Safety</h2>
 <ul>
  	<li><a href="http://www.samhsa.gov/prevention/">Drug</a> and <a href="http://www.collegedrinkingprevention.gov/">Alcohol</a> Abuse <a href="http://www.drugabuse.gov/">Prevention Program</a></li>
  	<li><a href="https://students.umw.edu/healthcenter/health-info/immunizations/">Immunizations</a></li>
@@ -192,19 +189,19 @@ Health and Safety
  	<li><a href="http://diversity.umw.edu/title-ix/resource-guides-downloads/">Sexual Assault Resource Guides</a></li>
  	<li><a href="http://diversity.umw.edu/title-ix/on-campus/">Title IX on Campus</a></li>
 </ul>
-Student Outcomes
+<h2>Student Outcomes</h2>
 <ul>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Retention Rate</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Graduation Rates (Student Right-to-Know Act)</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Transfer-out Rates (Student Right-to-Know Act)</a></li>
  	<li><a href="http://nces.ed.gov/collegenavigator/?q=University+of+Mary+Washington&amp;s=all&amp;id=232681">Institutional Six-Year Cohort Graduation Rates</a></li>
 </ul>
-Additional Disclosures
+<h2>Additional Disclosures</h2>
 <ul>
  	<li><a href="https://vote.elections.virginia.gov/VoterInformation">Voter Registration</a></li>
  	<li><a href="https://www.loc.gov/law/help/commemorative-observations/constitution-day.php">U.S. Constitution and Citizenship Day</a></li>
 </ul>
-Employee Disclosure Information and Resources
+<h2>Employee Disclosure Information and Resources</h2>
 <ul>
  	<li><a href="http://adminfinance.umw.edu/hr/">UMW Human Resources (Mission, Policies and Benefits)</a></li>
  	<li><a href="http://www.dol.gov/dol/topic/health-plans/cobra.htm">U.S. Department of Labor Consumer Information</a></li>

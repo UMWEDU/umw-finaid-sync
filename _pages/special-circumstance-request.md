@@ -16,13 +16,11 @@ If the information you filed on the Free Application for Federal Student Aid (FA
 
 In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
 
-These situations may include (but are not limited to):
+Special Circumstance Requests are available for the following situation:
 <ul>
- 	<li>Death in the family resulting in decreased yearly income</li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Change-in-Household.doc"> Change in Household Size (Marriage, Divorce, Change in number of dependents in the household, change in number of dependents in college)</a></li>
+ 	<li>Change in Income (Involuntary job loss of a family member, Loss of other income, such as child support, disability benefits, etc.)</li>
  	<li>Unusual Medical Expenses</li>
- 	<li>Involuntary job loss of a family member</li>
- 	<li>Loss of other income, such as child support, disability benefits, etc.</li>
- 	<li>Divorce or separation after the FAFSA has been filed</li>
 </ul>
 Examples of situations that can not be considered Special Circumstance include:
 <ul>

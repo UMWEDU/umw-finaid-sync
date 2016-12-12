@@ -18,9 +18,9 @@ In certain circumstances, the Financial Aid Office may make adjustments to the F
 
 Special Circumstance Requests are available for the following situation:
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Change-in-Household.doc"> Change in Household Size (Marriage, Divorce, Change in number of dependents in the household, change in number of dependents in college)</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Change-in-Household.doc">Change in Household Size (Marriage, Divorce, Change in number of dependents in the household, change in number of dependents in college)</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Change-in-Income.doc">Change in Income (Involuntary job loss of a family member, loss of other income, such as child support, disability benefits, etc.)</a></li>
- 	<li>Unusual Medical Expenses</li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Medical-Expenses.doc">Unusual Medical Expenses</a></li>
 </ul>
 Examples of situations that can not be considered Special Circumstance include:
 <ul>
@@ -40,10 +40,12 @@ To process a request for review we must have the following:
  	<li>A minimum of 16 consecutive weeks of income loss is required for appeals based on loss of earnings.  Please submit your request after this period.</li>
 </ul>
 <h4>Additional documents may be requested throughout the process.</h4>
-The parent and/or student must submit the <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/10/SpecialCircumstance1617.doc">Special Circumstance Request Form</a><em><strong> </strong></em>and all required documentation before the committee will review.  Responses are sent by mail or email within two weeks after a decision is made.  The University of Mary Washington (UMW) will begin reviewing letters of special circumstance in early April for the following academic year for all new UMW students.  Continuing student requests are reviewed in late June. Requests received after that time will be processed as they are submitted.  <strong>We are unable to consider loss of employment due to voluntary separation or a decrease in income for a student considered dependent on the Free Application for Federal Student Aid.</strong>
+The parent and/or student must submit the <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/10/SpecialCircumstance1617.doc">Special Circumstance Request Form</a><em><strong> </strong></em>and all required documentation before the committee will review.  Responses are sent by mail or email within two weeks after a decision is made.  The University of Mary Washington (UMW) will begin reviewing letters of special circumstance in January for the following academic year for all new UMW students.  Requests received after that time will be processed as they are submitted.  <strong>We are unable to consider loss of employment due to voluntary separation or a decrease in income for a student considered dependent on the Free Application for Federal Student Aid.</strong>
 <h3>DEADLINES:</h3>
 Fall:   October 01
 Spring:    February 15
+
+<strong>RESULTS:</strong>
 
 Complete applications submitted to the Office of Financial Aid will result in one of the following outcomes:
 <ul>

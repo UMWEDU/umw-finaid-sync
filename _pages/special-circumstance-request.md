@@ -12,7 +12,9 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>Special Circumstance</h2>
-If the information you filed on the Free Application for Federal Student Aid (FAFSA) does not reflect your current financial situation or does not take into account an unusual circumstance with you and/or your family you may submit a request for review of your financial aid status for special circumstances.   In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
+If the information you filed on the Free Application for Federal Student Aid (FAFSA) does not reflect your current financial situation or does not take into account an unusual circumstance with you and/or your family you may submit a request for review of your financial aid status for special circumstances.   This may occur due to your FAFSA being based on two years prior tax information.
+
+In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
 
 These situations may include (but are not limited to):
 <ul>

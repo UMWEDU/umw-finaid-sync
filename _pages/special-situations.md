@@ -63,9 +63,9 @@ Students or parents of dependent students that earned wages, but did not file a 
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/IncomeClarificationForm.doc">Income Clarification Form</a> (if requested)</li>
 </ul>
 <h2>My parents or I lost a job recently.</h2>
-An independent student and spouse, or a parent of a dependent student that has lost a job may submit a Special Circumstance Request under these criteria:
+An independent student and spouse, or a parent of a dependent student that has lost a job may submit a <a href="http://www.umw.edu/financialaid/eligibility/special-circumstance-request/">Special Circumstance Request</a> under these criteria:
 <ul>
  	<li>Loss of employment must occur 16 weeks prior to time of request</li>
  	<li>Loss of employment must be involuntary (but not fired for cause)</li>
- 	<li>Must provide documentation as shown on <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Special-Circumstance-Request-Form.doc" rel="">Special Circumstance Request Form</a>.</li>
+ 	<li>Must provide documentation as shown on the appropriate Special Circumstance Request form..</li>
 </ul>

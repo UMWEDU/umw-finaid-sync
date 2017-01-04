@@ -6,7 +6,7 @@ post_date: 2016-02-16 13:46:53
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/
+  https://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

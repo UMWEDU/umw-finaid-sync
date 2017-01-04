@@ -85,7 +85,7 @@ Fredericksburg, VA 22401
 Fax: 540-654-1858
 <h3>SAP Appeal Deadlines</h3>
 <ul>
- 	<li>Fall semester appeals must be received by January 9th</li>
+ 	<li>Fall semester appeals must be received by February 1st</li>
  	<li>Spring semester appeals must be received by June 1st</li>
  	<li>Summer semesters appeals must be received by August 1st</li>
 </ul>

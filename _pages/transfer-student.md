@@ -47,7 +47,7 @@ Applying for financial aid can be a confusing process for many transfer students
 </tr>
 <tr>
 <td><strong>July/August</strong></td>
-<td>If you have eligibility for the <a href="http://www.schev.edu/students/factsheetTransferGrant.pdf">2 Year Virginia Transfer Grant</a>, submit the application to the UMW Office of Financial Aid.</td>
+<td>If you have eligibility for the 2 Year Virginia Transfer Grant, submit the application to the UMW Office of Financial Aid.</td>
 </tr>
 <tr>
 <td><strong>Early August</strong></td>

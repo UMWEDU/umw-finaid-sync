@@ -6,7 +6,7 @@ post_date: 2016-02-17 14:32:28
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/types/virginia-state-grants/
+  https://www.umw.edu/financialaid/types/virginia-state-grants/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

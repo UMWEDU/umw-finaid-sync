@@ -6,13 +6,13 @@ post_date: 2016-02-22 13:56:25
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/student-employment/applicants/payroll/
+  http://www.umw.edu/financialaid/student-employment/applicants/payroll/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <ul>
- 	<li><a href="http://adminfinance.umw.edu/payroll/files/2013/08/2017-Pay-Calendar.pdf">2016 payroll schedule for student employees</a></li>
+ 	<li>2017 payroll schedule for student employees</li>
 </ul>
 <h2>Accessing Paystubs and W-2s</h2>
 <strong>After your first payday</strong>, you may access your pay stubs and W-2 online at Virginia Payline. Paydays are listed in the above linked payroll schedules.

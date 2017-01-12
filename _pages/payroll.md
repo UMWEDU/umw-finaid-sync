@@ -6,7 +6,7 @@ post_date: 2016-02-22 13:56:25
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/student-employment/applicants/payroll/
+  http://www.umw.edu/financialaid/student-employment/applicants/payroll/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

@@ -6,7 +6,7 @@ post_date: 2016-02-22 14:31:59
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/student-employment/supervisors/post-job/
+  https://www.umw.edu/financialaid/student-employment/supervisors/post-job/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

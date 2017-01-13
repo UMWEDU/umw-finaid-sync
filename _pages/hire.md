@@ -6,7 +6,7 @@ post_date: 2016-02-22 14:38:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/student-employment/supervisors/hire/
+  http://www.umw.edu/financialaid/student-employment/supervisors/hire/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890475542;s:3:"url";s:68:"http://www.umw.edu/financialaid/student-employment/supervisors/hire/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890475542";}s:4:"time";i:1456938755;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15890475542;s:3:"url";s:68:"http://www.umw.edu/financialaid/student-employment/supervisors/hire/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890475542";}s:4:"time";i:1456938730;}}'
@@ -36,7 +36,8 @@ If you would like to hire a student employee and don’t know where to begin, th
  	<li>Banner ID</li>
  	<li>Pay rate**</li>
  	<li>FOAP to charge (six-digit org# is fine)</li>
- 	<li>Any special notes, such as a desired start date so as to provide a deadline for the paperwork</li>
+ 	<li>Any special notes, such as a desired start date so as to provide a deadline for the paperwork.</li>
+ 	<li>PLEASE US THIS FORM TO LIST THE STUDENTS YOU ARE HIRING:  <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SEMPL-Hire-Form.docx">SEMPL Hire Form</a></li>
 </ul>
 **Normally an hourly wage. <a href="http://www.umw.edu/financialaid/student-employment/supervisors/stipends/">Stipend contracts</a> are an option in some cases.
 <ol start="6">

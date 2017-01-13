@@ -6,7 +6,7 @@ post_date: 2016-02-29 13:47:14
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/student-employment/supervisors/early-cancellation-and-dismissal/
+  https://www.umw.edu/financialaid/student-employment/supervisors/early-cancellation-and-dismissal/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

@@ -6,7 +6,7 @@ post_date: 2016-02-16 14:02:08
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/eligibility/bookstore-voucher/
+  http://www.umw.edu/financialaid/eligibility/bookstore-voucher/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

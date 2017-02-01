@@ -171,4 +171,4 @@ wpcf-home-page-grid-inclusion:
 </table>
 <strong>‘CHARGES BILLED TO STUDENTS’ are estimated charges paid directly to UMW and vary based on student choices. Other costs are additional estimated expenses that families can expect throughout the academic year and can also vary from student to student.</strong>
 
-Please refer to the back of this form for additional information regarding college costs, billing and payment plan options.
+&nbsp;

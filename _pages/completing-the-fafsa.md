@@ -19,7 +19,7 @@ New FAFSA filing deadlines:
 <ul>
  	<li>Incoming 2017-2018 Freshman Students - February 1, 2017</li>
  	<li>Incoming 2017-2018 Transfer Students - April 1, 2017</li>
- 	<li>All current continuing students - January 15, 2017</li>
+ 	<li>All current continuing students - February 1, 2017</li>
 </ul>
 The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a>  both at our campus, and off-site at local high schools.
 
@@ -33,8 +33,6 @@ After the FAFSA filing deadline, all undergraduate students continue to be eligi
 </ul>
 <p style="text-align: justify">Watch this video to learn how to create an FSA ID.</p>
 https://www.youtube.com/watch?v=lLi0q7hkFns
-<p style="text-align: justify"></p>
-
 <h2>Information Needed for the FAFSA</h2>
 <ul>
  	<li>Student , parent and/or spouse Social Security Numbers</li>

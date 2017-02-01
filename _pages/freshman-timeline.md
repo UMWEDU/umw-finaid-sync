@@ -31,7 +31,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <td>Log into a UMW Financial Aid chat! Register through the <a href="http://www.umw.edu/admissions/">Office of Admissions</a>.</td>
 </tr>
 <tr>
-<td><strong>February 1</strong></td>
+<td><strong>February 6</strong></td>
 <td><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>
 <tr>

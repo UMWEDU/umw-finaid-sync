@@ -6,7 +6,7 @@ post_date: 2016-02-08 14:59:06
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/timelines/transfer-student/
+  http://www.umw.edu/financialaid/process/timelines/transfer-student/
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057067125;s:3:"url";s:67:"http://www.umw.edu/financialaid/process/timelines/transfer-student/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057067125";}s:4:"time";i:1458149941;}}'
@@ -35,7 +35,7 @@ Applying for financial aid can be a confusing process for many transfer students
 </tr>
 <tr>
 <td><strong>April 1</strong></td>
-<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the April 1 deadline. All undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will not be available at that time.</td>
+<td>FAFSA Deadline for new transfer students: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the April 1 deadline. All undergraduate students continue to be eligible for <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Student Loans</a>, and <a href="http://www.umw.edu/financialaid/types/federal-grants/">federal grants</a>. Other funds (<a href="http://www.umw.edu/financialaid/types/virginia-state-grants/">Virginia State Grants</a>, <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">scholarships</a>, etc.) will not be available at that time.</td>
 </tr>
 <tr>
 <td><strong>May 1</strong></td>

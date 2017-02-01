@@ -24,11 +24,11 @@ Applying for financial aid can be a confusing process for many students, even if
 <td><a href="https://fafsa.ed.gov/">FAFSA</a> available!</td>
 </tr>
 <tr>
-<td><strong>January 15</strong></td>
+<td><strong>February 1</strong></td>
 <td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.</td>
 </tr>
 <tr>
-<td><strong>February
+<td><strong>February 6
 </strong></td>
 <td><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>

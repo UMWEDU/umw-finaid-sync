@@ -31,12 +31,12 @@ If you are having trouble meeting these deadlines for any reason, please contact
 <ul>
  	<li>Incoming Freshmen Students: February 1</li>
  	<li>Transfer Students (First Year): April 1</li>
- 	<li>All UMW Continuing Students: January 15</li>
+ 	<li>All UMW Continuing Students: February 1</li>
  	<li>If selected for <a href="http://www.umw.edu/financialaid/process/verification/">FAFSA verification</a> for the fall semester, all documentation and FAFSA IRS Data Retrieval must be submitted by July 1.</li>
 </ul>
 <h3>Online Scholarship Application</h3>
 <ul>
- 	<li>Available: February 1</li>
+ 	<li>Available: February 6</li>
  	<li>Deadline:  May 1</li>
 </ul>
 &nbsp;

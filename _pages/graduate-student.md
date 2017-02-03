@@ -6,7 +6,7 @@ post_date: 2016-02-10 13:34:54
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/timelines/graduate-student/
+  https://www.umw.edu/financialaid/process/timelines/graduate-student/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

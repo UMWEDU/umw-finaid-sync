@@ -30,7 +30,7 @@ Applying for financial aid can be a confusing process for many transfer students
 <td>Log into a UMW Financial Aid chat! Register through the Office of Admissions.</td>
 </tr>
 <tr>
-<td><strong>February </strong></td>
+<td><strong>February 6</strong></td>
 <td>UMW <a href="https://umw.scholarships.ngwebsolutions.com">Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>
 <tr>

@@ -6,7 +6,7 @@ post_date: 2016-02-10 13:34:54
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/timelines/graduate-student/
+  http://www.umw.edu/financialaid/process/timelines/graduate-student/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -15,11 +15,11 @@ As a student in a UMW graduate program, you may be eligible for the Federal Dire
 <table width="99%">
 <tbody>
 <tr>
-<td width="20%"><strong>Prior to January 1</strong></td>
-<td width="80%">Students, and parents of dependent students: Apply for a <a href="https://fsaid.ed.gov">Federal Student Aid ID</a>, so that you can complete your FAFSA after January 1.</td>
+<td width="20%"><strong>Prior to October 1</strong></td>
+<td width="80%">Apply for a <a href="https://fsaid.ed.gov">Federal Student Aid ID</a>, so that you can complete your FAFSA after October 1.</td>
 </tr>
 <tr>
-<td><strong>January 1</strong></td>
+<td><strong>October 1</strong></td>
 <td><a href="https://fafsa.ed.gov/">FAFSA</a> available!</td>
 </tr>
 <tr>

@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:00:44
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/deadlines/
+  https://www.umw.edu/financialaid/process/deadlines/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

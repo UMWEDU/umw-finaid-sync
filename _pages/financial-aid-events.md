@@ -6,7 +6,7 @@ post_date: 2016-02-10 13:53:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/financial-aid-events/
+  http://www.umw.edu/financialaid/process/financial-aid-events/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -15,7 +15,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Financial Aid Chats - Spring 2017</h2>
 The Office of Financial Aid will be hosting online chats for incoming freshmen and transfer students on the following dates. Students and families log on to discuss topics such as FAFSA Completion, Verification, Scholarships, etc.
 <ul>
- 	<li>Tuesday, January 17 6:30-8 p.m.</li>
+ 	<li>Tuesday, January 17 6:30-8 p.m. - <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/02/Financial-Aid-Chat-January-17_2017.docx">Chat Transcript</a></li>
  	<li>Tuesday, February 7 6:30-8 p.m.</li>
  	<li>Tuesday, March 7 6:30-8 p.m.</li>
  	<li>Tuesday, April 4 6:30-8 p.m.</li>

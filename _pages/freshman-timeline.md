@@ -6,7 +6,7 @@ post_date: 2016-02-08 14:54:23
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/timelines/freshman-timeline/
+  http://www.umw.edu/financialaid/process/timelines/freshman-timeline/
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057064488;s:3:"url";s:68:"http://www.umw.edu/financialaid/process/timelines/freshman-timeline/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057064488";}s:4:"time";i:1458149839;}}'
@@ -47,7 +47,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <td>Attend UMW Orientation! Don’t forget to attend our Financial Aid and Financial Literacy sessions!</td>
 </tr>
 <tr>
-<td><strong>July 1</strong></td>
+<td><strong>June 1</strong></td>
 <td>Deadline to submit all requested verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your MyUMW portal.</td>
 </tr>
 <tr>

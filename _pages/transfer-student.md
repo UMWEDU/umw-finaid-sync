@@ -42,7 +42,7 @@ Applying for financial aid can be a confusing process for many transfer students
 <td>Online Scholarship Application deadline - 11:59 p.m.</td>
 </tr>
 <tr>
-<td><strong>July 1</strong></td>
+<td><strong>June 1</strong></td>
 <td>Deadline to submit all requested Verification documents to the UMW Financial Aid Office. Also, don’t forget to complete the IRS Data Retrieval through your FAFSA. These requirements can be found on your myUMW portal.</td>
 </tr>
 <tr>

@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:00:44
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/deadlines/
+  http://www.umw.edu/financialaid/process/deadlines/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -32,7 +32,8 @@ If you are having trouble meeting these deadlines for any reason, please contact
  	<li>Incoming Freshmen Students: February 1</li>
  	<li>Transfer Students (First Year): April 1</li>
  	<li>All UMW Continuing Students: February 1</li>
- 	<li>If selected for <a href="http://www.umw.edu/financialaid/process/verification/">FAFSA verification</a> for the fall semester, all documentation and FAFSA IRS Data Retrieval must be submitted by July 1.</li>
+ 	<li>If selected for <a href="http://www.umw.edu/financialaid/process/verification/">FAFSA verification</a> and applying for UMW Foundation Scholarships, all documentation must be submitted by June 1st.</li>
+ 	<li>Otherwise, you must submit the verification documents no later than July 1st for the financial aid to be applied to your bill on time.</li>
 </ul>
 <h3>Online Scholarship Application</h3>
 <ul>

@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:10:38
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/verification-questions/
+  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/verification-questions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -41,6 +41,6 @@ wpcf-home-page-grid-inclusion:
 <h2>What if I don’t complete the Verification process?</h2>
 <ul>
  	<li>The verification process is a federal regulation</li>
- 	<li>]In order for a student to receive financial aid, as well as any state or institutional need-based aid, this process must be complete.</li>
+ 	<li>In order for a student to receive financial aid, as well as any state or institutional need-based aid, this process must be complete.</li>
  	<li>If you do not plan to complete this process or receive financial aid, please contact the Office of Financial Aid office so we can update your status.</li>
 </ul>

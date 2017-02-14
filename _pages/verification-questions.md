@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:10:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/verification-questions/
+  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/verification-questions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

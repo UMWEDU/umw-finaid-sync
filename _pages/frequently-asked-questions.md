@@ -21,7 +21,7 @@ In order to be considered for 2017-2018 federal, state, and institutional financ
 <ul>
  	<li>February 1, 2017 - Incoming Freshman</li>
  	<li>April 1, 2017 - Incoming Transfers</li>
- 	<li>January 15, 2017 - Continuing Students</li>
+ 	<li>February 1, 2017 - Continuing Students</li>
 </ul>
 If you submit the FAFSA after these dates, you may only be considered for the Direct Loan Program and the Federal Pell Grant.
 <h2>What happens after I file the FAFSA?</h2>

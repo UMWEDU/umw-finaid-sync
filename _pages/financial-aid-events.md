@@ -6,7 +6,7 @@ post_date: 2016-02-10 13:53:59
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/financial-aid-events/
+  https://www.umw.edu/financialaid/process/financial-aid-events/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

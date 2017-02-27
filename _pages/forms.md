@@ -6,12 +6,14 @@ post_date: 2016-03-09 13:53:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/forms/
+  http://www.umw.edu/financialaid/process/forms/
 published: true
 wpsi_page_checks:
   - 'a:8:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16056764230;s:3:"url";s:46:"http://www.umw.edu/financialaid/process/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16056764230";}s:4:"time";i:1458150896;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16056764230;s:3:"url";s:46:"http://www.umw.edu/financialaid/process/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16056764230";}s:4:"time";i:1458149592;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:16056764230;s:3:"url";s:46:"http://www.umw.edu/financialaid/process/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16056764230";}s:4:"time";i:1458149302;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:16056764230;s:3:"url";s:46:"http://www.umw.edu/financialaid/process/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16056764230";}s:4:"time";i:1458149216;}i:4;O:8:"stdClass":5:{s:8:"check_id";i:15991338194;s:3:"url";s:38:"http://www.umw.edu/financialaid/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991338194";}s:4:"time";i:1457549865;}i:5;O:8:"stdClass":5:{s:8:"check_id";i:15991338194;s:3:"url";s:38:"http://www.umw.edu/financialaid/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991338194";}s:4:"time";i:1457549828;}i:6;O:8:"stdClass":5:{s:8:"check_id";i:15991338194;s:3:"url";s:38:"http://www.umw.edu/financialaid/forms/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991338194";}s:4:"time";i:1457549629;}i:7;O:8:"stdClass":5:{s:8:"check_id";i:15991338185;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=180";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991338185";}s:4:"time";i:1457549606;}}'
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 2016-2017 Forms/Info:
 <ul>
@@ -41,7 +43,7 @@ wpcf-home-page-grid-inclusion:
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/StudyAbroadSum.docx">Study Abroad - Summer</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/Request-for-Financial-Aid-Consortium-Agreement.docx">Study Abroad - All Year</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/Request-for-Financial-Aid-Consortium-Agreement.docx">Financial Aid Consortium Agreement</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Change-in-Income.doc">Special Circumstance Request- Change in Income</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SC-Change-in-Household.doc">Special Circumstance Request- Change in Household Size</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/01/SC-Medical-Expenses-2.doc">Special Circumstance Request - Unusual Medical Expenses</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SC-Change-in-Income.pdf">Special Circumstance Request - Change in Income</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SC-Change-in-Household.pdf">Special Circumstance Request - Change in Household Size</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SC-Medical-Expenses-2.pdf">Special Circumstance Request - Unusual Medical Expenses</a></li>
 </ul>

@@ -6,7 +6,7 @@ post_date: 2016-02-16 14:11:20
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/eligibility/special-circumstance-request/
+  https://www.umw.edu/financialaid/eligibility/special-circumstance-request/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

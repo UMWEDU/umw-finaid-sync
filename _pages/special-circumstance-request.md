@@ -6,12 +6,12 @@ post_date: 2016-02-16 14:11:20
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/eligibility/special-circumstance-request/
+  https://www.umw.edu/financialaid/eligibility/special-circumstance-request/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Special Circumstance</h2>
 If the information you filed on the Free Application for Federal Student Aid (FAFSA) does not reflect your current financial situation or does not take into account an unusual circumstance with you and/or your family you may submit a request for review of your financial aid status for special circumstances.   This may occur due to your FAFSA being based on two years prior tax information.

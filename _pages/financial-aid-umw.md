@@ -9,4 +9,6 @@ permalink: https://www.umw.edu/financialaid/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---

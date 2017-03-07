@@ -15,10 +15,10 @@ wpcf-homepage-copy:
   - |
     Undergraduate financial aid information for students beginning their collegiate journey.
     <ul>
-    	<li><a href="/financialaid/the-financial-aid-process/timelines/freshman-timeline/">Freshman</a> and <a href="https://www.umw.edu/financialaid/process/timelines/transfer-student/">Transfer Student</a> Timelines</li>
-    	<li><a href="https://www.umw.edu/financialaid/process/completing-the-fafsa/">Completing the FAFSA</a></li>
-    	<li><a href="http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/">Admissions Merit Scholarships</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/ferpa/">FERPA and Families</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">Cost of Attendance</a></li>
+    <li><a href="/financialaid/the-financial-aid-process/timelines/freshman-timeline/">Freshman</a> and <a href="https://www.umw.edu/financialaid/process/timelines/transfer-student/">Transfer Student</a> Timelines</li>
+    <li><a href="https://www.umw.edu/financialaid/process/completing-the-fafsa/">Completing the FAFSA</a></li>
+    <li><a href="http://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/">Admissions Merit Scholarships</a></li>
+    <li><a href="https://www.umw.edu/financialaid/ferpa/">FERPA and Families</a></li>
+    <li><a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">Cost of Attendance</a></li>
     </ul>
 ---

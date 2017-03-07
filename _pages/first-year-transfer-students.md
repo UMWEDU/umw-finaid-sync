@@ -21,4 +21,6 @@ wpcf-homepage-copy:
     <li><a href="https://www.umw.edu/financialaid/ferpa/">FERPA and Families</a></li>
     <li><a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">Cost of Attendance</a></li>
     </ul>
+yst_prominent_words_version:
+  - "1"
 ---

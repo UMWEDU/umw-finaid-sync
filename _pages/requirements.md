@@ -8,12 +8,12 @@ post_date: 2016-02-10 14:55:59
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
+  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
 

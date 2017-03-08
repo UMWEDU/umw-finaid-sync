@@ -8,7 +8,7 @@ post_date: 2016-02-10 14:55:59
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/verification/forms/requirements/
+  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

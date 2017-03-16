@@ -6,15 +6,17 @@ post_date: 2016-02-17 13:56:16
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/leaving/withdrawal/
+  http://www.umw.edu/financialaid/process/leaving/withdrawal/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>Withdrawal</h2>
 Official withdrawals from academic courses occur through the UMW Office of the Registrar. Withdrawing from all courses in a semester will affect the amount of aid that students may be eligible for during that semester. As a result, it is possible that financial aid packages may be changed after the withdrawal date is known, which could result in a balance on the student’s University account.
 
-If you are planning to withdraw from all courses in a semester, please contact Rhonda Stills, Office of the Registrar, at (540)654-1259 or <a href="mailto:rstills@umw.edu">rstills@umw.edu</a>  for <a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">full withdrawal procedures</a>.
+If you are planning to withdraw from all courses in a semester, please contact Susanne Tomillon, Office of the Registrar, at (540)654-1259 or stomillo@umw.edu  for <a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">full withdrawal procedures</a>.
 <h2>Private Educational Student Loans</h2>
 The policies regarding withdrawal mid-semester are determined by each private loan lender. UMW will contact the lender when the official withdrawal date is known for determination of how to proceed with the loan funds.
 <h2>Federal Direct Student Loans</h2>

@@ -8,14 +8,16 @@ post_date: 2016-02-17 14:04:19
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/leaving/withdrawal-or-leave/
+  http://www.umw.edu/financialaid/process/leaving/withdrawal-or-leave/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890491536;s:3:"url";s:68:"http://www.umw.edu/financialaid/process/leaving/withdrawal-or-leave/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890491536";}s:4:"time";i:1456938849;}}'
+yst_prominent_words_version:
+  - "1"
 ---
-Official withdrawals from academic courses occur through the UMW Office of the Registrar. If you are planning to withdraw from all courses in a semester, please contact Rhonda Stills, Office of the Registrar, at (540)654-1259 or <a href="mailto:rstills@umw.edu">rstills@umw.edu</a>  for <a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">full withdrawal procedures</a>.
+Official withdrawals from academic courses occur through the UMW Office of the Registrar. If you are planning to withdraw from all courses in a semester, please contact Susanne Tomillon, Office of the Registrar, at (540)654-1259 or stomillo@umw.edu for <a href="http://academics.umw.edu/registrar/ferpa-policies-procedures-services/withdrawal-procedures/">full withdrawal procedures</a>.
 
 If the total course withdrawal takes place before the semester has begun, or if the student has taken a full-semester leave of absence, the estimated financial aid for that semester will be cancelled, therefore not applied to the student’s University account.
 

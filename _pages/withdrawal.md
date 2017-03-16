@@ -6,7 +6,7 @@ post_date: 2016-02-17 13:56:16
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/leaving/withdrawal/
+  https://www.umw.edu/financialaid/process/leaving/withdrawal/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

@@ -6,7 +6,7 @@ post_date: 2016-02-17 14:20:18
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/types/scholarship-opportunities/
+  https://www.umw.edu/financialaid/types/scholarship-opportunities/
 published: true
 yst_prominent_words_version:
   - "1"

@@ -6,12 +6,12 @@ post_date: 2016-02-17 14:20:18
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/types/scholarship-opportunities/
+  https://www.umw.edu/financialaid/types/scholarship-opportunities/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>There are many scholarship opportunities at UMW!</h2>
 <h3>Endowed UMW Foundation Scholarships and Awards (non-Departmental)</h3>

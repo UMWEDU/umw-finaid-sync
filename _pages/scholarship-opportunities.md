@@ -6,7 +6,7 @@ post_date: 2016-02-17 14:20:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/types/scholarship-opportunities/
+  http://www.umw.edu/financialaid/types/scholarship-opportunities/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -25,4 +25,4 @@ These endowed scholarship programs equate to the cost of tuition, fees, room and
 <h3>Scholarships from non-UMW Sources</h3>
 Students can receive scholarships from non-UMW sources - high school, religious organization, etc. Along with the scholarship check, the donor should be sure to indicate the student recipient’s name and student ID number.<del></del>
 <h3>Scholarships for UMW Employee Children</h3>
-Scholarships are available for employee’s dependent children.  In order to be eligible for this opportunity, students will want to submit the Online Scholarship Manager Application (<a href="http://umw.scholarships.ngwebsolutions.com/">http://umw.scholarships.ngwebsolutions.com</a>).  For any questions regarding these scholarship opportunities, please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> .
+Scholarships are available for employee’s dependent children.  In order to be eligible for this opportunity, students will want to submit the <a href="http://umw.scholarships.ngwebsolutions.com">Online Scholarship Manager Application</a>.  For any questions regarding these scholarship opportunities, please contact the Office of Financial Aid at (540) 654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> .

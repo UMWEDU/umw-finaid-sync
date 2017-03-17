@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <h2>There are many scholarship opportunities at UMW!</h2>
 <h3>Endowed UMW Foundation Scholarships and Awards (non-Departmental)</h3>

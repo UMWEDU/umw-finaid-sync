@@ -6,7 +6,7 @@ post_date: 2016-02-22 13:42:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/
+  https://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"

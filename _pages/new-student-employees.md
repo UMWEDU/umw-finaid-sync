@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 Supervisors must receive a Work Authorization from the Student Employment Coordinator before student employees are authorized to begin work. Below are the forms required for a Work Authorization.
 <h2>Submit Online:</h2>

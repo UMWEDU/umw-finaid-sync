@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 Supervisors must receive a work authorization from the Office of Financial Aid before student employees are authorized to begin work. Employees who are returning to work after the summer must renew their employment agreements to receive their work authorizations.
 

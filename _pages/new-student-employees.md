@@ -6,12 +6,12 @@ post_date: 2016-02-22 13:42:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/
+  https://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Supervisors must receive a Work Authorization from the Student Employment Coordinator before student employees are authorized to begin work. Below are the forms required for a Work Authorization.
 <h2>Submit Online:</h2>

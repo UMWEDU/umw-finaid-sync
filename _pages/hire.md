@@ -6,14 +6,14 @@ post_date: 2016-02-22 14:38:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/student-employment/supervisors/hire/
+  https://www.umw.edu/financialaid/student-employment/supervisors/hire/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890475542;s:3:"url";s:68:"http://www.umw.edu/financialaid/student-employment/supervisors/hire/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890475542";}s:4:"time";i:1456938755;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15890475542;s:3:"url";s:68:"http://www.umw.edu/financialaid/student-employment/supervisors/hire/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890475542";}s:4:"time";i:1456938730;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 If you would like to hire a student employee and don’t know where to begin, then this page is for you. Please find below the step-by-step process for hiring a student employee:
 <ol>

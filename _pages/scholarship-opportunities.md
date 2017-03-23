@@ -6,7 +6,7 @@ post_date: 2016-02-17 14:20:18
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/types/scholarship-opportunities/
+  http://www.umw.edu/financialaid/types/scholarship-opportunities/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -19,7 +19,7 @@ UMW Foundation Scholarships are based on endowment funds managed by the UMW Foun
 <h3>Departmental Scholarships and Awards</h3>
 Most academic departments award a variety of scholarships each year. Each Department selects recipients from students that have declared majors in their specific discipline.  Scholarship opportunities for each academic department can be applied for through the UMW <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>.
 <h3>Merit Based Freshman and Transfer Student Scholarships</h3>
-First- time freshmen and transfer students are automatically considered for select scholarships based on GPA/SAT/ACT scores. Scholarships are also available for incoming students that choose not to submit test scores. For more information regarding the selection process, please contact the <a href="http://www.umw.edu/admissions/meet-us/">Office of Admissions</a>.
+First- time freshmen and transfer students are automatically considered for select scholarships based on GPA/SAT/ACT scores. Scholarships are also available for incoming students that choose not to submit test scores. For more information regarding the selection process, please contact the <a href="http://www.umw.edu/admissions/meet-us/">Office of Admissions</a> and visit the <a href="http://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/">Admissions Merit Scholarships</a> webpage.
 <h3>Washington and Alvey Programs</h3>
 These endowed scholarship programs equate to the cost of tuition, fees, room and board. Incoming freshmen may apply for these programs through the <a href="http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/washington-and-alvey/">Office of Admissions</a>.
 <h3>Scholarships from non-UMW Sources</h3>

@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:02:08
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/graduate-students/
+  https://www.umw.edu/financialaid/process/graduate-students/
 published: true
 yst_prominent_words_version:
   - "1"

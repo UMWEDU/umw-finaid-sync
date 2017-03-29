@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:02:08
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/graduate-students/
+  http://www.umw.edu/financialaid/process/graduate-students/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -25,6 +25,7 @@ wpcf-homepage-copy:
 <h2>Financial Aid &amp; Scholarship Information</h2>
 The University of Mary Washington offers financial assistance to graduate students enrolled at least half-time in degree programs and pathway programs. Half-time enrollment for graduate students is five graduate level credit hours per semester. A combination of 8 and 16 week courses can be taken.
 <h4><span style="color: #ab0303"><strong>Students enrolled in other non-degree certificate programs or enrolled less than half time, are only eligible for alternative loans.</strong></span></h4>
+<br></br>
 <h2>Financial Aid</h2>
 <h3>How and When to Apply</h3>
 Students interested in applying for financial aid must file the Free Application for Federal Student Aid (FAFSA) at <a href="http://www.fafsa.ed.gov/">www.fafsa.ed.gov.</a> In order for results from the FAFSA to download into the UMW financial aid system, students must have applied for admission.

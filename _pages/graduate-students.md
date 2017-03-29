@@ -6,8 +6,10 @@ post_date: 2016-02-10 14:02:08
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/graduate-students/
+  https://www.umw.edu/financialaid/process/graduate-students/
 published: true
+yst_prominent_words_version:
+  - "1"
 wpcf-home-page-grid-inclusion:
   - "1"
 wpcf-homepage-copy:
@@ -19,8 +21,6 @@ wpcf-homepage-copy:
     <li><a href="https://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Graduate Loans</a></li>
     <li><a href="https://www.umw.edu/financialaid/process/graduate-students/">FA and Scholarship Information</a></li>
     </ul>
-yst_prominent_words_version:
-  - "1"
 ---
 <h2>Financial Aid &amp; Scholarship Information</h2>
 The University of Mary Washington offers financial assistance to graduate students enrolled at least half-time in degree programs and pathway programs. Half-time enrollment for graduate students is five graduate level credit hours per semester. A combination of 8 and 16 week courses can be taken.

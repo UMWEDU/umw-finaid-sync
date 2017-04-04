@@ -8,7 +8,7 @@ post_date: 2016-02-10 14:55:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
+  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -20,7 +20,7 @@ In an update on Thursday, March 30, the Department of Education (ED) indicated t
 <h2>Satisfying Tax Requirements for Verification</h2>
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. As indicated above the firs option (DRT) is currently unavailable.  All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
 
-<strong>This option is currently unavailable.</strong>  Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
+<span style="color: #a80000"><strong>This option is currently unavailable.</strong></span>  Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
 <ul>
  	<li>Return to the <a href="https://fafsa.ed.gov/">FAFSA website</a> and click on ‘Make FAFSA corrections’.</li>
  	<li>Scan through your submitted FAFSA information until you get to the Financial Information section. You’ll see the question, ‘<strong>Have you completed your IRS income tax return or another tax return?</strong>’</li>

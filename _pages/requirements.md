@@ -8,14 +8,14 @@ post_date: 2016-02-10 14:55:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
+  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h3><strong><span style="color: #8c0101">IRS-DRT to be Down For Several Months More</span></strong></h3>
+<h3><span style="color: #a80000"><strong>IRS-DRT to be Down For Several Months More</strong></span></h3>
 In an update on Thursday, March 30, the Department of Education (ED) indicated that the IRS Data Retrieval Tool (DRT) will be out of service for several months, advising that "students and families should plan for the tool to be offline until the start of the next FAFSA season," which starts in October.
 <h2>Satisfying Tax Requirements for Verification</h2>
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. As indicated above the firs option (DRT) is currently unavailable.  All parties must also provide corresponding wage statements (W2’s, 1099, etc.)

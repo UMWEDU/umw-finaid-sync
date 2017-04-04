@@ -8,16 +8,19 @@ post_date: 2016-02-10 14:55:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
+  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/requirements/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
+<h3>IRS-DRT to be Down For Several Months More</h3>
+In an update on Thursday, March 30, the Department of Education (ED) indicated that the IRS Data Retrieval Tool (DRT) will be out of service for several months, advising that "students and families should plan for the tool to be offline until the start of the next FAFSA season," which starts in October.
 
-Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
+If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. As indicated above the firs option (DRT) is currently unavailable.  All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
+
+<strong>This option is currently unavailable.</strong>  Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
 <ul>
  	<li>Return to the <a href="https://fafsa.ed.gov/">FAFSA website</a> and click on ‘Make FAFSA corrections’.</li>
  	<li>Scan through your submitted FAFSA information until you get to the Financial Information section. You’ll see the question, ‘<strong>Have you completed your IRS income tax return or another tax return?</strong>’</li>

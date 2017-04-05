@@ -6,14 +6,14 @@ post_date: 2016-02-10 13:44:56
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/completing-the-fafsa/
+  https://www.umw.edu/financialaid/process/completing-the-fafsa/
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057062170;s:3:"url";s:61:"http://www.umw.edu/financialaid/process/completing-the-fafsa/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057062170";}s:4:"time";i:1458149776;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <strong>IMPORTANT: The 2017-2018 FAFSA will be available October 1, 2016. </strong>
 

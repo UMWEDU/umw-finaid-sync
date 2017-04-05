@@ -6,7 +6,7 @@ post_date: 2016-02-10 13:44:56
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/completing-the-fafsa/
+  http://www.umw.edu/financialaid/process/completing-the-fafsa/
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057062170;s:3:"url";s:61:"http://www.umw.edu/financialaid/process/completing-the-fafsa/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057062170";}s:4:"time";i:1458149776;}}'
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=lLi0q7hkFns
 <h3>Reporting Financial Information</h3>
 <ul>
  	<li>Use two-year prior tax data. For instance, if you are filling out the 2017-18 FAFSA, use 2015 tax information..</li>
- 	<li>If eligible, use the IRS Data Retrieval Tool (IRS DRT) - <strong><span style="color: #8a0000">THIS OPTION IS CURRENTLY UNAVAILABLE</span></strong>.</li>
+ 	<li>If eligible, use the IRS Data Retrieval Tool (IRS DRT) - <span style="color: #ab0000"><strong><span style="color: #8a0000">THIS OPTION IS NOT AVAILABLE AT THE MOMENT</span></strong>.</span></li>
 </ul>
 <ol>
 <ol>

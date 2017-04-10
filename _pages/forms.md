@@ -6,7 +6,7 @@ post_date: 2016-02-10 14:16:49
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/
+  https://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/
 published: true
 yst_prominent_words_version:
   - "1"

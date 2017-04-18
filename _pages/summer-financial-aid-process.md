@@ -1,6 +1,6 @@
 ---
 ID: 344
-post_title: SUMMER FINANCIAL AID PROCESS
+post_title: Summer Financial Aid Process
 author: zmontalv
 post_date: 2017-04-18 12:42:33
 post_excerpt: ""

@@ -26,7 +26,7 @@ wpcf-home-page-grid-inclusion:
 <h2><span style="color: #b81237"><strong> </strong><strong>SUMMER FINANCIAL AID ELIGIBILITY</strong></span></h2>
 <ul>
  	<li><strong>Satisfactory Academic Progress (SAP)</strong>: Progress is checked after professors submit grades in May.</li>
- 	<li><strong>Enrollment:</strong> Please keep in mind that changes in enrollment may cause changes in financial aid eligibility. At minimum, students must be enrolled in at least 6 undergraduate credit hours or 5 graduate credits during the summer semester to receive financial aid (with the exception of federal pell grant, which requires 3 credit hours).</li>
+ 	<li><strong>Enrollment:</strong> Please keep in mind that changes in enrollment may cause changes in financial aid eligibility. At minimum, students must be enrolled in at least 6 undergraduate credit hours or 5 graduate credits during the summer semester to receive financial aid (with the exception of federal Pell Grant, which requires 3 credit hours).</li>
  	<li>Please contact the Office of Financial Aid if you plan to drop or withdraw from a class after the official add/drop period has ended.</li>
 </ul>
 <h2><strong> </strong><span style="color: #b81237"><strong>TYPES OF SUMMER FINANCIAL AID</strong></span></h2>

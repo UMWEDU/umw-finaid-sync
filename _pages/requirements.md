@@ -14,13 +14,19 @@ yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_is_cornerstone:
+  - ""
 ---
-<h3><span style="color: #a80000"><strong>IRS-DRT to be Down For Several Months More</strong></span></h3>
+<h2><span style="color: #b81237"><strong>IRS Data Retrieval Tool</strong></span></h2>
 In an update on Thursday, March 30, the Department of Education (ED) indicated that the IRS Data Retrieval Tool (DRT) will be out of service for several months, advising that "students and families should plan for the tool to be offline until the start of the next FAFSA season," which starts in October.
+
+Students and parents completing a 2016-17 and 2017-18 FAFSA should manually enter 2015 tax information (not 2016).
+
+On Monday, April 24 the Department of Education announced that institutions may now consider a signed paper copy of the 2015 IRS tax return for Verification documentation.  While the Data Retrieval Tool is unavailable, students selected for Verification may submit a signed paper copy of their and/or their parent(s)' 2015 tax return (1040, 1040ez, etc.) or request a 2015 Tax Return Transcript through <a href="https://www.irs.gov/individuals/get-transcript">Get Transcript Online.</a>
 <h2>Satisfying Tax Requirements for Verification</h2>
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. As indicated above the firs option (DRT) is currently unavailable.  All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
 
-<span style="color: #a80000"><strong>This option is currently unavailable.</strong></span>  Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
+<span style="color: #b81237"><strong>This option is currently unavailable.</strong></span>  Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
 <ul>
  	<li>Return to the <a href="https://fafsa.ed.gov/">FAFSA website</a> and click on ‘Make FAFSA corrections’.</li>
  	<li>Scan through your submitted FAFSA information until you get to the Financial Information section. You’ll see the question, ‘<strong>Have you completed your IRS income tax return or another tax return?</strong>’</li>

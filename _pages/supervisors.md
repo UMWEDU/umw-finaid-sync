@@ -19,4 +19,5 @@ Supervisors will be notified when any changes occur.
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SupervisorTraining.pptx">Student Employment: Everything Supervisors Need To Know</a></li>
  	<li><a href="http://adminfinance.umw.edu/payroll/instructional-materials/#super">MyTime Manual for Supervisors</a></li>
  	<li><a href="https://orgsync.com/129314/chapter">Student Employment Portal</a> (myUMW) for related news and resources</li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Student-Employee-Position-Description.xlsx">Student Employee Position Description</a></li>
 </ul>

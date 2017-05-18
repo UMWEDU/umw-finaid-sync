@@ -20,7 +20,7 @@ wpcf-home-page-grid-inclusion:
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/V5VerificationWS1617.pdf">V5 Verification Worksheet</a></li>
  	<li><a href="http://www.irs.gov">IRS Tax Return Transcript</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/IncomeClarificationForm.doc">Income Clarification Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SAPAppeal.docx">•Satisfactory Academic Process Appeal Form</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SAPAppeal.docx">Satisfactory Academic Process Appeal Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/10/SpecialCircumstance1617.doc">Special Circumstance Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Study-Abroad-Form-Summer-1.docx">Study Abroad Form – Summer</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Study-Abroad-Form-AY-1.docx">Study Abroad Form – All Year</a></li>
@@ -38,7 +38,7 @@ wpcf-home-page-grid-inclusion:
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2017-2018Verification-Form-V5.pdf">V5 Verification Worksheet</a></li>
  	<li><a href="https://www.irs.gov/individuals/get-transcript">IRS Tax Return Transcript</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/IncomeClarification.pdf">Income Clarification Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/SAPAppeal.docx">Satisfactory Academic Progress Appeal Form</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SAPAppeal.docx">Satisfactory Academic Process Appeal Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/StudyAbroadSum.docx">Study Abroad - Summer</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/Request-for-Financial-Aid-Consortium-Agreement.docx">Study Abroad - All Year</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/Financial-Aid-Consortium-Agreement.docx">Financial Aid Consortium Agreement</a></li>

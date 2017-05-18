@@ -6,7 +6,7 @@ post_date: 2016-02-16 13:46:53
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/
+  http://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -74,7 +74,7 @@ Students are permitted to appeal their financial aid suspension; however, the ri
 </ul>
 <strong>The appeal of a financial aid suspension is a separate process from an appeal of academic suspension. The two processes are not related and approval of an academic suspension does not automatically remove the suspension from financial aid. </strong>
 <h2>Satisfactory Academic Progress (SAP) Appeals</h2>
-Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/SAP-Appeal-Form.docx" rel="">Satisfactory Academic Process Appeal Form</a>  together with all required documents within 15 days of the notification that they have been placed on suspension.
+Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SAPAppeal.docx">Satisfactory Academic Process Appeal Form</a> together with all required documents within 15 days of the notification that they have been placed on suspension.
 
 SAP Appeals should be submitted to the Office of Financial Aid either by mail, fax or in person to:
 

@@ -13,8 +13,7 @@ wpsi_page_checks:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<h2>2017-2018 Cost of Attendance</h2>
-<h3>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h3>
+<h2>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h2>
 <h4>VIRGINIA RESIDENTS</h4>
 <table>
 <tbody>

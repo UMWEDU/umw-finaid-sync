@@ -8,10 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/types/loans/private/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057106010;s:3:"url";s:52:"http://www.umw.edu/financialaid/types/loans/private/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057106010";}s:4:"time";i:1458150444;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Students who need additional help meeting college expenses may be able to obtain a private or alternative educational loan. These types of loans are offered through many organizations, banks, and credit unions. Application for an alternative loan is made directly through the lending institution.
 
@@ -25,23 +25,20 @@ You will need to respond to all of the lender requests promptly and allow at lea
 <h3>Lender Information</h3>
 The following is a list of lenders used by students at the University of Mary Washington in the past three years. This list appears in alphabetical order and is in no way ranked. Lenders may chose not to participate in private loans at any time. To get current and accurate information, please contact the lender directly.
 
-<a href="https://addisonavenue.com/">Addison Avenue Federal Credit Union</a><a title="Addison Avenue" href="http://addisonavenue.com/">
+<a title="Addison Avenue" href="http://addisonavenue.com/">
 </a><a href="https://www.affinityplus.org/personal/student-services/student-loans">Affinity Federal Credit Union</a>
 <a href="http://www.applefcu.studentchoice.org/">Apple Federal Credit Union</a>
-<a href="http://www.campusdoor.com/">Campus Door Alternative Loan</a>
 <a href="http://chartway.studentchoice.org/">Chartway Federal Credit Union</a>
-<a href="http://www.chasestudentloans.com/">Chase Bank</a>
-<a href="http://www.studentloan.com/">Citibank</a>
 <a href="http://www.citizensbank.com/student-services">Citizens Bank</a>
+
+<a href="http://www.collegeavestudentloans.com">College Avenue Student Loans</a>
 <a href="http://www.lendkey.com/private-student-loans/?sk=organic">cuStudentLoans</a>
 <a href="https://www.dcu.org/prodserv/loans/student.html">Digital Federal Credit Union</a>
 <a href="http://www.discoverstudentloans.com/">Discover</a>
-<a href="http://www.mela.net/">Maine Educational Authority Loan</a>
 <a href="http://www.mefa.org/">Massachusetts Educational Financing Authority Loan</a>
 <a href="http://www.hesaa.org/Pages/NJCLASSHome.aspx">NJCLASS- New Jersey Class Loan</a>
 <a href="http://www.pnconcampus.com/studentloanguide/privateloans/default.aspx">PNC Bank</a>
 <a href="http://salliemae.com/">Sallie Mae</a>
 <a href="http://www.suntrusteducation.com/">Suntrust Bank</a>
-<a href="http://services.vsac.org/wps/wcm/connect/VSAC/vsac/pay+for+college/funding+sources/loans/vsac+-+pay+-+funding+sources+-+loans+-+vsac+fixed+rate+private+education+loan">Vermont Student Assistance</a>
 <a href="http://visionsfcu.studentchoice.org/">Visions Federal Credit Union</a>
 <a href="http://www.wellsfargo.com/student">Wells Fargo</a>

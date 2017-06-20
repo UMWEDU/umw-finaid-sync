@@ -8,8 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/special-circumstance-request/
 published: true
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -29,6 +27,7 @@ Examples of situations that can not be considered Special Circumstance include:
  	<li>Voluntary job loss</li>
  	<li>Removing funds early from a retirement account to pay debt</li>
  	<li>Loss of other income that can not be documented or was not  court ordered</li>
+ 	<li>Loss of income due to commission-based employment</li>
 </ul>
 NOTE: Even if an adjustment is made, it may not result in additional aid.
 

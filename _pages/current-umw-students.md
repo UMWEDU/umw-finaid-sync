@@ -14,9 +14,9 @@ wpcf-homepage-copy:
   - |
     Financial Aid does not end a student’s freshmen year. Undergraduate financial resources for continuing students at UMW:
     <ul>
-    	<li><a href="https://www.umw.edu/financialaid/process/timelines/continuing-student/">Student Timeline</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Scholarship Opportunities</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/">Satisfactory Academic Progress</a></li>
-    	<li><a href="https://www.umw.edu/financialaid/eligibility/">Eligibility Requirements for Financial Aid</a></li>
+    <li><a href="https://www.umw.edu/financialaid/process/timelines/continuing-student/">Student Timeline</a></li>
+    <li><a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">Scholarship Opportunities</a></li>
+    <li><a href="https://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/">Satisfactory Academic Progress</a></li>
+    <li><a href="https://www.umw.edu/financialaid/eligibility/">Eligibility Requirements for Financial Aid</a></li>
     </ul>
 ---

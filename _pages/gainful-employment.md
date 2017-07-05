@@ -8,5 +8,7 @@ layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/gainful-employment/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>This page is under construction.</h2>

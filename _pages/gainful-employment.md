@@ -23,4 +23,4 @@ At UMW, there are just a few programs that fall into the gainful employment cate
 </ul>
 If an institution has GE programs, it must disclose certain information about each of those programs if the enrollment cohort in the program is greater than 30 students who received Title IV federal financial aid and completed the program within the cohort period.
 
-GE disclosure documentation is available for programs meeting the cohort period requirement and are available by clicking <a href="http://45.0799-Gedt.html">Gainful Employment</a>.
+GE disclosure documentation is available for programs meeting the cohort period requirement and are available by clicking <a href="https://www.umw.edu/financialaid/eligibility/gainful-employment/gainful-employment/">Gainful Employment</a><a href="http://45.0799-Gedt.html"></a>.

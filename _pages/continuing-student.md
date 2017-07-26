@@ -2,14 +2,12 @@
 ID: 17
 post_title: Continuing Student Timeline
 author: Emily
-post_date: 2016-02-10 13:30:45
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/timelines/continuing-student/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-10 13:30:45
 ---
 Applying for financial aid can be a confusing process for many students, even if they have been through it before. Below is a simple timeline to help keep students and families on track.
 <table width="99%">
@@ -25,7 +23,7 @@ Applying for financial aid can be a confusing process for many students, even if
 </tr>
 <tr>
 <td><strong>February 1</strong></td>
-<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.</td>
+<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.  FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will not be available at this time.</td>
 </tr>
 <tr>
 <td><strong>February 6

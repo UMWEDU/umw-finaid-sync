@@ -2,20 +2,16 @@
 ID: 6
 post_title: Frequently Asked Questions
 author: Emily
-post_date: 2016-02-08 13:59:42
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/frequently-asked-questions/
 published: true
-wpsi_page_checks:
-  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15890466369;s:3:"url";s:59:"http://www.umw.edu/financialaid/frequently-asked-questions/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15890466369";}s:4:"time";i:1456938610;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-08 13:59:42
 ---
 Below you will find frequently asked questions for the upcoming academic year. This FAQ addresses questions about the basic Free Application for Federal Student Aid (FAFSA) and verification processes and deadlines, as well as additional PLUS and private loan and scholarship information. Please contact the Office of Financial Aid at 540-654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a> if you need more information.
 <h2>How do I apply for financial aid?</h2>
-Complete the 2016-2017 or 2017-2018 <a href="http://FAFSA.ed.gov">Free Application for Federal Student Aid</a>. The Office of Financial Aid will then contact you through mail (first-time students) or email (continuing students) regarding any additional requirements that are needed. Requirements can also be viewed through <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a>.
+Complete the 2016-2017 or 2017-2018 <a href="http://FAFSA.ed.gov">Free Application for Federal Student Aid</a>. The Office of Financial Aid will then contact you through mail (first-time students) or email (continuing students) regarding any additional requirements that are needed. Requirements can also be viewed through <a href="https://banner.umw.edu/ssomanager/c/SSB">Banner</a>.
 <h2>When do I apply for financial aid?</h2>
 In order to be considered for 2017-2018 federal, state, and institutional financial aid, you must file the FAFSA by:
 <ul>
@@ -33,7 +29,7 @@ If you are an incoming freshman applicant, you will receive an award letter at t
 </ul>
 *Late paperwork may result in cancelled aid.
 
-Continuing students will receive notices of their verification requirements in April via <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a> and their UMW email account. Verification paperwork for is due July 1. Continuing students will be able to view their financial aid award through <a href="https://ssb.umw.edu/ssomanager/c/SSB">Banner</a> in May.
+Continuing students will receive notices of their verification requirements in April via <a href="https://banner.umw.edu/ssomanager/c/SSB">Banner</a> and their UMW email account. Verification paperwork for is due July 1. Continuing students will be able to view their financial aid award through <a href="https://banner.umw.edu/ssomanager/c/SSB">Banner</a> in May.
 <h2>Is the financial aid application process different for graduate students?</h2>
 Graduate students must also file the FAFSA in order to be considered for federal aid. Graduate students are only eligible for the Federal Direct Unsubsidized Loan. Gift aid typically comes from departmental scholarships.
 <h2>When will I hear about merit scholarships?</h2>
@@ -45,7 +41,7 @@ Students may complete the <a href="http://www.umw.edu/financialaid/student-emplo
 <h2>What are the costs for tuition, fees, room and board?</h2>
 Actual costs are determined in late April when the Board of Visitors meets. Once the costs are known, you will receive that information in the mail. Current costs can be found by contacting the <a href="http://adminfinance.umw.edu/studentaccounts/">Office of Student Accounts</a>.
 <h2>How do I apply for a student or parent loan?</h2>
-Students are considered for federal loans when they apply for federal student aid via the FAFSA. In order to accept federal Direct Loans, students must complete the <a href="http://www.studentloans.gov/">Direct Loan Entrance Counseling and Master Promissory Note</a>. Students must also accept/decline all loan offers in <a href="https://ssb.umw.edu/ssomanager/c/SSB?pkg=twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Banner</a>.
+Students are considered for federal loans when they apply for federal student aid via the FAFSA. In order to accept federal Direct Loans, students must complete the <a href="http://www.studentloans.gov/">Direct Loan Entrance Counseling and Master Promissory Note</a>. Students must also accept/decline all loan offers in <a href="https://banner.umw.edu/ssomanager/c/SSB?pkg=twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Banner</a>.
 
 A <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Parent Plus Loan</a> is an educational loan that a parent may use on behalf of their dependent student. This is a credit-based loan. Parents may apply for the <a href="http://www.studentloans.gov">PLUS Loan</a> after June 1 each year at studentloans.gov.
 

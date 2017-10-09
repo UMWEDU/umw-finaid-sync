@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2016-02-17 14:32:28
 ---
-<h3>Virginia Guaranteed Assistance Program</h3>
+<h3><a href="http://www.schev.edu/index/tuition-aid/financialaid/state-student-aid/virginia-guaranteed-assistance-program">Virginia Guaranteed Assistance Program</a></h3>
 This grant is awarded to undergraduate students with financial need according to the UMW awarding criteria each year. Students must submit the FAFSA each academic year, and meet all other qualifying criteria by the priority filing deadline to be considered. Other criteria include being a dependent student and graduating from a VA High School. Virginia residents that file the FAFSA by the priority filing deadline are automatically considered for this award
-<h3>Virginia Commonwealth Award</h3>
+<h3><a href="http://www.schev.edu/index/tuition-aid/financialaid/state-student-aid/virginia-commonwealth-award-program">Virginia Commonwealth Award</a></h3>
 This grant is awarded to undergraduate students with financial need according to the UMW awarding criteria each year. Students must submit the FAFSA each academic year, and meet all other qualifying criteria by the priority filing deadline to be considered. Virginia residents that file the FAFSA by the priority filing deadline are automatically considered for this award.
 <h3>Virginia Two Year College Transfer Grant</h3>
 This educational grant is awarded to incoming students that have transferred to UMW after earning an Associate’s degree at a Virginia two year public institution, and meet all other criteria.  Students may apply by completing the <a href="http://www.schev.edu/index/tuition-aid/financialaid/state-student-aid/two-year-college-transfer-grant-program" rel="">Virginia Two Year College Transfer Grant Application</a>  and submitting the application to the UMW Office of Financial Aid.

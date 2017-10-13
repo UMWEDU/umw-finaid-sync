@@ -2,14 +2,12 @@
 ID: 26
 post_title: Special Situations
 author: Emily
-post_date: 2016-02-10 14:46:54
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/special-situations/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-10 14:46:54
 ---
 <h2>My parents don’t support me financially but I am considered dependent by Federal Department of Education standards.</h2>
 Per federal regulation, students are considered "dependent" until the age of 24 unless they can answer "yes" to  (and can document) one of the following criteria:
@@ -60,7 +58,7 @@ A student or a parent of a dependent student selected for the Verification proce
 Students or parents of dependent students that earned wages, but did not file a tax return must submit the following:
 <ul>
  	<li>Copy of all wage statements (W2, 1099, etc.)</li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/IncomeClarificationForm.doc">Income Clarification Form</a> (if requested)</li>
+ 	<li><a href="http://www.umw.edu/financialaid/process/forms/">Income Clarification Form</a> (if requested)</li>
 </ul>
 <h2>My parents or I lost a job recently.</h2>
 An independent student and spouse, or a parent of a dependent student that has lost a job may submit a <a href="http://www.umw.edu/financialaid/eligibility/special-circumstance-request/">Special Circumstance Request</a> under these criteria:

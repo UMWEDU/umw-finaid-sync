@@ -2,18 +2,12 @@
 ID: 344
 post_title: Summer Financial Aid Process
 author: zmontalv
-post_date: 2017-04-18 12:42:33
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/summer-financial-aid-process/
 published: true
-yst_is_cornerstone:
-  - ""
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-04-18 12:42:33
 ---
 <ul>
  	<li>Students must complete the Summer Financial Aid Request Form through the <a href="https://orgsync.com/115365/chapter">Financial Aid MyUMW portal</a>.</li>
@@ -32,16 +26,29 @@ wpcf-home-page-grid-inclusion:
 <h2><strong> </strong><span style="color: #b81237"><strong>TYPES OF SUMMER FINANCIAL AID</strong></span></h2>
 <strong>Federal Financial Aid (Direct Student/Parent Loans/Federal Pell Grant)</strong>
 <ul>
- 	<li>Student must have completed 2016-17 FAFSA</li>
- 	<li>Students may be eligible for Federal Direct Student Loans if they have not used their maximum amount in the Fall 2016 and/or Spring 2017 semesters. Per year maximums are:
+ 	<li>Student must have completed 2017-18 FAFSA</li>
+ 	<li>Students may be eligible for Federal Direct Student Loans if they have not used their maximum amount in the Fall 2017 and/or Spring 2018 semesters. Per year maximums are:
 <ul>
- 	<li>freshman (1-29 credits earned) $5,500 dependent, $9,500 independent</li>
- 	<li>sophomore (30-59 credits earned) $6,500 dependent, $10,500 independent</li>
+ 	<li>Freshman (1-29 credits earned) $5,500 dependent, $9,500 independent</li>
+ 	<li>Sophomore (30-59 credits earned) $6,500 dependent, $10,500 independent</li>
  	<li>Junior/Senior (60+ credits earned) $7,500 dependent, $12,500 independent</li>
  	<li>Graduate - $20,500</li>
 </ul>
 </li>
- 	<li>If a student has not used their entire Pell Grant eligibility during the academic year, they may be eligible for a summer Pell Grant, which requires at least three (3) credit hours per semester.</li>
+ 	<li>
+<div class="site-container">
+<div class="site-inner">
+<div class="wrap">
+<div class="content-sidebar-wrap"><article class="post-46 page type-page status-publish entry">
+<div class="entry-content">
+
+Year-round Pell will be available to eligible students for 2017-2018 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time.
+
+</div>
+</article></div>
+</div>
+</div>
+</div></li>
  	<li>Parents may apply for a Parent Plus Loan at www.studentloans.gov.</li>
 </ul>
 <strong> </strong><strong>Private Educational Loans</strong>
@@ -52,6 +59,6 @@ wpcf-home-page-grid-inclusion:
 <strong> </strong><strong>Scholarships or other Financial Aid</strong>
 <ul>
  	<li>There are a limited number of grants and scholarships available during the summer semester. If eligible, students will be automatically awarded (no separate application)</li>
- 	<li>Students must have completed a 2016-17 FAFSA</li>
+ 	<li>Students must have completed a 2017-18 FAFSA</li>
  	<li>The Financial aid office will post any available scholarship opportunities to the MyUMW Financial Aid portal.</li>
 </ul>

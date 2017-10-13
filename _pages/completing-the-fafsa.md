@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-02-10 13:44:56
 ---
-<strong>IMPORTANT: The 2017-2018 FAFSA will be available October 1, 2016. </strong>
+<strong>IMPORTANT: The 2017-2018 FAFSA will be available October 1, 2017. </strong>
 
 New FAFSA priority filing deadlines:
 <ul>

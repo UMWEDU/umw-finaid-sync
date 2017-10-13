@@ -28,7 +28,7 @@ Here are some tips for completing an <a href="https://fafsa.ed.gov/">online FAFS
  	<li>You can get your FSA ID as you fill out the FAFSA, but you also have the option to get it ahead of time.</li>
 </ul>
 <p style="text-align: justify">Watch this video to learn how to create an FSA ID.</p>
-https://www.youtube.com/watch?v=lLi0q7hkFns
+https://youtu.be/K7ihhGk8mCY
 <h2>Information Needed for the FAFSA</h2>
 <ul>
  	<li>Student , parent and/or spouse Social Security Numbers</li>

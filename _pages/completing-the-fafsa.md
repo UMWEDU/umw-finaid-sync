@@ -9,13 +9,13 @@ permalink: >
 published: true
 post_date: 2016-02-10 13:44:56
 ---
-<strong>IMPORTANT: The 2017-2018 FAFSA will be available October 1, 2017. </strong>
+<strong>IMPORTANT: The 2018-2019 FAFSA will be available October 1, 2017. </strong>
 
 New FAFSA priority filing deadlines:
 <ul>
- 	<li>Incoming 2017-2018 Freshman Students - February 1, 2017</li>
- 	<li>Incoming 2017-2018 Transfer Students - April 1, 2017</li>
- 	<li>All current continuing students - February 1, 2017</li>
+ 	<li>Incoming 2017-2018 Freshman Students - February 1, 2018</li>
+ 	<li>Incoming 2017-2018 Transfer Students - April 1, 2018</li>
+ 	<li>All current continuing students - February 1, 2018</li>
 </ul>
 The Office of Financial Aid strives to make the FAFSA (Free Application for Federal Student Aid) process as easy as possible for UMW students by offering a variety of <a href="http://www.umw.edu/financialaid/process/financial-aid-events/">workshops and chats</a>  both at our campus, and off-site at local high schools.
 
@@ -49,8 +49,9 @@ https://youtu.be/K7ihhGk8mCY
 </ul>
 <h3>Reporting Financial Information</h3>
 <ul>
- 	<li>Use two-year prior tax data. For instance, if you are filling out the 2017-18 FAFSA, use 2015 tax information..</li>
- 	<li>If eligible, use the IRS Data Retrieval Tool (IRS DRT) - <span style="color: #c70000"><strong>THIS OPTION IS NOT AVAILABLE AT THE MOMENT</strong>.</span></li>
+ 	<li>Use two-year prior tax data. For instance, if you are filling out the 2017-18 FAFSA, use 2015 tax information, if you are filling out the 2018-19 FAFSA use 2016 tax information.</li>
+ 	<li>If eligible, use the IRS Data Retrieval Tool (IRS DRT) - <span style="color: #c70000"><strong>THIS OPTION IS ONLY AVAILABLE FOR THE 2018-19 FAFSA.  The information transferred from the IRS will not be displayed when you use the IRS DRT.  Instead, you'll see "Transferred from the IRS" in the appropriate fields.  This change was made to protect sensitive tax information.
+</strong></span></li>
 </ul>
 <ol>
  	<li style="list-style-type: none">

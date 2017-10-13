@@ -11,7 +11,7 @@ post_date: 2016-02-10 13:44:56
 ---
 <strong>IMPORTANT: The 2018-2019 FAFSA will be available October 1, 2017. </strong>
 
-New FAFSA priority filing deadlines:
+FAFSA priority filing deadlines:
 <ul>
  	<li>Incoming 2017-2018 Freshman Students - February 1, 2018</li>
  	<li>Incoming 2017-2018 Transfer Students - April 1, 2018</li>

@@ -2,14 +2,12 @@
 ID: 32
 post_title: Satisfactory Academic Progress
 author: Emily
-post_date: 2016-02-16 13:46:53
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/satisfactory-academic-progress/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-16 13:46:53
 ---
 In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each semester attended (fall, spring and summer semesters).
 <h2>The following definitions apply to this policy:</h2>
@@ -85,9 +83,9 @@ Fredericksburg, VA 22401
 Fax: 540-654-1858
 <h3>SAP Appeal Deadlines</h3>
 <ul>
- 	<li>Fall semester appeals must be received by February 1st</li>
+ 	<li>Fall semester appeals must be received by October 1st</li>
  	<li>Spring semester appeals must be received by June 1st</li>
- 	<li>Summer semesters appeals must be received by August 1st</li>
+ 	<li>Summer semester appeals are not available</li>
 </ul>
 Appeals received after these dates will not be considered except in documented instances where the student was unable to obtain their supporting documentation prior to the deadline.
 <h3>SAP Appeal Notification</h3>

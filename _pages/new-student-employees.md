@@ -2,21 +2,18 @@
 ID: 65
 post_title: Forms For New Student Employees
 author: Emily
-post_date: 2016-02-22 13:42:11
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/applicants/new-student-employees/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-22 13:42:11
 ---
 Supervisors must receive a Work Authorization from the Student Employment Coordinator before student employees are authorized to begin work. Below are the forms required for a Work Authorization.
 <h2>Submit Online:</h2>
 <ul>
- 	<li><a href="https://orgsync.com/129314/forms/166199" target="_blank" rel="noopener noreferrer">Campus Employment Application</a> 2016-2017</li>
  	<li><a href="https://orgsync.com/129314/forms/237497">Campus Employment Application</a> 2017-2018</li>
- 	<li><a href="https://orgsync.com/129314/forms/252236">Summer 2017 Addendum</a></li>
+ 	<li><a href="https://orgsync.com/129314/forms/252236">Summer Addendum</a> - if applicable</li>
  	<li><a href="https://orgsync.com/129314/forms/188994" target="_blank" rel="noopener noreferrer">Student Employee Work Agreements</a></li>
 </ul>
 <h2>Submit In-Person to Office of Financial Aid:</h2>

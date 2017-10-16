@@ -2,16 +2,12 @@
 ID: 15
 post_title: Freshman Financial Aid Timeline
 author: Emily
-post_date: 2016-02-08 14:54:23
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/timelines/freshman-timeline/
 published: true
-wpsi_page_checks:
-  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057064488;s:3:"url";s:68:"http://www.umw.edu/financialaid/process/timelines/freshman-timeline/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057064488";}s:4:"time";i:1458149839;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-08 14:54:23
 ---
 Applying for Financial Aid can be a confusing process for many first-time freshmen students. Below is a simple timeline to help keep students and families on track.
 <table width="99%">
@@ -28,7 +24,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 </tr>
 <tr>
 <td><strong>January-March</strong></td>
-<td>Log into a UMW Financial Aid chat! Register through the <a href="http://www.umw.edu/admissions/">Office of Admissions</a>.</td>
+<td>Log into a UMW Financial Aid chat! Register through the <a href="https://umw.askadmissions.net/emtinterestpage.aspx?ip=chatreg">Office of Admissions</a>.</td>
 </tr>
 <tr>
 <td><strong>February 6</strong></td>

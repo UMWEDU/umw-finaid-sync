@@ -2,30 +2,28 @@
 ID: 31
 post_title: Financial Aid Eligibility
 author: Emily
-post_date: 2016-02-16 13:28:23
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-16 13:28:23
 ---
 <h2>Citizenship Status</h2>
 Federal Student Aid (Direct Student Loans, Parent Plus Loans, Pell Grant, etc.) are available to U.S. Citizens, and eligible noncitizens. Eligible noncitizens must meet one of the below qualifications:
 
 1. You are a
 <ul>
-	<li>U.S. national (includes natives of American Samoa or Swains Island) or</li>
-	<li><a href="http://www.uscis.gov/greencard">U.S. permanent resident</a> with a Form I-551, I-151, or I-551C (Permanent Resident Card, Resident Alien Card, or Alien Registration Receipt Card), also known as a "green card."</li>
+ 	<li>U.S. national (includes natives of American Samoa or Swains Island) or</li>
+ 	<li><a href="http://www.uscis.gov/greencard">U.S. permanent resident</a> with a Form I-551, I-151, or I-551C (Permanent Resident Card, Resident Alien Card, or Alien Registration Receipt Card), also known as a "green card."</li>
 </ul>
 2. You have an <a href="https://help.cbp.gov/app/answers/detail/a_id/880/%7E/definition-of-an-i-94">Arrival-Departure Record (I-94)</a> from U.S. Citizen and Immigration Services (USCIS) showing*
 <ul>
-	<li>“Refugee,”</li>
-	<li>“Asylum Granted,”</li>
-	<li>“Cuban-Haitian Entrant,”</li>
-	<li>“Conditional Entrant” (valid only if issued before April 1, 1980), or</li>
-	<li>“Parolee” (you must be paroled for at least one year, and you must be able to provide evidence from the USCIS that you are in the United States for other than a temporary purpose with the intention of becoming a U.S. citizen or permanent resident).</li>
+ 	<li>“Refugee,”</li>
+ 	<li>“Asylum Granted,”</li>
+ 	<li>“Cuban-Haitian Entrant,”</li>
+ 	<li>“Conditional Entrant” (valid only if issued before April 1, 1980), or</li>
+ 	<li>“Parolee” (you must be paroled for at least one year, and you must be able to provide evidence from the USCIS that you are in the United States for other than a temporary purpose with the intention of becoming a U.S. citizen or permanent resident).</li>
 </ul>
 3. You hold a T nonimmigrant status ("<a href="http://travel.state.gov/content/visas/english/other/human-trafficking.html">T-visa</a>") (for victims of human trafficking) or your parent holds a <a href="http://travel.state.gov/content/visas/english/other/human-trafficking.html">T-1 nonimmigrant status</a>. Your college or career school’s financial aid office will ask to see your visa and/or certification letter from the U.S. Department of Health and Human Services.*
 
@@ -33,8 +31,8 @@ Federal Student Aid (Direct Student Loans, Parent Plus Loans, Pell Grant, etc.) 
 
 5. You are a citizen of the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau. If this is the case, you may be eligible for only certain types of federal student aid:
 <ul>
-	<li>Citizens of the Republic of Palau are eligible for <a href="https://studentaid.ed.gov/sa/types/grants-scholarships/pell">Federal Pell Grants</a>, <a href="https://studentaid.ed.gov/sa/types/grants-scholarships/fseog">Federal Supplemental Educational Opportunity Grants</a>, and <a href="https://studentaid.ed.gov/sa/types/work-study">Federal Work-Study</a>.</li>
-	<li>Citizens of the Federal States of Micronesia and the Republic of the Marshall Islands are eligible for Federal Pell Grants only.</li>
+ 	<li>Citizens of the Republic of Palau are eligible for <a href="https://studentaid.ed.gov/sa/types/grants-scholarships/pell">Federal Pell Grants</a>, <a href="https://studentaid.ed.gov/sa/types/grants-scholarships/fseog">Federal Supplemental Educational Opportunity Grants</a>, and <a href="https://studentaid.ed.gov/sa/types/work-study">Federal Work-Study</a>.</li>
+ 	<li>Citizens of the Federal States of Micronesia and the Republic of the Marshall Islands are eligible for Federal Pell Grants only.</li>
 </ul>
 <h3>Deferred Action for Childhood Arrivals (DACA)</h3>
 Undocumented students, including DACA recipients, are not eligible for federal student aid, but may still be eligible for state or college aid, in addition to private scholarships. Please feel free to contact the Office of Financial Aid at (540) 654-2468 for more information.
@@ -55,4 +53,4 @@ Students can use their financial aid from UMW for <a href="http://www.umw.edu/fi
 <h2>Taking courses at multiple institutions</h2>
 Students that have been preapproved to take courses simultaneously while taking courses at UMW are required to complete a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/02/Financial-Aid-Consortium-Agreement.docx" rel="">Financial Aid Consortium Agreement</a>. This allows UMW to work with your host school to ensure that your financial aid is based on total enrollment at both institutions.  Please keep in mind that the Consortium Agreement process does not affect payment deadlines, as each institution has its own set of billing deadlines and policies.
 <h2>Bookstore Voucher Eligibility</h2>
-The <a href="http://www.umw.edu/financialaid/eligibility/bookstore-voucher/">Bookstore Voucher</a> process allows students to use a portion of their financial aid refund in the UMW Bookstore up to one week prior to the start of classes.  Bookstore Vouchers can be applied for through the myUMW <a href="https://banner.umw.edu/prod/twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Financial Aid portal</a>.
+The <a href="http://www.umw.edu/financialaid/eligibility/bookstore-voucher/">Bookstore Voucher</a> process allows students to use a portion of their financial aid refund in the UMW Bookstore up to one week prior to the start of classes.  Bookstore Vouchers can be applied for through the myUMW <a href="https://orgsync.com/115365/chapter">Financial Aid portal</a>.

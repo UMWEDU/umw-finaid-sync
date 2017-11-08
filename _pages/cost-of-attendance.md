@@ -2,18 +2,15 @@
 ID: 178
 post_title: 2017-2018 Cost of Attendance
 author: Emily
-post_date: 2016-03-09 13:40:45
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/cost-of-attendance/
 published: true
-wpsi_page_checks:
-  - 'a:10:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057060793;s:3:"url";s:59:"http://www.umw.edu/financialaid/process/cost-of-attendance/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057060793";}s:4:"time";i:1458149662;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16057060793;s:3:"url";s:59:"http://www.umw.edu/financialaid/process/cost-of-attendance/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057060793";}s:4:"time";i:1458149623;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15991337336;s:3:"url";s:51:"http://www.umw.edu/financialaid/cost-of-attendance/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991337336";}s:4:"time";i:1457977638;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:15991337336;s:3:"url";s:51:"http://www.umw.edu/financialaid/cost-of-attendance/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991337336";}s:4:"time";i:1457977634;}i:4;O:8:"stdClass":5:{s:8:"check_id";i:16044420576;s:3:"url";s:81:"http://www.umw.edu/financialaid/general-information-2016-2017/cost-of-attendance/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044420576";}s:4:"time";i:1457976830;}i:5;O:8:"stdClass":5:{s:8:"check_id";i:15991337336;s:3:"url";s:51:"http://www.umw.edu/financialaid/cost-of-attendance/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991337336";}s:4:"time";i:1457548849;}i:6;O:8:"stdClass":5:{s:8:"check_id";i:15991336597;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=178";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991336597";}s:4:"time";i:1457548820;}i:7;O:8:"stdClass":5:{s:8:"check_id";i:15991336597;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=178";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991336597";}s:4:"time";i:1457548766;}i:8;O:8:"stdClass":5:{s:8:"check_id";i:15991336597;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=178";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991336597";}s:4:"time";i:1457548739;}i:9;O:8:"stdClass":5:{s:8:"check_id";i:15991336597;s:3:"url";s:44:"http://www.umw.edu/financialaid/?page_id=178";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15991336597";}s:4:"time";i:1457548645;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-03-09 13:40:45
 ---
 <h2>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h2>
+The Cost of Attendance (COA) in the chart below is an average cost to attend for one academic year (fall/spring).  The COA is intended for budgeting purposes and may not reflect the actual charges to your student account.  For example, choice of meal plan may increase or decrease your COA. Please contact the Office of Financial Aid if you have any unusual expenses that might affect your COA such as childcare expenses, special books and supplies, or the cost of purchasing a new computer.
 <h4>VIRGINIA RESIDENTS</h4>
 <table>
 <tbody>

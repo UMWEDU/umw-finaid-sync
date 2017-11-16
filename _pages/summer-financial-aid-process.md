@@ -36,7 +36,7 @@ post_date: 2017-04-18 12:42:33
 </ul>
 </li>
  	<li>Year-round Pell will be available to eligible students for 2017-2018 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time.</li>
- 	<li>Parents may apply for a Parent Plus Loan at https://studentloans.gov.</li>
+ 	<li>Parents may apply for a Parent Plus Loan at <a href="https://studentloans.gov">https://studentloans.gov</a>.</li>
 </ul>
 <div class="site-container"></div>
 <h3><strong> </strong><strong>Private Educational Loans</strong></h3>

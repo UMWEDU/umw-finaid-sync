@@ -24,7 +24,7 @@ post_date: 2017-04-18 12:42:33
  	<li>Please contact the Office of Financial Aid if you plan to drop or withdraw from a class after the official add/drop period has ended.</li>
 </ul>
 <h2><strong> </strong><span style="color: #b81237"><strong>TYPES OF SUMMER FINANCIAL AID</strong></span></h2>
-<strong>Federal Financial Aid (Direct Student/Parent Loans/Federal Pell Grant)</strong>
+<h3><strong>Federal Financial Aid (Direct Student/Parent Loans/Federal Pell Grant)</strong></h3>
 <ul>
  	<li>Student must have completed 2017-18 FAFSA</li>
  	<li>Students may be eligible for Federal Direct Student Loans if they have not used their maximum amount in the Fall 2017 and/or Spring 2018 semesters. Per year maximums are:
@@ -35,28 +35,16 @@ post_date: 2017-04-18 12:42:33
  	<li>Graduate - $20,500</li>
 </ul>
 </li>
- 	<li>
-<div class="site-container">
-<div class="site-inner">
-<div class="wrap">
-<div class="content-sidebar-wrap"><article class="post-46 page type-page status-publish entry">
-<div class="entry-content">
-
-Year-round Pell will be available to eligible students for 2017-2018 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time.
-
-</div>
-</article></div>
-</div>
-</div>
-</div></li>
- 	<li>Parents may apply for a Parent Plus Loan at www.studentloans.gov.</li>
+ 	<li>Year-round Pell will be available to eligible students for 2017-2018 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time.</li>
+ 	<li>Parents may apply for a Parent Plus Loan at https://studentloans.gov.</li>
 </ul>
-<strong> </strong><strong>Private Educational Loans</strong>
+<div class="site-container"></div>
+<h3><strong> </strong><strong>Private Educational Loans</strong></h3>
 <ul>
  	<li>The student must meet eligibility criteria for chosen educational loan, and complete the loan process through that loan lender.</li>
  	<li>For some lenders, students must be making Satisfactory Academic Progress.</li>
 </ul>
-<strong> </strong><strong>Scholarships or other Financial Aid</strong>
+<h3><strong> </strong><strong>Scholarships or other Financial Aid</strong></h3>
 <ul>
  	<li>There are a limited number of grants and scholarships available during the summer semester. If eligible, students will be automatically awarded (no separate application)</li>
  	<li>Students must have completed a 2017-18 FAFSA</li>

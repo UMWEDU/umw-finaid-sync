@@ -26,20 +26,15 @@ These endowed scholarship programs equate to the cost of tuition, fees, room and
 Students may apply for scholarship opportunities from non-UMW sources.  Please be careful when applying for scholarships online. Make sure the information and offers you receive are legitimate; and remember that you don't have to pay to find scholarships or other financial aid. Students can find information on how to <a href="https://studentaid.ed.gov/sa/types/scams">avoid scams</a> through the Federal Student Aid Website.
 
 These are scholarship sources from outside the University of Mary Washington:
-
-<a href="https://www.salliemae.com/college-planning/tools/scholarship-search/?dtd_cell=SMPLSHDCOTDOBOOTOTHOTHRR010001">Scholarship Search by Sallie Mae</a>
-
-<a href="https://bigfuture.collegeboard.org/scholarship-search">College Board</a>
-
-<a href="https://www.careeronestop.org/toolkit/training/find-scholarships.aspx">U.S. Department of Labor’s Scholarship Search Tool</a>
-
-<a href="https://www2.ed.gov/about/contacts/state/index.html">State Grant Agency</a>
-
-<a href="https://www.salliemae.com/college-planning/tools/scholarship-search/?dtd_cell=SMPLSHDCOTDOBOOTOTHOTHRR010001">Fleet Reserve ASSN</a>
-
-<a href="http://www.nmcrs.org/pages/education-loans-and-scholarships">Navy-Marine Corps Relief Society</a>
-
-<a href="http://www.valhen.org/scholarships">Virginia Latino Higher Education Network</a>
+<ul>
+ 	<li><a href="https://www.salliemae.com/college-planning/tools/scholarship-search/?dtd_cell=SMPLSHDCOTDOBOOTOTHOTHRR010001">Scholarship Search by Sallie Mae</a></li>
+ 	<li><a href="https://bigfuture.collegeboard.org/scholarship-search">College Board</a></li>
+ 	<li><a href="https://www.careeronestop.org/toolkit/training/find-scholarships.aspx">U.S. Department of Labor’s Scholarship Search Tool</a></li>
+ 	<li><a href="https://www2.ed.gov/about/contacts/state/index.html">State Grant Agency</a></li>
+ 	<li><a href="https://www.salliemae.com/college-planning/tools/scholarship-search/?dtd_cell=SMPLSHDCOTDOBOOTOTHOTHRR010001">Fleet Reserve ASSN</a></li>
+ 	<li><a href="http://www.nmcrs.org/pages/education-loans-and-scholarships">Navy-Marine Corps Relief Society</a></li>
+ 	<li><a href="http://www.valhen.org/scholarships">Virginia Latino Higher Education Network</a></li>
+</ul>
 <p style="padding-left: 30px"><em>The University of Mary Washington does not endorse any particular scholarship from the list above. </em></p>
 Students may also find information about non-UMW scholarships through their high school guidance department, community service organizations, non-profit agencies, church/denomination, and employers.
 

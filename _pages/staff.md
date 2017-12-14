@@ -4,8 +4,7 @@ post_title: Meet the Financial Aid Staff
 author: Emily
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/financialaid/contact-us/staff/
+permalink: http://www.umw.edu/directory/
 published: true
 post_date: 2016-02-08 13:43:20
 ---

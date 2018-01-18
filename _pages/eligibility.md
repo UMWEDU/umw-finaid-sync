@@ -25,7 +25,7 @@ Federal Student Aid (Direct Student Loans, Parent Plus Loans, Pell Grant, etc.) 
  	<li>“Conditional Entrant” (valid only if issued before April 1, 1980), or</li>
  	<li>“Parolee” (you must be paroled for at least one year, and you must be able to provide evidence from the USCIS that you are in the United States for other than a temporary purpose with the intention of becoming a U.S. citizen or permanent resident).</li>
 </ul>
-3. You hold a T nonimmigrant status ("<a href="http://travel.state.gov/content/visas/english/other/human-trafficking.html">T-visa</a>") (for victims of human trafficking) or your parent holds a <a href="http://travel.state.gov/content/visas/english/other/human-trafficking.html">T-1 nonimmigrant status</a>. Your college or career school’s financial aid office will ask to see your visa and/or certification letter from the U.S. Department of Health and Human Services.*
+3. You hold a T nonimmigrant status ("<a href="https://www.uscis.gov/humanitarian/victims-human-trafficking-other-crimes/victims-human-trafficking-t-nonimmigrant-status">T-visa</a>") (for victims of human trafficking) or your parent holds a <a href="http://travel.state.gov/content/visas/english/other/human-trafficking.html">T-1 nonimmigrant status</a>. Your college or career school’s financial aid office will ask to see your visa and/or certification letter from the U.S. Department of Health and Human Services.*
 
 4. You are a “<a href="http://ifap.ed.gov/dpcletters/GEN1007.html">battered immigrant-qualified alien</a>” who is a victim of abuse by your citizen or permanent resident spouse, or you are the child of a person designated as such under the Violence Against Women Act (VAWA).*
 

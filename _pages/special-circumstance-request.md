@@ -2,14 +2,12 @@
 ID: 35
 post_title: Special Circumstance Request
 author: Emily
-post_date: 2016-02-16 14:11:20
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/eligibility/special-circumstance-request/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-16 14:11:20
 ---
 <h2>Special Circumstance</h2>
 If the information you filed on the Free Application for Federal Student Aid (FAFSA) does not reflect your current financial situation or does not take into account an unusual circumstance with you and/or your family you may submit a request for review of your financial aid status for special circumstances.   This may occur due to your FAFSA being based on two years prior tax information.
@@ -17,10 +15,18 @@ If the information you filed on the Free Application for Federal Student Aid (FA
 In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
 
 Special Circumstance Requests are available for the following situation:
+
+2017-2018 Forms
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Household.pdf">Change in Household Size (Marriage, Divorce, Change in number of dependents in the household, change in number of dependents in college)</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Income.pdf">Change in Income (Involuntary job loss of a family member, loss of other income, such as child support, disability benefits, etc.)</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
+</ul>
+2018-2019 Forms
+<ul>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Household.pdf">Change in Household Size</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Income.pdf">Change in Income</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
 </ul>
 Examples of situations that can not be considered Special Circumstance include:
 <ul>

@@ -2,16 +2,12 @@
 ID: 16
 post_title: Transfer Student Financial Aid Timeline
 author: Emily
-post_date: 2016-02-08 14:59:06
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/timelines/transfer-student/
 published: true
-wpsi_page_checks:
-  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057067125;s:3:"url";s:67:"http://www.umw.edu/financialaid/process/timelines/transfer-student/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057067125";}s:4:"time";i:1458149941;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-08 14:59:06
 ---
 Applying for financial aid can be a confusing process for many transfer students. Below is a simple timeline to help keep students and families on track.
 <table width="99%">
@@ -30,7 +26,7 @@ Applying for financial aid can be a confusing process for many transfer students
 <td>Log into a UMW Financial Aid chat! Register through the Office of Admissions.</td>
 </tr>
 <tr>
-<td><strong>February 6</strong></td>
+<td><strong>February 1</strong></td>
 <td>UMW <a href="https://umw.scholarships.ngwebsolutions.com">Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>
 <tr>

@@ -26,7 +26,7 @@ Applying for financial aid can be a confusing process for many students, even if
 <td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible.  FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will not be available at this time.</td>
 </tr>
 <tr>
-<td><strong>February 6
+<td><strong>February 1
 </strong></td>
 <td><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>

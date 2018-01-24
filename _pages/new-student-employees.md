@@ -12,7 +12,6 @@ post_date: 2016-02-22 13:42:11
 Supervisors must receive a Work Authorization from the Student Employment Coordinator before student employees are authorized to begin work. Below are the forms required for a Work Authorization.
 <h2>Submit Online:</h2>
 <ul>
- 	<li><a href="https://orgsync.com/129314/forms/237497">Campus Employment Application</a> 2017-2018</li>
  	<li><a href="https://orgsync.com/129314/forms">Summer Addendum</a> - if applicable</li>
  	<li><a href="https://orgsync.com/129314/forms/188994" target="_blank" rel="noopener noreferrer">Student Employee Work Agreements</a></li>
 </ul>

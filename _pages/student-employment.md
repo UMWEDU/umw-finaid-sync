@@ -11,6 +11,6 @@ post_date: 2016-02-17 14:43:22
 ---
 The University of Mary Washington employs students for 750 positions across 95 departments. The Office of Financial Aid coordinates the hiring procedures for each of these positions.
 
-For UMW Dining employment opportunities, please visit the <a href="http://umwdining.com">UMW Dining</a> website.
+For UMW Dining employment opportunities, please visit the <a href="https://umw.sodexomyway.com/dining-plans/index.html">UMW Dining</a> website.
 
 [children]

@@ -27,12 +27,12 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <td>Log into a UMW Financial Aid chat! Register through the <a href="https://umw.askadmissions.net/emtinterestpage.aspx?ip=chatreg">Office of Admissions</a>.</td>
 </tr>
 <tr>
-<td><strong>February 6</strong></td>
+<td><strong>February 1</strong></td>
 <td><a href="https://umw.scholarships.ngwebsolutions.com">UMW Online Scholarship Manager</a> open. Apply for UMW Scholarships!</td>
 </tr>
 <tr>
 <td><strong>February 1</strong></td>
-<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will not be available at this time.</td>
+<td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will not be available after the priority deadline.</td>
 </tr>
 <tr>
 <td><strong>May 1</strong></td>

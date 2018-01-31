@@ -32,9 +32,9 @@ post_date: 2016-03-09 13:53:46
 </ul>
 <h3>2018-2019 Forms:</h3>
 <ul>
- 	<li>V1 Verification Worksheet <em>-  <span style="color: #800000">An electronic form will become available soon.</span> </em></li>
- 	<li>V4 Verification Worksheet <em>- <span style="color: #800000">An electronic form will become available soon.</span></em></li>
- 	<li>V5 Verification Worksheet <em>- <span style="color: #800000">An electronic form will become available soon.</span></em></li>
+ 	<li>V1 Verification Worksheet <em>-  <span style="color: #800000">Electronic form coming soon.</span> </em></li>
+ 	<li>V4 Verification Worksheet <em>-  <span style="color: #800000">Electronic form coming soon.</span> </em></li>
+ 	<li>V5 Verification Worksheet <em>-  <span style="color: #800000">Electronic form coming soon.</span> </em></li>
  	<li><a href="https://www.irs.gov/individuals/get-transcript">IRS Tax Return Transcript</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19IncomeClarification.pdf">Income Clarification Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/SAPAppeal.pdf">Satisfactory Academic Progress Appeal Form</a></li>

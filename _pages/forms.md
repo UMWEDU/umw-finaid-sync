@@ -1,51 +1,30 @@
 ---
-ID: 180
-post_title: Forms
+ID: 25
+post_title: FAFSA Verification Forms
 author: Emily
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/process/forms/
+  http://www.umw.edu/financialaid/process/completing-the-fafsa/verification/forms/
 published: true
-post_date: 2016-03-09 13:53:46
+post_date: 2016-02-10 14:16:49
 ---
-<h3>2017-2018 Forms/Info:</h3>
+<em><strong>Verification Forms</strong></em>
+
+Students selected for verification are required to complete a verification form, along with other types of requested documentation. There are several different types of verification (V1, V4, V5). Each verification type has different requirements based on students’ unique situations. Students are only selected for one type of Verification (V1, V4, V5) and therefore only need to complete one corresponding Verification Worksheet.
+
+2017-2018 Verification Forms:
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2017-2018Verification-Form-V1.pdf">V1 Verification Worksheet</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2017-2018Verification-Form-V4.pdf">V4 Verification Worksheet</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2017-2018Verification-Form-V5.pdf">V5 Verification Worksheet</a></li>
- 	<li><a href="https://www.irs.gov/individuals/get-transcript">IRS Tax Return Transcript</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/IncomeClarification.pdf">Income Clarification Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/06/Plusrequestform201718.pdf">PLUS Request Form 2017-18</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/SAPAppeal.pdf">Satisfactory Academic Progress Appeal Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadSum.pdf">Study Abroad - Summer</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadAY.pdf">Study Abroad - Fall/Spring</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/Consortium-Agreement.pdf">Consortium Agreement</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/2017-2018-General-Information.pdf">General Information</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Income.pdf">Special Circumstance Request – Change in Income</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Household.pdf">Special Circumstance Request – Change in Household Size</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Medical-Expenses.pdf">Special Circumstance Request – Unusual Medical Expenses</a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/firstyear-scholarship-acceptance/">First-Year Scholarship Acceptance Certificate</a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/transfer-scholarship-acceptance/">Transfer Scholarship Acceptance Certificate </a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/els-scholarship-acceptance/">ELS Scholarship Acceptance</a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/international-scholarship-acceptance/">International Scholarship Acceptance</a></li>
 </ul>
-<h3>2018-2019 Forms:</h3>
+2018-2019 Verification Forms:
 <ul>
- 	<li>V1 Verification Worksheet <em>-  <span style="color: #800000">Electronic form coming soon.</span> </em></li>
- 	<li>V4 Verification Worksheet <em>-  <span style="color: #800000">Electronic form coming soon.</span> </em></li>
- 	<li>V5 Verification Worksheet <em>-  <span style="color: #800000">Electronic form coming soon.</span> </em></li>
- 	<li><a href="https://www.irs.gov/individuals/get-transcript">IRS Tax Return Transcript</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19IncomeClarification.pdf">Income Clarification Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/SAPAppeal.pdf">Satisfactory Academic Progress Appeal Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadSum.pdf">Study Abroad - Summer</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadAY.pdf">Study Abroad - Fall/Spring</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/Consortium-Agreement.pdf">Consortium Agreement</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Income.pdf">Special Circumstance Request – Change in Income</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Household.pdf">Special Circumstance Request - Change in Household Size</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Medical-Expenses.pdf">Special Circumstance Request - Unusual Medical Expenses</a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/firstyear-scholarship-acceptance/">First-Year Scholarship Acceptance Certificate</a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/transfer-scholarship-acceptance/">Transfer Scholarship Acceptance Certificate </a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/els-scholarship-acceptance/">ELS Scholarship Acceptance</a></li>
- 	<li><a href="http://www.umw.edu/admissions/youarein/international-scholarship-acceptance/">International Scholarship Acceptance</a></li>
+ 	<li>V1 Verification Worksheet - <span style="color: #800000"><em>electronic form coming soon!</em></span></li>
+ 	<li>V4 Verification Worksheet - <span style="color: #800000"><em>electronic form coming soon!</em></span></li>
+ 	<li>V5 Verification Worksheet - <span style="color: #800000"><em>electronic form coming soon!</em></span></li>
 </ul>
+All students/parents will be required by federal regulation to submit all W2's or other wage statements. Students and/or parents that did not file a tax return are required to submit a Verification of Non-Filing letter, which can be ordered free of charge through www.irs.gov, or by completing an IRS  form 4506-T ( <a href="https://www.irs.gov/pub/irs-pdf/f4506t.pdf">https://www.irs.gov/pub/irs-pdf/f4506t.pdf</a>  ).
+
+A list of each student's specific financial aid requirements can be viewed at any time through the student myUMW portal by accessing the <a href="https://orgsync.com/82489/chapter">Eagle Gateway</a>.

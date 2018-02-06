@@ -12,29 +12,37 @@ published: true
 post_date: 2016-02-10 14:55:59
 ---
 <h2><span style="color: #b81237"><strong>IRS Data Retrieval Tool</strong></span></h2>
-Use the IRS Data Retrieval Tool to import tax information into your FAFSA directly from the IRS.
+<div id="content">
 
-In an update on Thursday, March 30, the Department of Education (ED) indicated that the IRS Data Retrieval Tool (DRT) will be out of service for several months, advising that "students and families should plan for the tool to be offline until the start of the next FAFSA season," which starts in October, 2017.
+The IRS Data Retrieval Tool allows students and parents to access the IRS tax return information needed to complete the Free Application for Federal Student Aid (FAFSA), and transfer the data directly into their FAFSA from the IRS Web site.
+<div id="content">
 
-Students and parents completing a 2017-18 FAFSA should manually enter 2015 tax information (not 2016).
-
-On Monday, April 24 the Department of Education announced that institutions may now consider a signed paper copy of the 2015 IRS tax return for Verification documentation.  While the Data Retrieval Tool is unavailable, students selected for Verification may submit a signed paper copy of their and/or their parent(s)' 2015 tax return (1040, 1040ez, etc.) or request a 2015 Tax Return Transcript through <a href="https://www.irs.gov/individuals/get-transcript">Get Transcript Online.</a>
+If you are eligible to use the IRS Data Retrieval Tool, we highly recommend using the tool for several reasons:
+<ol>
+ 	<li>It’s the easiest way to provide your tax data.</li>
+ 	<li>It’s the best way of ensuring that your FAFSA has accurate tax information.</li>
+</ol>
+</div>
+</div>
+The IRS DRT is available on the 2018–19 FAFSA form for eligible individuals. However, the tool is <strong>not</strong> available on the 2017–18 FAFSA form.
 <h2>Satisfying Tax Requirements for Verification</h2>
-If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  There are two options for filling these tax requirements. As indicated above the first option (DRT) is unavailable for the 2017-18 FAFSA application.  All parties must also provide corresponding wage statements (W2’s, 1099, etc.)
+If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  In addition to using DRT or providing a copy of a Tax Return Transcript, all parties must also provide corresponding wage statements (W2’s, 1099, etc.).
 
-<span style="color: #b81237"><strong>This option is unavailable for 2017-18 FAFSA.</strong></span>  DRT can be used for the 2018-19 FAFSA application.  However, the information transferred from the IRS will not be displayed when you use the IRS DRT.  Instead, you'll see "Transferred from the IRS" in the appropriate fields.  This change was made to protect sensitive tax information.
+There are two options for filling these tax requirements:
+
+<span style="color: #b81237"><strong>Option 1: IRS Data Retrieval from FAFSA</strong></span>
+
+DRT can be used for the 2018-19 FAFSA application, but not for the 2017-18 FAFSA. If you choose to import your information into the FAFSA form, you’ll see “Transferred from the IRS” in the appropriate fields. For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov. Also, you won’t be able to make changes to those answers.
 <ul>
- 	<li>Return to the <a href="https://fafsa.ed.gov/">FAFSA website</a> and click on ‘Make FAFSA corrections’.</li>
- 	<li>Scan through your submitted FAFSA information until you get to the Financial Information section. You’ll see the question, ‘<strong>Have you completed your IRS income tax return or another tax return?</strong>’</li>
- 	<li>Answer the eligibility questions, and, if eligible, enter <em>FSA ID</em> and  ‘Link to IRS’.</li>
+ 	<li>Return to the <a href="https://fafsa.ed.gov/">FAFSA website</a> and login to your current FAFSA form or start a new application.</li>
+ 	<li>In the finances section of the online form, you will see a “Link to IRS” button if you are eligible to use the IRS DRT.</li>
+ 	<li>Click the “Link to IRS” button and log in with your <em>FSA ID</em> to be transferred to the IRS to retrieve your info.</li>
  	<li>Pop-up windows will notify you that you are leaving the FAFSA site.</li>
- 	<li>Once on the IRS website your tax information will appear, and you will need to fill in tax filing status and address information as found on your federal tax return.</li>
- 	<li>If successful, data from your tax form will be brought back to the FAFSA website.</li>
- 	<li>It is important that you do not make changes to any data that is populated from the IRS.</li>
- 	<li>The student (and parent, if applicable) would continue in the application and sign and submit the application.</li>
- 	<li>If you retrieve the IRS data and leave it unchanged, you will not need to submit Tax Return Transcripts to the Financial Aid Office.</li>
+ 	<li>Once at the IRS site, enter your information exactly as it appears on your federal income tax return and click the “Submit” button.</li>
+ 	<li>Check the “Transfer My Tax Information into the FAFSA form” box, and click the “Transfer Now” button.</li>
+ 	<li>You will know that your federal tax return information has been successfully transferred because the words “Transferred from the IRS” will display in place of the IRS information in your FAFSA form.  For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov.</li>
 </ul>
-You are ineligible to use this tool and should use Option 2 below if:
+If you are ineligible to use this tool you should use Option 2.
 <ul>
  	<li>You filed married filing separately</li>
  	<li>You are married and you filed as Head of Household</li>
@@ -45,7 +53,7 @@ You are ineligible to use this tool and should use Option 2 below if:
  	<li>Your current marital status is different than it was on your Tax Return.</li>
  	<li>You filed a Puerto Rico or foreign tax return</li>
 </ul>
-Visit the <a href="http://www.irs.gov">IRS website</a> to obtain a free copy of your  IRS Tax Return Transcript
+Option 2: Request a copy of your IRS Tax Return Transcript.  Visit the <a href="http://www.irs.gov">IRS website</a> to obtain a free copy.
 <h2>FAQ</h2>
 <h4>How can I obtain a free copy of an IRS Tax Return Transcript?</h4>
 <ol>

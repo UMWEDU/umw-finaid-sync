@@ -27,12 +27,11 @@ If you are eligible to use the IRS Data Retrieval Tool, we highly recommend usin
 The IRS DRT is available on the 2018–19 FAFSA form for eligible individuals. However, the tool is <strong>not</strong> available on the 2017–18 FAFSA form.
 <h2>Satisfying Tax Requirements for Verification</h2>
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  In addition to using DRT or providing a copy of a Tax Return Transcript, all parties must also provide corresponding wage statements (W2’s, 1099, etc.).
+<h3>There are two options for filling these tax requirements:</h3>
+<h4><span style="color: #b81237"><strong>Option 1: IRS Data Retrieval from FAFSA</strong></span></h4>
+DRT can be used for the 2018-19 FAFSA application, but not for the 2017-18 FAFSA. If you choose to import your information into the FAFSA form, you’ll see “Transferred from the IRS” in the appropriate fields. For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov.
 
-There are two options for filling these tax requirements:
-
-<span style="color: #b81237"><strong>Option 1: IRS Data Retrieval from FAFSA</strong></span>
-
-DRT can be used for the 2018-19 FAFSA application, but not for the 2017-18 FAFSA. If you choose to import your information into the FAFSA form, you’ll see “Transferred from the IRS” in the appropriate fields. For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov. Also, you won’t be able to make changes to those answers.
+How to use DRT:
 <ul>
  	<li>Return to the <a href="https://fafsa.ed.gov/">FAFSA website</a> and login to your current FAFSA form or start a new application.</li>
  	<li>In the finances section of the online form, you will see a “Link to IRS” button if you are eligible to use the IRS DRT.</li>
@@ -42,7 +41,7 @@ DRT can be used for the 2018-19 FAFSA application, but not for the 2017-18 FAFSA
  	<li>Check the “Transfer My Tax Information into the FAFSA form” box, and click the “Transfer Now” button.</li>
  	<li>You will know that your federal tax return information has been successfully transferred because the words “Transferred from the IRS” will display in place of the IRS information in your FAFSA form.  For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov.</li>
 </ul>
-If you are ineligible to use this tool you should use Option 2.
+If you are ineligible to use this tool you should use Option 2.  You may be ineligible to use DRT if:
 <ul>
  	<li>You filed married filing separately</li>
  	<li>You are married and you filed as Head of Household</li>
@@ -53,11 +52,11 @@ If you are ineligible to use this tool you should use Option 2.
  	<li>Your current marital status is different than it was on your Tax Return.</li>
  	<li>You filed a Puerto Rico or foreign tax return</li>
 </ul>
-Option 2: Request a copy of your IRS Tax Return Transcript.  Visit the <a href="http://www.irs.gov">IRS website</a> to obtain a free copy.
-<h2>FAQ</h2>
+<h4><span style="color: #b81237"><strong>Option 2: Request a copy of your IRS Tax Return Transcript.</strong></span></h4>
+<h2></h2>
 <h4>How can I obtain a free copy of an IRS Tax Return Transcript?</h4>
 <ol>
- 	<li><strong><u>Online</u></strong>: Go to the <a href="http://www.irs.gov">IRS website</a> and click Order a Tax Return Transcript. Note you must use the primary tax payer’s information if you filed jointly. You should receive the tax return transcript via US Postal Service within about 10 business days.</li>
+ 	<li><strong><u>Online</u></strong>: Go to the <a href="http://www.irs.gov">IRS website</a> and click 'Get Tax Record'. Note you must use the primary tax payer’s information if you filed jointly. You should receive the tax return transcript via US Postal Service within about 10 business days.</li>
  	<li><strong><u>Phone</u></strong>: Call 1-800-908-9946 and request the Tax Return Transcript. If you filed married filing jointly you must know the primary tax payer’s information in addition to your own information (full name, Date of Birth, SSN, tax filing status). You should receive the tax return transcript via US Postal Service within about 10 business days. You can also request to have the tax return transcript faxed directly to you provided you are physically located at the fax number.</li>
  	<li><strong><u><a href="http://www.irs.gov">Form 4506-T</a> </u></strong>available online (this is a free request). Use this form if your current address is different than what it was on your Tax Return. Complete, sign and send (via mail or fax) to the correct processing location indicated on page 2 of the form. You should receive the Tax return transcript via US Postal Service within 2-3 weeks.</li>
 </ol>
@@ -76,6 +75,6 @@ It is recommended that you make multiple copies of your transcript to send to ot
 <h4>My current address is different from what’s on my tax return. What do I do?</h4>
 If your address has changed since you filed your tax return, you may be able to request a tax return transcript via telephone or you may need to complete form 4506T to request a free copy of a Tax Return Transcript.
 <h4>Can I have IRS Tax Return Transcript sent directly to the school?</h4>
-Yes, however, use by parents may not be recommended due to the difficulty in matching student with parent data at the school. You can send transcripts to a 3rd party by submitting a completed copy of IRS Form 4506T.
+If the Tax Return Transcript is for the parent(s), we do not recommend sending it directly to the school  due to the difficulty in matching student with parent data at the school.
 <h4>I used the IRS Data Retrieval on my FAFSA, and my untaxed pension or untaxed IRA distribution rollover was incorrectly brought forward. What do I do?</h4>
 Do not correct the FAFSA yourself. Submit a copy of your 1099-R to the Financial Aid Office. The 1099-R is necessary to confirm that the amount is a rollover. We will remove the amount from your FAFSA.

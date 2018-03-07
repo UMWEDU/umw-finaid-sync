@@ -10,7 +10,7 @@ published: true
 post_date: 2017-04-18 12:42:33
 ---
 <ul>
- 	<li>Students must complete the Summer Financial Aid Request Form through the <a href="https://orgsync.com/115365/chapter">Financial Aid MyUMW portal</a>.</li>
+ 	<li>Students must complete the Summer Financial Aid Request Form (electronic form will be available March 12).</li>
  	<li>Review of requests begin in mid-April</li>
  	<li>Students receive approval or denials via their UMW e-mail.</li>
  	<li>Awards can be viewed through the student MyUMW portal.</li>
@@ -20,7 +20,7 @@ post_date: 2017-04-18 12:42:33
 <h2><span style="color: #b81237"><strong> </strong><strong>SUMMER FINANCIAL AID ELIGIBILITY</strong></span></h2>
 <ul>
  	<li><strong>Satisfactory Academic Progress (SAP)</strong>: Progress is checked after professors submit grades in May.</li>
- 	<li><strong>Enrollment:</strong> Please keep in mind that changes in enrollment may cause changes in financial aid eligibility. At minimum, students must be enrolled in at least 6 undergraduate credit hours or 5 graduate credits during the summer semester to receive financial aid (with the exception of federal Pell Grant, which requires 3 credit hours).</li>
+ 	<li><strong>Enrollment:</strong> Please keep in mind that changes in enrollment may cause changes in financial aid eligibility. At minimum, students must be enrolled in at least 6 undergraduate credit hours or 5 graduate credits during the summer semester to receive financial aid</li>
  	<li>Please contact the Office of Financial Aid if you plan to drop or withdraw from a class after the official add/drop period has ended.</li>
 </ul>
 <h2><strong> </strong><span style="color: #b81237"><strong>TYPES OF SUMMER FINANCIAL AID</strong></span></h2>
@@ -38,8 +38,7 @@ post_date: 2017-04-18 12:42:33
  	<li>Year-round Pell will be available to eligible students for 2017-2018 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time.</li>
  	<li>Parents may apply for a Parent Plus Loan at <a href="https://studentloans.gov">https://studentloans.gov</a>.</li>
 </ul>
-<div class="site-container"></div>
-<h3><strong> </strong><strong>Private Educational Loans</strong></h3>
+<h3 class="site-container"> <strong> </strong><strong>Private Educational Loans</strong></h3>
 <ul>
  	<li>The student must meet eligibility criteria for chosen educational loan, and complete the loan process through that loan lender.</li>
  	<li>For some lenders, students must be making Satisfactory Academic Progress.</li>

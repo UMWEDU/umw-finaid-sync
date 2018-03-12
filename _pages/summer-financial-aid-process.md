@@ -10,7 +10,7 @@ published: true
 post_date: 2017-04-18 12:42:33
 ---
 <ul>
- 	<li>Students must complete the <a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/ShowForm.aspx?RequestedDynamicFormTemplate=e61e17da-e838-4313-a04d-41002fbb028b">Summer Financial Aid Request Form</a> (electronic form will be available March 12).</li>
+ 	<li>Students must complete the <a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/ShowForm.aspx?RequestedDynamicFormTemplate=e61e17da-e838-4313-a04d-41002fbb028b">Summer Financial Aid Request Form</a></li>
  	<li>Review of requests begin in mid-April</li>
  	<li>Students receive approval or denials via their UMW e-mail.</li>
  	<li>Awards can be viewed through the student MyUMW portal.</li>

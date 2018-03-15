@@ -32,8 +32,9 @@ The following is a list of lenders used by students at the University of Mary Wa
  	<li><a href="http://www.mefa.org/">Massachusetts Educational Financing Authority Loan</a></li>
  	<li><a href="http://www.hesaa.org/Pages/NJCLASSHome.aspx">NJCLASS- New Jersey Class Loan</a></li>
  	<li><a href="http://www.pnconcampus.com/studentloanguide/privateloans/default.aspx">PNC Bank</a></li>
- 	<li><a href="http://salliemae.com/">Sallie Mae</a></li>
+ 	<li><a href="https://www.salliemae.com/student-loans/">Sallie Mae</a></li>
  	<li><a href="http://www.suntrusteducation.com/">Suntrust Bank</a></li>
+ 	<li><a href="https://www.thriventstudentresources.com/tools-resources">Thrivent Student Resources</a></li>
  	<li><a href="http://visionsfcu.studentchoice.org/">Visions Federal Credit Union</a></li>
  	<li><a href="http://www.wellsfargo.com/student">Wells Fargo</a></li>
 </ol>

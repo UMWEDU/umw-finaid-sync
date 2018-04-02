@@ -33,7 +33,6 @@ These are scholarship sources from outside the University of Mary Washington:
  	<li><a href="https://www2.ed.gov/about/contacts/state/index.html">State Grant Agency</a></li>
  	<li><a href="https://www.salliemae.com/college-planning/tools/scholarship-search/?dtd_cell=SMPLSHDCOTDOBOOTOTHOTHRR010001">Fleet Reserve ASSN</a></li>
  	<li><a href="http://www.nmcrs.org/pages/education-loans-and-scholarships">Navy-Marine Corps Relief Society</a></li>
- 	<li><a href="http://www.valhen.org/scholarships">Virginia Latino Higher Education Network</a></li>
 </ul>
 <p style="padding-left: 30px"><em>The University of Mary Washington does not endorse any particular scholarship from the list above. </em></p>
 Students may also find information about non-UMW scholarships through their high school guidance department, community service organizations, non-profit agencies, church/denomination, and employers.

@@ -2,20 +2,18 @@
 ID: 159
 post_title: Early Cancellation and Dismissal
 author: Emily
-post_date: 2016-02-29 13:47:14
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/student-employment/supervisors/early-cancellation-and-dismissal/
+  http://www.umw.edu/financialaid/student-employment/supervisors/early-cancellation-and-dismissal/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-29 13:47:14
 ---
 <h2>Early Cancellation</h2>
 Students are encouraged to provide at least two weeks’ notice to their supervisors if they plan to resign before meeting the full term of their job assignment. When a student resigns, supervisors must complete a Notice of Cancellation and an employment evaluation with the student:
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/Notice-of-Cancellation-20150304.pdf">Notice of Cancellation Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/11/2016-2017-Employment-Service-Rating-102915.pdf">Employment Service Rating Form</a> (student employee evaluation)</li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/04/NOTICE_OF_CANCELLATION.docx">Notice of Cancellation Form</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/04/2017-2018-Employment-Service-Rating-081817.docx">Employment Service Rating Form</a> (student employee evaluation)</li>
 </ul>
 Please submit these forms to the <strong>Office of Financial Aid, Lee Hall 230, ATTN: Student Employment Coordinator</strong>. Signing these forms is encouraged but optional for the student.
 <h2>Dismissals</h2>

@@ -40,9 +40,9 @@ The following is a list of lenders used by students at the University of Mary Wa
 </ol>
 <h3>Supplemental Loans for Graduate Students</h3>
 Graduate students who are enrolled at least half-time and have submitted a FAFSA qualify for up to $10,250 per semester ($20,500 maximum per academic year) in the Graduate Unsubsidized loan. For students taking between 6 and 9 credits this loan is typically more than enough to cover tuition and living expenses. If a student takes more than 9 credits per semester however, a supplemental loan might be needed. In this situation a student can apply for an additional private loan after he or she has utilized their full eligibility in the Graduate Unsubsidized loan. The following Student Loan Lenders offer credit-based loans that are specific to students obtaining their Graduate Degree.
-<ul>
+<ol>
  	<li><a href="https://www.salliemae.com/student-loans/graduate-student-loans/">Sallie Mae</a></li>
  	<li><a href="https://www.discover.com/student-loans/graduate.html">Discover</a></li>
  	<li><a href="https://www.wellsfargo.com/jump/student-loans/students?gclid=EAIaIQobChMIp9iHn7Oe2gIVk4SzCh0qVgiUEAAYASABEgLJSvD_BwE&amp;gclsrc=aw.ds&amp;dclid=CLP15qezntoCFcZCDAod1HQL-w#graduatestudents">Wells Fargo</a></li>
-</ul>
+</ol>
 &nbsp;

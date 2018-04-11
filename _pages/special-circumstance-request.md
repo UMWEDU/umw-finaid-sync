@@ -16,16 +16,10 @@ In certain circumstances, the Financial Aid Office may make adjustments to the F
 
 Special Circumstance Requests are available for the following situation:
 
-2017-2018 Forms
-<ul>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Household.pdf">Change in Household Size (Marriage, Divorce, Change in number of dependents in the household, change in number of dependents in college)</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Income.pdf">Change in Income (Involuntary job loss of a family member, loss of other income, such as child support, disability benefits, etc.)</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
-</ul>
 2018-2019 Forms
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Household.pdf">Change in Household Size</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Income.pdf">Change in Income</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Household.pdf">Change in Household Size (Marriage, Divorce, Change in number of dependents)</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Income.pdf">Change in Income (Involuntary job loss, loss of other income-child support, disability benefits, etc.)</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
 </ul>
 Examples of situations that can not be considered Special Circumstance include:

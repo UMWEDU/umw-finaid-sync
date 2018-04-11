@@ -20,7 +20,7 @@ Special Circumstance Requests are available for the following situation:
 <ul>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Household.pdf">Change in Household Size (Marriage, Divorce, Change in number of dependents)</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Income.pdf">Change in Income (Involuntary job loss, loss of other income-child support, disability benefits, etc.)</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/04/18-19SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
 </ul>
 Examples of situations that can not be considered Special Circumstance include:
 <ul>

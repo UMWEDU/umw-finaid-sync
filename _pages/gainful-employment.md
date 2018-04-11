@@ -25,7 +25,7 @@ post_date: 2017-07-25 16:14:55
 </div>
 <div class="row">
 <div class="col-md-5 col-md-offset-3 Info_Box">
-<div class="Title">Students graduating on time</div>
+<div class="Title"><strong>Students graduating on time</strong></div>
 <div class="Title"><span class="Values"><span id="spanPercentOfStudentsCompletedProgramInNormalTime">N/A*</span> </span>of Title IV students complete the program within <span id="spanNormalTimeToCompleteProgram2">30</span> <span id="spanDurationTypeInWeeksMonthsYears2">weeks</span></div>
 <div>
 <div id="tooltipstudents" class="icon-info-sign istudents" title=""> *Fewer than 10 students enrolled in this program. This number has been withheld to preserve the confidentiality of the students.</div>

@@ -23,9 +23,6 @@ post_date: 2016-03-09 13:53:46
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadAY.pdf">Study Abroad - Fall/Spring</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/Consortium-Agreement.pdf">Consortium Agreement</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/02/2017-2018-General-Information.pdf">2017-2018 General Information</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Income.pdf">Special Circumstance Request – Change in Income</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Change-in-Household.pdf">Special Circumstance Request – Change in Household Size</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2016/03/SpecialCircumstance-Medical-Expenses.pdf">Special Circumstance Request – Unusual Medical Expenses</a></li>
  	<li><a href="http://www.umw.edu/admissions/youarein/firstyear-scholarship-acceptance/">First-Year Scholarship Acceptance Certificate</a></li>
  	<li><a href="http://www.umw.edu/admissions/youarein/transfer-scholarship-acceptance/">Transfer Scholarship Acceptance Certificate </a></li>
  	<li><a href="http://www.umw.edu/admissions/youarein/els-scholarship-acceptance/">ELS Scholarship Acceptance</a></li>

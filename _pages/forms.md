@@ -30,7 +30,7 @@ post_date: 2016-03-09 13:53:46
 <ul>
  	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/ShowForm.aspx?RequestedDynamicFormTemplate=3dc90171-6b4a-4136-ad2e-77af74243b35">Group 1 Verification Worksheet for Dependent Students</a></li>
  	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/ShowForm.aspx?RequestedDynamicFormTemplate=dbd1b9a4-dba3-4d10-bcc4-a92d41cf2343">Group 1 Verification Worksheet for Independent Students</a></li>
- 	<li><em><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/2018-2019Verification-Form-V4.pdf">V4 Verification Worksheet</a>  </em></li>
+ 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/2018-2019Verification-Form-V4.pdf">V4 Verification Worksheet</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/2018-2019Verification-Form-V5.pdf">V5 Verification Worksheet</a></li>
  	<li><a href="https://www.irs.gov/individuals/get-transcript">IRS Tax Return Transcript</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19IncomeClarification.pdf">Income Clarification Form</a></li>

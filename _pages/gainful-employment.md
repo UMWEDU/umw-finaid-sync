@@ -18,10 +18,9 @@ post_date: 2017-07-25 16:14:55
 <div id="divtitle" class="col-md-5 col-md-offset-3 first_block">
 <div id="schoolName" class="Institution_Name"><strong>University of Mary Washington</strong></div>
 <div class="Program_Info"><strong><span id="spanAwardType">Undergraduate certificate</span> in <span id="spanProgramName">Geographic Information Science Certificate</span></strong>
-<strong>Program Length:</strong> <span id="spanNormalTimeToCompleteProgram">30</span> <span id="spanDurationTypeInWeeksMonthsYears">weeks</span></div>
-<div class="Program_Info"><a id="printlink" href="/Users/cmason2/Downloads/45.0799-GedtPrint.html">Print</a></div>
-<div></div>
+<strong>Program Length:</strong><span id="spanNormalTimeToCompleteProgram">30</span> <span id="spanDurationTypeInWeeksMonthsYears">weeks</span></div>
 </div>
+<div></div>
 </div>
 <div class="row">
 <div class="col-md-5 col-md-offset-3 Info_Box">

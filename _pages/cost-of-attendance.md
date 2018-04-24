@@ -1,6 +1,6 @@
 ---
 ID: 178
-post_title: 2018-2019 Estimated Cost of Attendance
+post_title: 2018-2019 Cost of Attendance
 author: Emily
 post_excerpt: ""
 layout: page
@@ -22,39 +22,39 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 </tr>
 <tr>
 <td width="332"><strong>Tuition</strong></td>
-<td width="173">$6,212</td>
-<td width="180">$6,212</td>
-<td width="210">$6,212</td>
+<td width="173">$6,302</td>
+<td width="180"> $6,302</td>
+<td width="210"> $6,302</td>
 </tr>
 <tr>
 <td width="332"><strong>Education and General Fees</strong></td>
-<td width="173">2,388</td>
-<td width="180">2,388</td>
-<td width="210">2,388</td>
+<td width="173">2,376</td>
+<td width="180">2,376</td>
+<td width="210">2,376</td>
 </tr>
 <tr>
 <td width="332"><strong>Auxiliary Fees</strong></td>
-<td width="173">4,013</td>
-<td width="180">4,013</td>
-<td width="210">4,013</td>
+<td width="173">3,976</td>
+<td width="180">3,976</td>
+<td width="210">3,976</td>
 </tr>
 <tr>
 <td width="332"><strong>Meal Plan Allowance (Average)</strong></td>
-<td width="173">4,003</td>
+<td width="173">4,086</td>
 <td width="180">---</td>
 <td width="210">---</td>
 </tr>
 <tr>
 <td width="332"><strong>Housing Allowance (Average)</strong></td>
-<td width="173">7,235</td>
+<td width="173">7,132</td>
 <td width="180">---</td>
 <td width="210">---</td>
 </tr>
 <tr>
 <td width="332"><strong>CHARGES BILLED TO STUDENTS:</strong></td>
-<td width="173"><strong>$23,851</strong></td>
-<td width="180"><strong>$12,613</strong></td>
-<td width="210"><strong>$12,613</strong></td>
+<td width="173"><strong>$23,872</strong></td>
+<td width="180"><strong>$12,654</strong></td>
+<td width="210"><strong>$12,654</strong></td>
 </tr>
 <tr>
 <td width="332"><strong>Books and Supplies</strong></td>
@@ -70,9 +70,9 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 </tr>
 <tr>
 <td width="332"><strong>Transportation</strong></td>
-<td width="173">1,739</td>
-<td width="180">2,401</td>
-<td width="210">1,739</td>
+<td width="173">1,718</td>
+<td width="180">2,360</td>
+<td width="210">1,718</td>
 </tr>
 <tr>
 <td width="332"><strong>Direct Loan Fees</strong></td>
@@ -84,7 +84,7 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 <td width="332"><strong>Housing &amp; Food Allowance</strong></td>
 <td width="173">---</td>
 <td width="180">4,606</td>
-<td width="210">11,238</td>
+<td width="210">11,218</td>
 </tr>
 <tr>
 <td width="332"><strong>TOTAL COSTS</strong></td>
@@ -105,39 +105,39 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 </tr>
 <tr>
 <td width="332"><strong>Tuition</strong></td>
-<td width="173">$21,916</td>
-<td width="180">$21,916</td>
-<td width="210">$21,916</td>
+<td width="173">$22,236</td>
+<td width="180">$22,236</td>
+<td width="210">$22,236</td>
 </tr>
 <tr>
 <td width="332"><strong>Education and General Fees</strong></td>
-<td width="173">2,388</td>
-<td width="180">2,388</td>
-<td width="210">2,388</td>
+<td width="173">2,376</td>
+<td width="180">2,376</td>
+<td width="210">2,376</td>
 </tr>
 <tr>
 <td width="332"><strong>Auxiliary Fees</strong></td>
-<td width="173">4,013</td>
-<td width="180">4,013</td>
-<td width="210">4,013</td>
+<td width="173">3,976</td>
+<td width="180">3,976</td>
+<td width="210">3,976</td>
 </tr>
 <tr>
 <td width="332"><strong>Meal Plan Allowance (Average)</strong></td>
-<td width="173">4,003</td>
+<td width="173">4,086</td>
 <td width="180">---</td>
 <td width="210">---</td>
 </tr>
 <tr>
 <td width="332"><strong>Housing Allowance (Average)</strong></td>
-<td width="173">7,235</td>
+<td width="173">7,132</td>
 <td width="180">---</td>
 <td width="210">---</td>
 </tr>
 <tr>
 <td width="332"><strong>CHARGES BILLED TO STUDENTS:</strong></td>
-<td width="173"><strong>$39,555</strong></td>
-<td width="180"><strong>$28,317</strong></td>
-<td width="210"><strong>$28,317</strong></td>
+<td width="173"><strong>$39,806</strong></td>
+<td width="180"><strong>$28,588</strong></td>
+<td width="210"><strong>$28,588</strong></td>
 </tr>
 <tr>
 <td width="332"><strong>Books and Supplies</strong></td>
@@ -153,9 +153,9 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 </tr>
 <tr>
 <td width="332"><strong>Transportation</strong></td>
-<td width="173">2,005</td>
-<td width="180">2,398</td>
-<td width="210">2,005</td>
+<td width="173">1,994</td>
+<td width="180">2,127</td>
+<td width="210">1,994</td>
 </tr>
 <tr>
 <td width="332"><strong>Direct Loan Fees</strong></td>
@@ -166,14 +166,14 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 <tr>
 <td width="332"><strong>Housing and Food Allowance</strong></td>
 <td width="173">---</td>
-<td width="180">4,010</td>
-<td width="210">11,238</td>
+<td width="180">4,250</td>
+<td width="210">11,218</td>
 </tr>
 <tr>
 <td width="332"><strong>TOTAL COSTS</strong></td>
-<td width="173"><strong>$44,260</strong></td>
-<td width="180"><strong>$37,420</strong></td>
-<td width="210"><strong>$44,260</strong></td>
+<td width="173"><strong>$44,500</strong></td>
+<td width="180"><strong>$37,660</strong></td>
+<td width="210"><strong>$44,500</strong></td>
 </tr>
 </tbody>
 </table>

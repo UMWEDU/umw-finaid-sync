@@ -17,8 +17,8 @@ In accordance with federal regulations, all recipients of federal financial aid 
  	<li><strong>Pace requirement</strong>:   Both undergraduate and graduate students must earn at least 70% (no rounding up) of the credits attempted each semester. A full-time student who attempts 15 credits in a semester must successfully complete 10.5 credits to maintain their pace requirement (15 credits x .7 = 10.5 credits).</li>
  	<li><strong>Maximum time frame</strong>: The maximum period in which students may receive financial aid based on the degree program in which they are enrolled. Students have a period of 150% of the credits required to complete the program to remain eligible.
 <ul>
- 	<li>Bachelor degree program that requires 120 credits to graduate will have a total  of 180 attempted credits allowed.</li>
- 	<li>Graduate degree program that requires 30 credits to graduate will have a total of 45 attempted credits allowed.</li>
+ 	<li>Bachelor degree program that requires 120 credits to graduate will have a total of 180 attempted credits allowed, not to exceed six calendar years from the beginning of the initial semester including periods of non-enrollment.</li>
+ 	<li>Graduate degree program that requires 30 credits to graduate will have a total of 45 attempted credits allowed, not to exceed 3 calendar years from the beginning of the initial semester including periods of non-enrollment.</li>
  	<li>There are limited appeals or extensions of the 150% maximum time frame rule. Students may continue to receive limited federal financial aid assistance and will also be able to apply for private loan funding or participate in a tuition payment plan for their educational expenses.</li>
 </ul>
 </li>

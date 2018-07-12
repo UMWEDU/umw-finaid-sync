@@ -5,7 +5,7 @@ author: Tessa Howard
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/eligibility/veteran-resources/
+  http://www.umw.edu/financialaid/veteran-resources/
 published: true
 post_date: 2018-07-12 19:36:17
 ---

@@ -15,21 +15,23 @@ The Office of Financial Aid is committed to supporting student success of Servic
 
 <strong>More information</strong>: <a href="http://www.umw.edu/financialaid">http://www.umw.edu/financialaid</a>
 
-<strong>Contact</strong>: Tessa Howard, Assistant Director of Financial Aid, finaid@umw.edu, (540)654-2468
+<strong>Service Member Contact</strong>: Tessa Howard, Assistant Director of Financial Aid, finaid@umw.edu, (540)654-2468
 <h3></h3>
 <h3>UMW Student Loans</h3>
-UMW administers a variety of student loan options, including <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Loans</a>, <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans,</a> and <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Direct Parent Plus Loans</a>. The UMW Student Loan Coordinator is available to all Service members for appointments regarding loan counseling, recommendations, repayment options, and general loan information.  UMW's most recent Cohort Default Rate for federal student loans was 2.9%, which is significantly lower than the national average (11.5%) and the average in the state of Virginia (10%).
+UMW administers a variety of student loan options, including <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Loans</a>, <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans,</a> and <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Direct Parent Plus Loans</a>. The UMW Student Loan Coordinator is available to all Service members for appointments regarding loan counseling, recommendations, repayment options, and general loan information.
+
+UMW's most recent Cohort Default Rate for federal student loans was 2.9%, which is significantly lower than the national average (11.5%) and the average in the state of Virginia (10%).
 
 <strong>More information</strong>: <a href="https://www.umw.edu/financialaid/types/loans">https://www.umw.edu/financialaid/types/loans</a>
 
-<strong>Contact</strong>: Rick Ware,  UMW Loan Coordinator, rware9jm@umw.edu , (540)654-2468
+<strong>Service Member Contact</strong>: Rick Ware,  UMW Loan Coordinator, rware9jm@umw.edu , (540)654-2468
 <h3></h3>
 <h3>Scholarships</h3>
 UMW automatically considers students for <a href="http://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/">Merit-based Freshmen and Transfer Scholarship</a> opportunities during the admissions process. Students also  may apply for scholarships through the <a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">UMW Online Scholarship Manager</a> from February 1st to May 1st for the upcoming academic year. UMW administers a variety of different scholarship opportunities throughout the academic year. Students are notified through their UMW email account when scholarships become available, and directions on how to apply.
 
 <strong>More information</strong>: <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">https://www.umw.edu/financialaid/types/scholarship-opportunities/</a>
 
-<strong>Contact</strong>: Jessica Cannon, Assistant Director of Scholarships, Office of Financial Aid, finaid@umw.edu, (540)654-2468
+<strong>Service Member Contact</strong>: Jessica Cannon, Assistant Director of Scholarships, Office of Financial Aid, finaid@umw.edu, (540)654-2468
 
 <strong>Non-UMW Scholarship and Fellowship Opportunities</strong>: <a href="http://students.umw.edu/veterans/scholarship-and-fellowship-opportunities/">http://students.umw.edu/veterans/scholarship-and-fellowship-opportunities/</a>
 <h3></h3>
@@ -47,7 +49,7 @@ The Department of Veterans Affairs Education Service offers many benefit program
 
 <strong>More information</strong>: <a href="http://academics.umw.edu/registrar/veterans/">http://academics.umw.edu/registrar/veterans/ </a>
 
-<strong>Contacts</strong>:
+<strong>Service Member Contacts</strong>:
 
 Fredericksburg Campus: Patricia Sarkuti, Office of the Registrar, <a href="mailto:psarkuti@umw.edu">psarkuti@umw.edu , </a>540-654-2140
 

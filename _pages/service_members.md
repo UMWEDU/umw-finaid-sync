@@ -76,5 +76,7 @@ Stafford Campus: Robert Louzek,  <a href="mailto:rlouzek@umw.edu">rlouzek@umw.
 <a href="http://students.umw.edu/veterans/university-resources/The%20Center%20for%20Honor,%20Leadership,%20and%20Service%20is%20located%20on%20the%20lower%20level%20of%20Seacobeck%20Hall.%20We%20encourage%20you%20to%20come%20by%20the%20Center%20to%20learn%20more%20about%20our%20programs%20and%20services.%20You%20can%20also%20reach%20us%20by%20phone%20at%20540-654-2272%20or%20by%20email%20at%20chls@umw.edu.">Center for Honor, Leadership and Service</a>
 
 &nbsp;
-<h3>Local Non-UMW Resources: <a href="http://students.umw.edu/veterans/local-resources/">http://students.umw.edu/veterans/local-resources/</a></h3>
-<h3>Other Useful Links: <a href="http://students.umw.edu/veterans/other-links-and-resources/">http://students.umw.edu/veterans/other-links-and-resources/</a></h3>
+
+<strong>Local Non-UMW Resources</strong>: <a href="http://students.umw.edu/veterans/local-resources/">http://students.umw.edu/veterans/local-resources/</a>
+
+<strong>Other Useful Links</strong>: <a href="http://students.umw.edu/veterans/other-links-and-resources/">http://students.umw.edu/veterans/other-links-and-resources/</a>

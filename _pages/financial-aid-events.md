@@ -14,5 +14,6 @@ The Office of Financial Aid will be hosting online chats for incoming freshmen a
 <ul>
  	<li>Tuesday, February 20 6:30-8 p.m. - <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/02/Financial-Aid-Chat-2-20-18.pdf">Chat Transcript</a></li>
  	<li>Tuesday, March 20 6:30-8 p.m. - <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/03/Financial-Aid-Chat-3-20-18.pdf">Chat Transcript</a></li>
+ 	<li>Thursday, July 12 6-7 p.m. -<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/08/FinAid-Chat-7-12-18.docx">Chat Transcript</a></li>
 </ul>
 Students and families must <a href="https://umw.askadmissions.net/emtinterestpage.aspx?ip=chatreg">register</a> for these FREE events.

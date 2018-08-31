@@ -63,7 +63,7 @@ The university does not have ESL (English as a second language), CLEP or Remedia
 <h3>Transfer Credits:</h3>
 Credits are included in both attempted and completed but the grade doesn’t transfer to UMW and therefore is not used in the calculation of the cumulative GPA.
 <h2>Appeal Process</h2>
-Students are permitted to appeal their financial aid suspension; however, the right to appeal must be based on extraordinary, personal circumstances that contributed to student’s inability to meet the SAP requirements. Acceptable circumstances include:
+Students are permitted to appeal their financial aid suspension; however, the right to appeal must be based on extraordinary, personal circumstances that contributed to student’s inability to meet the SAP requirements. If the initial appeal is approved, appeals for future semesters must be based on a different circumstance as the students previous appeal. Acceptable circumstances include:
 <ul>
  	<li>The death of an immediate family member or close relative (i.e. mother, father, grandparent, sibling or immediate family such as a related aunt or uncle)</li>
  	<li>A serious injury or illness of the student which required medical intervention</li>

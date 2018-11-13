@@ -1,6 +1,6 @@
 ---
 ID: 55
-post_title: Federal Direct Parent Plus Loan
+post_title: Federal Direct Plus Loan
 author: Emily
 post_excerpt: ""
 layout: page

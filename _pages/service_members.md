@@ -18,9 +18,9 @@ The Office of Financial Aid is committed to supporting student success of Servic
 <strong>Service Member Contact</strong>: Tessa Howard, Assistant Director of Financial Aid, finaid@umw.edu, (540)654-2468
 <h3></h3>
 <h3>UMW Student Loans</h3>
-UMW administers a variety of student loan options, including <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Loans</a>, <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans,</a> and <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Direct Parent Plus Loans</a>. The UMW Student Loan Coordinator is available to all Service members for appointments regarding loan counseling, recommendations, repayment options, and general loan information.
+UMW administers a variety of student loan options, including <a href="http://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Loans</a>, <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans,</a> and <a href="http://www.umw.edu/financialaid/types/loans/plus-loan/">Direct Plus Loans</a>. The UMW Student Loan Coordinator is available to all Service members for appointments regarding loan counseling, recommendations, repayment options, and general loan information.
 
-UMW's most recent Cohort Default Rate for federal student loans was 2.9%, which is significantly lower than the national average (11.5%) and the average in the state of Virginia (10%).
+UMW's most recent Cohort Default Rate for federal student loans was 1.8%, which is significantly lower than the national average (11.5%) and the average in the state of Virginia (10%).
 
 <strong>More information</strong>: <a href="https://www.umw.edu/financialaid/types/loans">https://www.umw.edu/financialaid/types/loans</a>
 

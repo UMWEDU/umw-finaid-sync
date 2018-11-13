@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/types/loans/parent-plus-loan/
+  http://www.umw.edu/financialaid/types/loans/plus-loan/
 published: true
 post_date: 2016-02-19 14:00:51
 ---

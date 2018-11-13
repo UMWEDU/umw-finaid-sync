@@ -14,8 +14,6 @@ Parents of dependent students may apply for a Direct PLUS Loan to help cover the
 Graduate and professional students may apply for PLUS Loans for their own educational expenses.  Students must complete the Free Application for Federal Student Aid (FAFSA) to apply.  Students must have received maximum Direct Unsubsidized Student Loans before they may receive a Federal Direct Graduate PLUS loan.
 
 <strong>Parent PLUS Loan Instructions:</strong>
-
-To apply for a Federal Direct Parent PLUS loan, the steps are as follows:
 <ol>
  	<li>The student must complete the <a href="http://www.fafsa.gov">Free Application for Federal Student Aid</a> before being considered for a Federal Direct PLUS Loan.</li>
  	<li>The borrower should log on to the <a href="https://studentloans.gov/myDirectLoan/index.action">Direct Loan website</a>. The parent (not the student) should log in using his or her own FSA ID and password.</li>

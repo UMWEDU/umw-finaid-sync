@@ -41,9 +41,9 @@ Students may complete the <a href="http://www.umw.edu/financialaid/student-emplo
 <h2>What are the costs for tuition, fees, room and board?</h2>
 Actual costs are determined in late April when the Board of Visitors meets. Once the costs are known, you will receive that information in the mail. Current costs can be found by contacting the <a href="http://adminfinance.umw.edu/studentaccounts/">Office of Student Accounts</a>.
 <h2>How do I apply for a student or parent loan?</h2>
-Students are considered for federal loans when they apply for federal student aid via the FAFSA. In order to accept federal Direct Loans, students must complete the <a href="http://www.studentloans.gov/">Direct Loan Entrance Counseling and Master Promissory Note</a>. Students must also accept/decline all loan offers in <a href="https://banner.umw.edu/ssomanager/c/SSB?pkg=twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Banner</a>.
+Students are considered for federal loans when they apply for federal student aid via the FAFSA. In order to accept federal Direct Loans, students must complete the <a href="http://www.studentloans.gov/">Direct Loan Entrance Counseling and Master Promissory Note</a>. Students must also accept/decline all loan offers in their <a href="https://banner.umw.edu/ssomanager/c/SSB?pkg=twbkwbis.P_GenMenu?name=bmenu.P_FAApplStuMnu">Student Portal</a>.
 
-A <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Parent Plus Loan</a> is an educational loan that a parent may use on behalf of their dependent student. This is a credit-based loan. Parents may apply for the <a href="http://www.studentloans.gov">PLUS Loan</a> after June 1 each year at studentloans.gov.
+A <a href="http://www.umw.edu/financialaid/types/loans/parent-plus-loan/">Parent Plus Loan</a> is an educational loan that a parent may use on behalf of their dependent student. This is a credit-based loan. Parents may apply for the <a href="http://www.studentloans.gov">PLUS Loan</a> after June 1 each year at <a href="https://studentloans.gov/myDirectLoan/index.action">StudentLoans.gov</a>.
 
 Students may also apply for <a href="http://www.umw.edu/financialaid/types/loans/private/">private educational loans</a>.
 <h2>How do I request consideration for special circumstances?</h2>

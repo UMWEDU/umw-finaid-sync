@@ -84,7 +84,7 @@ Fax: 540-654-1858
 <h3>SAP Appeal Deadlines</h3>
 <ul>
  	<li>Fall semester appeals must be received by October 1st</li>
- 	<li>Spring semester appeals must be received by June 1st</li>
+ 	<li>Spring semester appeals must be received by February 1st</li>
  	<li>Summer semester appeals are not available</li>
 </ul>
 Appeals received after these dates will not be considered except in documented instances where the student was unable to obtain their supporting documentation prior to the deadline.

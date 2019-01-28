@@ -35,7 +35,7 @@ Applying for Financial Aid can be a confusing process for many first-time freshm
 <td>FAFSA Deadline: Apply by this date to receive the max amount of financial aid for which you are eligible. FAFSA’s will still be accepted after the Feb 1 deadline. All undergraduate students continue to be eligible for federal Direct Student Loans, and federal grants. Other funds (Virginia State Grants, scholarships, etc.) will not be available after the priority deadline.</td>
 </tr>
 <tr>
-<td><strong>May 1</strong></td>
+<td><strong>May 15</strong></td>
 <td>Online Scholarship Application Deadline – 11:59 pm.</td>
 </tr>
 <tr>

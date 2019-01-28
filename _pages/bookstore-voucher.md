@@ -19,5 +19,5 @@ The Bookstore Voucher <strong>may not be used online, for rentals, or purchases 
  	<li>Regardless of when a student receives notice of their approved voucher, the funds will not be available for use until approximately 1 week before the start of classes for a given term.</li>
  	<li>Bookstore vouchers will be limited to $750 per semester.</li>
  	<li>If a student’s enrollment level is lessened or aid eligibility is otherwise effected after receipt of a bookstore voucher, the resulting change may cause the student to owe a balance to the University.  These balances are the sole responsibility of the student.</li>
- 	<li>Bookstore Voucher requests will be available until the end of the add/drop period during the fall and spring semesters. Bookstore vouchers are not available during the summer semester.</li>
+ 	<li>Bookstore Voucher requests will be available for the first two weeks of the fall and spring semesters. Bookstore vouchers are not available during the summer semester.</li>
 </ol>

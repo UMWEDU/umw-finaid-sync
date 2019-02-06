@@ -24,12 +24,12 @@ If you are eligible to use the IRS Data Retrieval Tool, we highly recommend usin
 </ol>
 </div>
 </div>
-The IRS DRT is available on the 2018–19 FAFSA form for eligible individuals. However, the tool is <strong>not</strong> available on the 2017–18 FAFSA form.
+The IRS DRT is available on the 2019–20 FAFSA form for eligible individuals.
 <h2>Satisfying Tax Requirements for Verification</h2>
 If chosen for the process of Verification, in which the Financial Aid Office is required by the Department of Education to confirm the information on your FAFSA, you are required to provide tax information for both student, spouse (if independent) , and/or parent (if dependent).  In addition to using DRT or providing a copy of a Tax Return Transcript, all parties must also provide corresponding wage statements (W2’s, 1099, etc.).
 <h3>There are two options for filling these tax requirements:</h3>
 <h4><span style="color: #b81237"><strong>Option 1: IRS Data Retrieval from FAFSA</strong></span></h4>
-DRT can be used for the 2018-19 FAFSA application, but not for the 2017-18 FAFSA. If you choose to import your information into the FAFSA form, you’ll see “Transferred from the IRS” in the appropriate fields. For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov.
+DRT can be used for the 2019-20 FAFSA application. If you choose to import your information into the FAFSA form, you’ll see “Transferred from the IRS” in the appropriate fields. For your protection, your tax information will not be displayed on either the IRS site or FAFSA.gov.
 
 How to use DRT:
 <ul>

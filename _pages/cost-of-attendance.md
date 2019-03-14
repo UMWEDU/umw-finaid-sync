@@ -12,7 +12,7 @@ post_date: 2016-03-09 13:40:45
 <h2>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h2>
 The Estimated Cost of Attendance (COA) in the chart below is an average cost to attend for one academic year (fall/spring).  The COA is intended for budgeting purposes and may not reflect the actual charges to your student account.  For example, choice of meal plan may increase or decrease your COA. Please contact the Office of Financial Aid if you have any unusual expenses that might affect your COA such as childcare expenses, special books and supplies, or the cost of purchasing a new computer.
 
-ON CAMPUSLIVING WITH PARENTSOFF CAMPUS
+ON CAMPUS                        LIVING WITH PARENTS                   OFF CAMPUS
 <table class="responsive"><caption>VIRGINIA RESIDENTS</caption>
 <thead></thead>
 <tbody>
@@ -90,7 +90,7 @@ ON CAMPUSLIVING WITH PARENTSOFF CAMPUS
 </tr>
 </tbody>
 </table>
-ON CAMPUSLIVING WITH PARENTSOFF CAMPUS
+ON CAMPUS                        LIVING WITH PARENTS                   OFF CAMPUS
 <table class="responsive"><caption>NON-VIRGINIA RESIDENTS</caption>
 <thead></thead>
 <tbody>

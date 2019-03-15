@@ -74,7 +74,7 @@ ON CAMPUS                        LIVING WITH PARENTS  �
 <th scope="row">Direct Loan Fees</th>
 <td data-label="On Campus">60</td>
 <td data-label="Living With Parents">60</td>
-<td data-label="Off Campus">6</td>
+<td data-label="Off Campus">60</td>
 </tr>
 <tr>
 <th scope="row">Housing &amp; Food Allowance</th>
@@ -139,7 +139,7 @@ ON CAMPUS                        LIVING WITH PARENTS  �
 <tr>
 <th scope="row">Personal Expenses</th>
 <td data-label="On Campus">1,460</td>
-<td data-label="Living With Parents">1,455</td>
+<td data-label="Living With Parents">1,460</td>
 <td data-label="Off Campus">1,460</td>
 </tr>
 <tr>
@@ -157,8 +157,8 @@ ON CAMPUS                        LIVING WITH PARENTS  �
 <tr>
 <th scope="row">Housing and Food Allowance</th>
 <td data-label="On Campus">---</td>
-<td data-label="Living With Parents">4,250</td>
-<td data-label="Off Campus">11,218</td>
+<td data-label="Living With Parents">4,230</td>
+<td data-label="Off Campus">11,612</td>
 </tr>
 <tr>
 <th scope="row">TOTAL COSTS</th>

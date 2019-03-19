@@ -11,7 +11,7 @@ post_date: 2016-02-17 14:20:18
 ---
 <h2>There are many scholarship opportunities at UMW!</h2>
 <h3>Endowed UMW Foundation Scholarships and Awards (non-Departmental)</h3>
-UMW Foundation Scholarships are based on endowment funds managed by the UMW Foundation. These scholarships are awarded through the <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>. The application process for 2018-2019 opens February 1 and closes May 1.  Students are encouraged to speak with their departments to determine their deadline dates for the application as these may differ from the May 1 global deadline.  Both academic merit and financial need may be factors in the selection process (based on the wishes of the scholarship donor). To receive consideration for need-based scholarships, you must <a href="https://fafsa.ed.gov/">file the FAFSA</a> in addition to competing the scholarship application.
+UMW Foundation Scholarships are based on endowment funds managed by the UMW Foundation. These scholarships are awarded through the <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>. The application process for 2019-2020 opens February 1 and closes May 15, 2019.  Students are encouraged to speak with their departments to determine their deadline dates for the application as these may differ from the May 15th global deadline.  Both academic merit and financial need may be factors in the selection process (based on the wishes of the scholarship donor). To receive consideration for need-based scholarships, you must <a href="https://fafsa.ed.gov/">file the FAFSA</a> in addition to competing the scholarship application.
 <h3>Departmental Scholarships and Awards</h3>
 Most academic departments award a variety of scholarships each year. Each Department selects recipients from students that have declared majors in their specific discipline.  Scholarship opportunities for each academic department can be applied for through the UMW <a href="http://umw.scholarships.ngwebsolutions.com/">Online Scholarship Manager</a>.
 <h3>Merit Based Freshman and Transfer Student Scholarships</h3>
@@ -33,6 +33,7 @@ These are scholarship sources from outside the University of Mary Washington:
  	<li><a href="https://www2.ed.gov/about/contacts/state/index.html">State Grant Agency</a></li>
  	<li><a href="https://www.salliemae.com/college-planning/tools/scholarship-search/?dtd_cell=SMPLSHDCOTDOBOOTOTHOTHRR010001">Fleet Reserve ASSN</a></li>
  	<li><a href="http://www.nmcrs.org/pages/education-loans-and-scholarships">Navy-Marine Corps Relief Society</a></li>
+ 	<li><a href="https://www.fastweb.com/">Fastweb</a></li>
 </ul>
 <p style="padding-left: 30px"><em>The University of Mary Washington does not endorse any particular scholarship from the list above. </em></p>
 Students may also find information about non-UMW scholarships through their high school guidance department, community service organizations, non-profit agencies, church/denomination, and employers.

@@ -15,7 +15,7 @@ Applying for financial aid can be a confusing process for many students, even if
 <tr>
 <td width="20%"><strong>Prior to October 1
 </strong></td>
-<td width="80%">Students, and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fafsa.ed.gov/">FAFSA</a> after January 1.</td>
+<td width="80%">Students, and parents of dependent students: Apply for a Federal Student Aid ID, so that you can complete your <a href="https://fafsa.ed.gov/">FAFSA</a> after October 1.</td>
 </tr>
 <tr>
 <td><strong>October 1</strong></td>

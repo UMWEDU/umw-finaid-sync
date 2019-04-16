@@ -15,17 +15,15 @@ If the information you filed on the Free Application for Federal Student Aid (FA
 In certain circumstances, the Financial Aid Office may make adjustments to the FAFSA information to more accurately reflect the current situation.
 
 Special Circumstance Requests are available for the following situation:
-
-2018-2019 Forms
 <ul>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Household.pdf">Change in Household Size (Marriage, Divorce, Change in number of dependents)</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/18-19SpecialCircumstance-Change-in-Income.pdf">Change in Income (Involuntary job loss, loss of other income-child support, disability benefits, etc.)</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/04/18-19SpecialCircumstance-Medical-Expenses.pdf">Unusual Medical Expenses</a></li>
+ 	<li>Change in Household Size (Marriage, Divorce, Change in number of dependents)</li>
+ 	<li>Change in Income (Involuntary job loss, loss of other income-child support, disability benefits, etc.)</li>
+ 	<li>Unusual Medical Expenses</li>
 </ul>
 Examples of situations that can not be considered Special Circumstance include:
 <ul>
  	<li>Voluntary job loss</li>
- 	<li>Removing funds early from a retirement account to pay debt</li>
+ 	<li>Removing funds early from a retirement account (401k, 403b, etc.) to pay debt</li>
  	<li>Loss of other income that can not be documented or was not  court ordered</li>
  	<li>Loss of income due to commission-based employment</li>
 </ul>

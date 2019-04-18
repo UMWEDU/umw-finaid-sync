@@ -2,14 +2,12 @@
 ID: 21
 post_title: Deadlines
 author: Emily
-post_date: 2016-02-10 14:00:44
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/financialaid/process/deadlines/
+  http://www.umw.edu/financialaid/process/deadlines/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-10 14:00:44
 ---
 <h2>Financial Aid Dates and Deadlines</h2>
 Submitting financial aid information before the published FAFSA and Verification deadlines will ensure that students receive the maximum amount of financial aid.
@@ -38,6 +36,6 @@ If you are having trouble meeting these deadlines for any reason, please contact
 <h3>Online Scholarship Application</h3>
 <ul>
  	<li>Available: February 6</li>
- 	<li>Deadline:  May 1</li>
+ 	<li>Deadline:  May 15</li>
 </ul>
 &nbsp;

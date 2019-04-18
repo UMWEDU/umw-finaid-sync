@@ -14,7 +14,7 @@ The Bookstore Voucher process allows students to use a portion of their financia
 The Bookstore Voucher <strong>may not be used online, for rentals, or purchases outside of the University of Mary Washington’s bookstore.  </strong>Exception: Students attending the Stafford Campus who are required to make purchases online through MBS Direct.
 <h2>Instructions</h2>
 <ol>
- 	<li>Fill out the voucher request form on UMW Financial Aid website and submit it to the Office of Financial Aid.   <strong>This is an electronic form that will require you to sign in using your MyUMW username and password.</strong></li>
+ 	<li>Fill out the voucher request form on UMW Financial Aid website and submit it to the Office of Financial Aid.   <strong>This is an electronic form that will require you to sign in using your NetID username and password.</strong></li>
  	<li>Students must complete a bookstore voucher request each semester to be considered.  Students who are not approved will receive an email via the University of Mary Washington’s campus email.  Those who are approved will receive an email with instructions regarding the use of their voucher.</li>
  	<li>Regardless of when a student receives notice of their approved voucher, the funds will not be available for use until approximately 1 week before the start of classes for a given term.</li>
  	<li>Bookstore vouchers will be limited to $750 per semester.</li>

@@ -13,7 +13,7 @@ If you would like to hire a student employee and don’t know where to begin, th
 <ol>
  	<li>Review your departmental budget to ensure you can afford to compensate a student’s work.</li>
 </ol>
-<strong>Tip:</strong> A student typically works 10 hours a week on average for 30 weeks per academic year. For example, if the pay rate for your open position is $7.25, it would be wise to budget $2,175 for the academic year per student employee based on the formula $7.25 x 10 hours x 30 weeks.
+<strong>Tip:</strong> A student typically works 12-15 hours a week on average for 30 weeks per academic year. For example, if the pay rate for your open position is $7.25, it would be wise to budget $3262.5 for the academic year per student employee based on the formula $7.25 x 15 hours x 30 weeks.
 <ol start="2">
  	<li>Post an open job. See the “<a href="http://www.umw.edu/financialaid/student-employment/supervisors/post-job/">Post an Open Job</a>” webpage.</li>
  	<li>Review the applications received and select students for interviews.</li>

@@ -14,6 +14,6 @@ The Office of Financial Aid begins notifying incoming freshmen of their estimate
 Continuing student financial aid packages are created in mid-to-late May, after the previous semester grades have been posted. Continuing students will receive an email notification to their UMW email account instructing them to review their award through their MyUMW portal.  Any adjustments to the initial award package will result in the student receiving notification through their UMW email account, instructing them to review the changes through MyUMW.
 <h2>Reviewing Financial Aid Award through MyUMW</h2>
 1.     Log into MyUMW portal
-2.     Select ‘Eagle Gateway’ under ‘Featured’ section
+2.     Select ‘Eagle Gateway’ under ‘Resources’ section
 3.     Select ‘My Financial aid’ under the ‘Getting Started’ section
 4.     Select ‘Award by Aid year’, ‘201x-201x Academic year’, and ‘Award Overview’

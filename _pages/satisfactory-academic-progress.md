@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-02-16 13:46:53
 ---
-In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each semester attended (fall, spring and summer semesters).
+In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each Academic Year (Spring Semester).
 <h2>The following definitions apply to this policy:</h2>
 <ul>
  	<li><strong>Financial Aid Programs</strong>: All federal programs, VA State grant programs, scholarship programs offered through the University, outside programs offered from other states and private organizations, federal work-study and institutional student employment and private education loans.</li>
@@ -32,13 +32,9 @@ In accordance with federal regulations, all recipients of federal financial aid 
 </ul>
 <h2>Review Process</h2>
 <h3>Frequency</h3>
-Satisfactory Academic Progress will be evaluated at the end of each enrollment term (fall, spring and summer) regardless of whether the student received financial aid in that enrollment period. Students not meeting SAP requirements will be notified by letter and also have an email message sent to their UMW email account.
-<h3>Financial Aid Warning</h3>
-When a student fails to meet SAP requirements, the student will be placed on Financial Aid Warning for their next enrollment period. A student remains eligible for their financial aid during the warning period. A student is only eligible for one warning period and will be notified of their placement into a warning status. A student may not be placed in a warning status if they were not meeting SAP requirements in the prior enrollment period or were enrolled in their first term at UMW.
-
-During this term, the student is expected to regain their satisfactory academic progress through successful completion of their credits or recalculation of their GPA. Students placed into a warning period will be strongly encouraged to contact the Office of Academic and Career Services or their Faculty Advisor for further assistance. Please refer to the Academic Success Section of this policy for further information about the ways this Office or Faculty Advisor can assist students. Failure to meet the minimum SAP requirements after the warning period will result in suspension of the student’s financial aid.<strong> </strong>
+Satisfactory Academic Progress will be evaluated at the end of each Academic Year (Spring Semester) regardless of whether the student received financial aid in that enrollment period. Students not meeting SAP requirements will be notified by letter and also have an email message sent to their UMW email account.
 <h3>Financial Aid Suspension</h3>
-Suspension of financial aid eligibility occurs the semester immediately following the “warning” period. Under suspension a student is not eligible for federal and state financial aid. In addition, students will lose their eligibility for UMW scholarship or grant aid.   Students have two options to reestablish their federal and state financial aid eligibility.
+Following the conclusion of the Spring Semester, if a student is not meeting Satisfactory Academic Progress based upon the eligibility requirements determined by the Department of Education, they will be placed into SAP Suspension. Under suspension a student is not eligible for federal and state financial aid. In addition, students will lose their eligibility for UMW scholarship or grant aid.  Students have two options to reestablish their federal and state financial aid eligibility.
 
 These options are:
 <ul>

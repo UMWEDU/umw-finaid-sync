@@ -31,6 +31,6 @@ Students are permitted to appeal the loss of a merit (or curriculum) based award
  	<li>Significant, unanticipated family obligations due to medical issue or illness</li>
  	<li>A catastrophic loss due to fire, flood, or natural disaster that affects the student's academic attendance or performance</li>
 </ul>
-To appeal, students may complete the <a href="https://dynamicforms.ngwebsolutions.com/Submit/Form/Page?form=156d767b-7685-43b8-b303-c2f82f6e1e34&amp;page=152885&amp;token=rP1BP2mcFBJ4W7WsdEYsU%2BdgciQL2oh87YlXNMF2dvE%3D">Merit &amp; Curriculum Scholarship Appeal Form</a> through myUMW.
+To appeal, students may complete the<a href="https://dynamicforms.ngwebsolutions.com/Submit/Form/Page?form=beb55745-8ba6-4141-847c-782c40b2de18&amp;page=152885&amp;token=NNjAaoE6ePDVzRoFzSOm2TA8UmSjsLxL3TZcIh7pvHw%3D"> Merit &amp; Curriculum Scholarship Appeal Form</a> through myUMW.
 
 If reinstated, awards are not retroactive. The award will be reinstated for the current or upcoming semesters based on the determination made by the Scholarship committee.

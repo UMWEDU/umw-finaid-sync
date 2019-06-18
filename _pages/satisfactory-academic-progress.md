@@ -25,18 +25,16 @@ In order to receive federal financial aid or other need-based aid, a student’s
 
 <em>Undergraduate</em>                                       0 – 30                                                                   1.80
 
-31 – 60                                                                  1.90
+31 – 60                                                      1.90
 
-61 +                                                                        2.00
-
-&nbsp;
+61 +                                                            2.00
 
 <em>Graduate/Advanced Degree Student</em>                                                                               3.0
 
 &nbsp;
-<h2><strong>Incremental Progress: Minimum Credit Hour Completion Rate</strong><strong>
+<h2><strong>Incremental Progress: Minimum Credit Hour Completion Rate</strong></h2>
+&nbsp;
 
-</strong></h2>
 University of Mary Washington students must complete at least 70% of all hours attempted towards graduation.  Repeated courses and courses with a grade of W, WA, F, I, G, UN or FA will count as attempted coursework and not as completed coursework.  Students repeating a course, previously passed may do so only once.  A course repeated more than once will not be included when determining enrollment status. All students must earn a minimum of 70.0% of the credit hours that they have attempted.
 
 <em>Example A:</em>
@@ -47,7 +45,7 @@ The student below has earned 120 credit hours at UMW and has attempted a total o
 <table width="0">
 <tbody>
 <tr>
-<td width="99">&nbsp;</td>
+<td width="99"></td>
 <td><strong>Attempt Hours</strong></td>
 <td><strong>Passed Hours</strong></td>
 <td><strong>Earned Hours</strong></td>
@@ -90,7 +88,7 @@ The student has attempted a total of 48 credit hours during his entire attendanc
 <table width="0">
 <tbody>
 <tr>
-<td width="120">&nbsp;</td>
+<td width="120"></td>
 <td><strong>Attempt Hours</strong></td>
 <td><strong>Passed Hours</strong></td>
 <td><strong>Earned Hours</strong></td>

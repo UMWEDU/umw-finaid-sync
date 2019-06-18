@@ -10,64 +10,163 @@ published: true
 post_date: 2016-02-16 13:46:53
 ---
 In accordance with federal regulations, all recipients of federal financial aid must maintain a satisfactory rate of progress toward the completion of a degree (i.e. pace) and must be in good standing based on a cumulative grade point average (GPA), regardless of whether financial aid was received previously. Progress will be measured at the end of each Academic Year (Spring Semester).
-<h2>The following definitions apply to this policy:</h2>
-<ul>
- 	<li><strong>Financial Aid Programs</strong>: All federal programs, VA State grant programs, scholarship programs offered through the University, outside programs offered from other states and private organizations, federal work-study and institutional student employment and private education loans.</li>
- 	<li><strong>Earned and Attempted Credit hours: </strong>Satisfactory Academic Progress uses credit hours to measure both the Pace and Maximum Timeframe requirements. It is important to understand the difference between the two types of credit hours. Credit hours “earned” are courses in which the student receives a letter grade of “D” or “PA” in a Pass/Fail course. “Attempted” credits are all courses in which the student enrolls and remains enrolled in after the add/drop period of each semester even if the student withdraws later or fails the course at the end.</li>
- 	<li><strong>Pace requirement</strong>:   Both undergraduate and graduate students must earn at least 70% (no rounding up) of the credits attempted each semester. A full-time student who attempts 15 credits in a semester must successfully complete 10.5 credits to maintain their pace requirement (15 credits x .7 = 10.5 credits).</li>
- 	<li><strong>Maximum time frame</strong>: The maximum period in which students may receive financial aid based on the degree program in which they are enrolled. Students have a period of 150% of the credits required to complete the program to remain eligible.
-<ul>
- 	<li>Bachelor degree program that requires 120 credits to graduate will have a total of 180 attempted credits allowed, not to exceed six calendar years from the beginning of the initial semester including periods of non-enrollment.</li>
- 	<li>Graduate degree program that requires 30 credits to graduate will have a total of 45 attempted credits allowed, not to exceed 3 calendar years from the beginning of the initial semester including periods of non-enrollment.</li>
- 	<li>There are limited appeals or extensions of the 150% maximum time frame rule. Students may continue to receive limited federal financial aid assistance and will also be able to apply for private loan funding or participate in a tuition payment plan for their educational expenses.</li>
-</ul>
-</li>
-</ul>
-<strong>Cumulative Grade Point Average</strong>: The grade point average calculated at UMW from all credits taken. Coursework transferred from other institutions are included in the total number of credits attempted and completed but are not factored into the cumulative GPA.
-<ul>
- 	<li>The minimum cumulative GPA requirement is 1.8 for each semester of attendance at UMW for a student who has earned less than 30 credits.</li>
- 	<li>The minimum cumulative GPA is 1.9 for students who have earned 31 – 59 credits.</li>
- 	<li>The minimum cumulative GPA is 2.0 for students who have earned 60 or more credits.</li>
- 	<li>There are UMW scholarship programs which require a higher cumulative GPA and a student must meet the requirement to retain those program awards.<strong> </strong></li>
-</ul>
-<h2>Review Process</h2>
-<h3>Frequency</h3>
-Satisfactory Academic Progress will be evaluated at the end of each Academic Year (Spring Semester) regardless of whether the student received financial aid in that enrollment period. Students not meeting SAP requirements will be notified by letter and also have an email message sent to their UMW email account.
-<h3>Financial Aid Suspension</h3>
-Following the conclusion of the Spring Semester, if a student is not meeting Satisfactory Academic Progress based upon the eligibility requirements determined by the Department of Education, they will be placed into SAP Suspension. Under suspension a student is not eligible for federal and state financial aid. In addition, students will lose their eligibility for UMW scholarship or grant aid.  Students have two options to reestablish their federal and state financial aid eligibility.
+<h2><strong>Satisfactory Academic Progress Policy for Financial Aid Recipients</strong></h2>
+Federal regulations require institutions of higher education to establish minimum standards of satisfactory academic progress (SAP) for students receiving <strong>Title</strong> <strong>IV</strong> <strong>federal aid</strong>.  All university course work must be considered, regardless of whether the student received federal financial aid at the time.
 
-These options are:
-<ul>
- 	<li>Pay for the next semester or session on your own and have the SAP status reevaluated after completion of the semester, or</li>
- 	<li>Submit an Appeal of SAP requirements, as outline in the SAP notification letter.</li>
-</ul>
-<h3>Maximum Time Frame suspension</h3>
-Any student who has exceeded the Maximum Time Frame requirements for the appropriate degree program will be placed on a Maximum Time Suspension. Students in this group will be required to appeal and provide the Office of Financial Aid with an academic plan that has been approved by their Faculty Advisor. The academic plan must be followed as prescribed and will be reviewed at the end of each semester until graduation from UMW. Students will not be permitted to receive institutional grants or scholarship unless approved through the Office of Financial Aid in conjunction with the institutional scholarship or grant provider’s approval. In most cases, aid will be limited to federal financial aid only.
-<h3>Notification</h3>
-Letters explaining the SAP status along with instructions on the appeal process will be mailed to the student’s permanent home address on file with UMW. It is recommended that students keep their permanent home address up to date with the Registrar’s Office. Email notifications to the student UMW email account will only contain a notice that you should refer to the letter for your status and instructions. UMW will also notify the Student Success Coordinators &amp; Faculty Advisors that a student has been suspended for financial aid eligibility.
-<h2>Treatment of Special Grades</h2>
-<h3>Incomplete Grades:</h3>
-Courses for which a student receives a grade of “I” are included in the number of attempted credits but don’t count as earned credits for SAP calculations. It is the responsibility of the student to notify the Office of Financial Aid of all grade changes once complete. A review of satisfactory academic progress can’t be conducted until the incomplete grade is changed therefore the student will be considered ineligible for financial aid.
-<h3>Audited Courses:</h3>
-Courses in this category do not count as credits attempted or earned.
-<h3>Repeating Courses:</h3>
-All repeated courses affect financial aid SAP calculations. Regardless of whether the student received financial aid or not, all repeated coursework must be counted as attempted credits. The grade earned in the repeated course is the grade that determines the student’s cumulative grade point average. No additional credits will be considered as earned credits for repeated courses for which credits were earned previously. Before registering to repeat a course, a student should verify that he or she is eligible to do so according to Academic Policy. Only courses repeated at UMW can improve the student’s cumulative grade point average.
-<h3>Withdrawals:</h3>
-Courses for which a student receives a grade of “W” or “WA” are included in the number of attempted credits but do not count as earned credits for SAP determination.
-<h3>Remedial Courses:</h3>
-The university does not have ESL (English as a second language), CLEP or Remedial coursework.
-<h3>Transfer Credits:</h3>
-Credits are included in both attempted and completed but the grade doesn’t transfer to UMW and therefore is not used in the calculation of the cumulative GPA.
-<h2>Appeal Process</h2>
-Students are permitted to appeal their financial aid suspension; however, the right to appeal must be based on extraordinary, personal circumstances that contributed to student’s inability to meet the SAP requirements. If the initial appeal is approved, appeals for future semesters must be based on a different circumstance as the students previous appeal. Acceptable circumstances include:
-<ul>
- 	<li>The death of an immediate family member or close relative (i.e. mother, father, grandparent, sibling or immediate family such as a related aunt or uncle)</li>
- 	<li>A serious injury or illness of the student which required medical intervention</li>
- 	<li>Significant, unanticipated family obligations due to medical issue or illness</li>
- 	<li>A catastrophic loss due to fire, flood or natural disaster that affects the student’s academic attendance or performance<strong> </strong></li>
-</ul>
-<strong>The appeal of a financial aid suspension is a separate process from an appeal of academic suspension. The two processes are not related and approval of an academic suspension does not automatically remove the suspension from financial aid. </strong>
-<h2>Satisfactory Academic Progress (SAP) Appeals</h2>
+Financial aid at the University of Mary Washington is awarded to students for the entire academic year or summer session.  If an aid recipient’s grade point average falls below the minimum standards at the end of the spring semester, the recipient will be placed on financial aid suspension. The student will be ineligible for financial aid for the subsequent enrollment period and will not receive consideration for aid again until the standards have been met.  A student may attend summer school to meet the standards of satisfactory academic progress to regain eligibility.  The student should notify the Office of Financial Aid when standards for satisfactory academic progress have been met.
+
+The standards for determining progress at the University of Mary Washington are composed of three separate measurements.  These measurements are: grade point average (qualitative), incremental progress (quantitative), and accumulated hours (maximum timeframe).  A student whose average drops below the minimum requirement will be placed on financial aid warning for the subsequent semester.
+
+&nbsp;
+<h2><strong>Minimum Cumulative Grade Point Average (GPA)</strong></h2>
+In order to receive federal financial aid or other need-based aid, a student’s cumulative grade point average (GPA) must meet the minimum requirement as defined below:
+
+<strong><u>Grade Point Average:</u></strong>                      Hours Earned                       Minimum Required Cumulative GPA (4.0 scale)
+
+<em>Undergraduate</em>                                       0 – 30                                                                   1.80
+
+31 – 60                                                                  1.90
+
+61 +                                                                        2.00
+
+&nbsp;
+
+<em>Graduate/Advanced Degree Student</em>                                                                               3.0
+
+&nbsp;
+<h2><strong>Incremental Progress: Minimum Credit Hour Completion Rate</strong><strong>
+
+</strong></h2>
+University of Mary Washington students must complete at least 70% of all hours attempted towards graduation.  Repeated courses and courses with a grade of W, WA, F, I, G, UN or FA will count as attempted coursework and not as completed coursework.  Students repeating a course, previously passed may do so only once.  A course repeated more than once will not be included when determining enrollment status. All students must earn a minimum of 70.0% of the credit hours that they have attempted.
+
+<em>Example A:</em>
+
+The student below has earned 120 credit hours at UMW and has attempted a total of 123 credit hours.  Divide 120 (earned credit hours) by 123 (attempted credit hours).  This student’s credit hour completion rate is 98%.
+
+<strong> </strong>
+<table width="0">
+<tbody>
+<tr>
+<td width="99">&nbsp;</td>
+<td><strong>Attempt Hours</strong></td>
+<td><strong>Passed Hours</strong></td>
+<td><strong>Earned Hours</strong></td>
+<td><strong>GPA Hours</strong></td>
+<td><strong>Quality Points</strong></td>
+<td><strong>GPA</strong></td>
+</tr>
+<tr>
+<td width="99"><strong>UMW:</strong></td>
+<td>76.000</td>
+<td>73.000</td>
+<td>73.000</td>
+<td>73.000</td>
+<td>283.00</td>
+<td>3.877</td>
+</tr>
+<tr>
+<td width="99"><strong>Transfer:</strong></td>
+<td>47.000</td>
+<td>47.000</td>
+<td>47.000</td>
+<td>0.000</td>
+<td>0.00</td>
+<td>0.000</td>
+</tr>
+<tr>
+<td width="99"><strong>Degree:</strong></td>
+<td>123.000</td>
+<td>120.000</td>
+<td>120.000</td>
+<td>73.000</td>
+<td>283.00</td>
+<td>3.877</td>
+</tr>
+</tbody>
+</table>
+<em>Example B:</em>
+
+The student has attempted a total of 48 credit hours during his entire attendance at UMW.  In order to meet the minimum credit hour completion rate requirement and be eligible for financial aid for future semesters, the student must have earned 34 of those credit hours (48 x 0.70 = 34).  In this case, the student has only earned 24 credit hours and is <strong>NOT</strong> meeting the minimum credit hour completion rate.  (24 divided by 48 = 50%).  This student is not eligible for financial aid.
+<table width="0">
+<tbody>
+<tr>
+<td width="120">&nbsp;</td>
+<td><strong>Attempt Hours</strong></td>
+<td><strong>Passed Hours</strong></td>
+<td><strong>Earned Hours</strong></td>
+<td><strong>GPA Hours</strong></td>
+<td><strong>Quality Points</strong></td>
+<td><strong>GPA</strong></td>
+</tr>
+<tr>
+<td width="120"><strong>UMW:</strong></td>
+<td>48.000</td>
+<td>24.000</td>
+<td>24.000</td>
+<td>24.000</td>
+<td>60.00</td>
+<td>2.500</td>
+</tr>
+<tr>
+<td width="120"><strong>Transfer:</strong></td>
+<td>0.000</td>
+<td>0.000</td>
+<td>0.000</td>
+<td>0.000</td>
+<td>0.000</td>
+<td>0.000</td>
+</tr>
+<tr>
+<td width="120"><strong>Degree:</strong></td>
+<td>48.000</td>
+<td>24.000</td>
+<td>24.000</td>
+<td>24.000</td>
+<td>60.00</td>
+<td>2.500</td>
+</tr>
+</tbody>
+</table>
+<strong><em>Earned Hours</em></strong><em>:</em>  A, B, C, D, PA or SA
+
+<strong><em>Unearned Hours</em></strong><em>:</em>  F, I, W, WA, G, UN or FA
+
+<strong><em>Withdrawals (W):</em></strong><strong> </strong>Courses for which a student has withdrawn and a W is posted on their transcript, are counted as attempted but not earned credit hours.
+
+<strong><em>Course Repeats:</em></strong><strong> </strong>If a student repeats a course, both the original and the repeated courses will count toward the earned and attempted credit hours.  Students may only receive federal financial aid for one repeat of a course that has been successfully completed with a grade of “D” or higher.
+
+<strong><em>Incomplete Grades (I): </em></strong>Courses for which a student earns a grade of incomplete (I) are counted as attempted but not earned credit hours.  Once a grade is received it is the student’s responsibility to notify the Office of Financial Aid by submitting an appeal.
+
+&nbsp;
+<h2><strong>Maximum Timeframe/Credit Hours</strong></h2>
+To remain eligible for financial aid at the University of Mary Washington, students must complete their degree program requirements within 150 percent of the published length of their degree program.  All attempted hours are counted, including transfer hours, whether or not financial aid was received.
+
+<strong>Undergraduate Example:</strong>
+
+If an Undergraduate degree program requires 120 semester credit hours to complete, then a student is eligible for financial aid during the first 180 attempted credit hours as an Undergraduate.
+
+(120 x 150% = 180 maximum attempted credit hours for financial aid eligibility).
+
+<strong>Graduate Students:</strong>
+
+Graduate students must complete their degree within the maximum time frame as determined and monitored by the Graduate School.
+
+(30 x 150% = 45 maximum attempted credit hours for financial aid eligibility).
+
+<strong>Second Degree-Seeking Students:</strong>
+
+All attempted hours from a prior degree will not count towards the second degree, unless they are needed for that degree. A student pursuing a second undergraduate degree is eligible to receive financial aid for a maximum of 150% of the hours required for the second degree (Maximum of 228 hours including hours for first degree).
+
+<strong>Mid-Year Transfer Students:</strong>
+
+When a student transfers to the University, all of their transfer credit hours are counted towards SAP as attempted and earned hours. Any grades are excluded from the University for SAP purposes. The GPA starts at 0.00 as a new transfer.
+
+&nbsp;
+<h2><strong>Appeal Process </strong></h2>
+If a student is denied financial aid for failure to meet any of the above standards for satisfactory academic progress, the student may request an appeal of the decision.  Students are permitted to appeal their financial aid suspension; however, the right to appeal must be based on extraordinary, personal circumstances that contributed to student’s inability to meet the SAP requirements. If the initial appeal is approved, appeals for future semesters must be based on a different circumstance than the previous appeal.
+
+If the appeal is approved, a student will receive financial aid on a probationary status and an academic plan may be required.  At the end of the semester, the student will be evaluated according to the SAP Policy to determine if financial aid will be awarded for the next semester.
+
 Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/12/SAPAppeal.pdf">Satisfactory Academic Process Appeal Form</a> together with all required documents within 15 days of the notification that they have been placed on suspension.
 
 SAP Appeals should be submitted to the Office of Financial Aid either by mail, fax or in person to:
@@ -94,12 +193,6 @@ The student should carefully review the SAP appeal notification which will outli
 If the Appeal is denied: Aid is immediately suspended until eligibility is re-established
 
 The decision is final for the term of enrollment specified in the letter. A student may still be able to re-establish eligibility on their own, for future enrollment periods, by completing sufficient credit hours or by improving their cumulative GPA. The student may appeal no more than two terms at UMW. Requests for multiple appeals must be for different circumstances.
-<h2>Financial Aid Probation</h2>
-This status is assigned to the student who has successfully appealed their financial aid suspension and had their eligibility for aid reinstated. The reinstatement under probation may not be for more than one term of enrollment.
-
-If a student fails to meet the minimum SAP requirements at the end of their probation period, the student is placed back into financial aid suspension. The student is not permitted to appeal this suspension unless there is a new and different circumstance that meets the definition of the acceptable circumstances discussed earlier in the policy. Any new approved appeal will only be approved for one term of enrollment and the student would be placed back into financial aid probation.
-
-Under no circumstances will more than two probation periods be approved for any student. It is expected that a student regain and maintain their satisfactory academic progress at UMW.
 <h2>Plan for Academic Success</h2>
 Students placed on Financial Aid Warning, Probation or Suspension are strongly encouraged to schedule an academic advisement appointment with the Office of Academic and Career Services or with their Faculty Advisor. Through advisement, students will work to create academic plans and become connected to campus resources that support academic success. Resources at UMW to help students succeed academically include:
 <ul>

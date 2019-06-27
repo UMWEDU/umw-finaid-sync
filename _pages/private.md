@@ -20,6 +20,8 @@ The University of Mary Washington does not endorse any particular private lender
 You will need to respond to all of the lender requests promptly and allow at least four weeks for processing.  The University of Mary Washington cannot defer student account balances until a loan approval from the lender is received.
 <h3>Lender Information</h3>
 The following is a list of lenders used by students at the University of Mary Washington in the past three years. This list appears in alphabetical order and is in no way ranked. Lenders may chose not to participate in private loans at any time. To get current and accurate information, please contact the lender directly.
+
+Please visit <a href="http://www.elmselect.com/#/">elmselect.com</a> in order to view lenders and compare borrower benefits and other options.
 <ol>
  	<li><a href="https://www.affinityplus.org/personal/student-services/student-loans">Affinity Federal Credit Union</a></li>
  	<li><a href="http://www.applefcu.studentchoice.org/">Apple Federal Credit Union</a></li>

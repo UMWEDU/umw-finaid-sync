@@ -9,10 +9,9 @@ permalink: >
 published: true
 post_date: 2016-02-22 13:18:28
 ---
-Students can now log into the <a href="https://orgsync.com/82489/chapter">myUMW portal</a> to web accept or web decline student loans.   Please follow the directions below:
+Students can now log into the <a href="https://technology.umw.edu/logins/umw-login-id-and-password/it-system-logins/">UMW Banner Portal</a> to web accept or web decline student loans.   Please follow the directions below:
 <ul>
- 	<li>Login to <a href="https://orgsync.com/82489/chapter">myUMW</a> (You will need to provide your credentials, if you have an issue finding this, please contact the IT Help Desk at <a href="tel:%28540%29%20654-2255">(540) 654-2255</a>)</li>
- 	<li>Under <strong>Getting Started</strong>, click on “My Financial Aid”</li>
+ 	<li>Login to UMW Banner Portal (You will need to provide your credentials, if you have an issue finding this, please contact the IT Help Desk at <a href="tel:%28540%29%20654-2255">(540) 654-2255</a>)</li>
  	<li>Click “My Award Information”</li>
  	<li>Click “Award by Aid Year” and select choose the appropriate academic year. Submit.</li>
  	<li>Click on “Award Overview”. Please review your award package before you make your decision to accept or decline your student loans.</li>

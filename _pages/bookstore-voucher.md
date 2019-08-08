@@ -13,12 +13,12 @@ The Bookstore Voucher process allows students to use a portion of their financia
 
 The Bookstore Voucher <strong>may not be used online (with the exception of MBS Direct for specified students), for rentals, or purchases outside of the University of Mary Washington’s bookstore.  </strong>
 
-<strong>Deadline: August 15th, 2019 (Fall 2019)</strong>
+<strong>Deadline to Apply: August 15th, 2019 (Fall 2019)</strong>
 <h2>Instructions</h2>
 <ol>
- 	<li>Access the Bookstore Voucher Request form at <a href="http://www.umw.edu/financialaid">www.umw.edu/financialaid</a> in the 'forms' area.</li>
+ 	<li>Access the Bookstore Voucher Request form in the '<a href="https://www.umw.edu/financialaid/process/forms/">forms</a>' section.</li>
  	<li>Students must complete a bookstore voucher request each semester to be considered.  Students who are not approved will receive an email via the University of Mary Washington’s campus email.  Those who are approved will receive an email with instructions regarding the use of their voucher.</li>
- 	<li>Students may use their bookstore voucher through August 15th, 2019.</li>
- 	<li>Bookstore vouchers will be limited to $750 per semester.</li>
- 	<li>If a student’s enrollment level is lessened or aid eligibility is otherwise effected after receipt of a bookstore voucher, the resulting change may cause the student to owe a balance to the University.  These balances are the sole responsibility of the student.</li>
+ 	<li>Students may use their bookstore voucher through October 31, 2019.</li>
+ 	<li>Bookstore vouchers will be limited to $250, $500 or $750 per semester.</li>
+ 	<li>If a student’s enrollment is reduced or aid eligibility is otherwise effected after receipt of a bookstore voucher, the resulting change may cause the student to owe a balance to the University.  These balances are the sole responsibility of the student.</li>
 </ol>

@@ -20,6 +20,6 @@ Supervisors must receive a Work Authorization from the Student Employment Coordi
  	<li><a href="https://www.uscis.gov/i-9">Federal Form I-9</a> <strong>Original</strong> <strong>ID(s)</strong> to accompany Form I-9 (see page 3/3 of Form I-9)</li>
  	<li><a href="http://www.irs.gov/pub/irs-pdf/fw4.pdf">Federal Income Withholding Form W-4</a></li>
  	<li><a href="http://www.umw.edu/documents/document/va-4/">State Income Withholding Form VA-4</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/06/DirectDepositUpdated5.31.17.pdf">Direct Deposit</a></li>
+ 	<li><a href="https://adminfinance.umw.edu/payroll/forms/#Direct%20Deposit">Direct Deposit</a></li>
 </ul>
 <strong>IMPORTANT:</strong> Students seeking to work on campus should be prepared to provide identification in-person for the Federal Form I-9 on or, preferably, well before their first day of work. Please review the Federal Form I-9 FAQ for more information.

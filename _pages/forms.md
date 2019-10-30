@@ -19,7 +19,7 @@ post_date: 2016-03-09 13:53:46
  	<li><a href="http://www.umw.edu/admissions/youarein/transfer-scholarship-acceptance/">Transfer Scholarship Acceptance Certificate</a></li>
  	<li><a href="http://www.umw.edu/admissions/youarein/els-scholarship-acceptance/">ELS Scholarship Acceptance</a></li>
  	<li><a href="http://www.umw.edu/admissions/youarein/international-scholarship-acceptance/">International Scholarship Acceptance</a></li>
- 	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/d8965a51-3433-4c8c-bdef-e7d410245a43">Merit Scholarship Appeal Form</a></li>
+ 	<li>Merit Scholarship Appeal Form - Currently being Updated</li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/12/SAPAppeal.pdf">Satisfactory Academic Progress Appeal Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadSum.pdf">Study Abroad - Summer</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadAY.pdf">Study Abroad - Fall/Spring</a></li>

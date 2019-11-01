@@ -23,5 +23,5 @@ post_date: 2016-03-09 13:53:46
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/12/SAPAppeal.pdf">Satisfactory Academic Progress Appeal Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadSum.pdf">Study Abroad - Summer</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadAY.pdf">Study Abroad - Fall/Spring</a></li>
- 	<li>Fall 2019 Bookstore Voucher - Deadline: August 24, 2019</li>
+ 	<li>Spring 2020 Bookstore Voucher - Deadline: December 17, 2019</li>
 </ul>

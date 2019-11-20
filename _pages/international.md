@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2019-11-20 16:40:12
 ---
-<h2>International Merit Scholarship</h2>
 <h3><strong>The University of Mary Washington will change or rescind merit scholarships in the event housing or residency status changes after awarding</strong><strong>.</strong></h3>
 The recipient qualifies to receive a scholarship for each of four academic years (Fall/Spring) of continuous undergraduate study at the University of Mary Washington provided that all of the following conditions are satisfied:
 <ul>

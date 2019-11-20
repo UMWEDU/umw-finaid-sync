@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2019-11-20 16:34:49
 ---
-<h2>Transfer Merit Scholarship</h2>
 <h3><strong>The University of Mary Washington will change or rescind merit scholarships in the event housing or residency status changes after awarding</strong><strong>.</strong></h3>
 The university will credit one-half of the scholarship each semester to the student’s account (Fall/Spring). The recipient qualifies to receive a scholarship for up to six regular semesters of continuous study at the University of Mary Washington if all of the following conditions are satisfied:
 <ul>

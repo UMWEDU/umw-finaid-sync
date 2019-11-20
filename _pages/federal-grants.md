@@ -27,7 +27,7 @@ You must complete the <a id="anch_145" href="https://studentloans.gov/myDirectL
 You must also sign a <em>TEACH Grant Agreement to Serve</em> in which you agree to (among other requirements) teach
 <ul>
  	<li>in a high-need field;</li>
- 	<li>at an elementary school, secondary school, or <a id="anch_149" class="lexicon-term colorbox-load glossary-modal init-colorbox-load-processed cboxElement" href="https://studentaid.ed.gov/sa/taxonomy/term/77?width=300px&amp;height=auto&amp;className=glossaryterm&amp;closeButton=true">educational service agency</a> that serves students from low-income families; and</li>
+ 	<li>at an elementary school, secondary school, or educational service agency that serves students from low-income families; and</li>
  	<li>for at least four complete academic years within eight years after completing (or ceasing enrollment in) the course of study for which you received the grant.</li>
 </ul>
 For more information on the TEACH grant please review <a href="https://studentaid.ed.gov/sa/types/grants-scholarships/teach" target="_blank" rel="noopener noreferrer">https://studentaid.ed.gov/sa/types/grants-scholarships/teach</a>

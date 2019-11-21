@@ -13,14 +13,13 @@ post_date: 2016-06-01 13:00:04
 ---
 This appeal process is for students that have not been renewed for a merit-based scholarship or curriculum award based on unmet renewal criteria.  The following awards may be affected:
 <ul>
- 	<li>Presidential Award</li>
- 	<li>Presidential Diversity</li>
- 	<li>Blue and Gray Award</li>
- 	<li>Transfer Award</li>
- 	<li>Eagle Award</li>
- 	<li>Talon Award</li>
- 	<li>Scholastic Excellence</li>
- 	<li>International Award</li>
+ 	<li>Presidential</li>
+ 	<li>Presidential Honors</li>
+ 	<li>Blue and Gray</li>
+ 	<li>Transfer</li>
+ 	<li>Eagle</li>
+ 	<li>Talon</li>
+ 	<li>International</li>
 </ul>
 While each of these scholarships has a unique set of renewal criteria, the most common reasons for non-renewal are not meeting GPA requirements, moving to off campus housing, not meeting enrollment criteria, etc.
 

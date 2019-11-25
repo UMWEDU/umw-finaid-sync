@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2019-11-20 16:26:11
 ---
-<h2><strong>First-Year Merit Scholarship</strong></h2>
-<h3><strong>The University of Mary Washington will change or rescind merit scholarships in the event housing or residency status changes after awarding</strong><strong>.</strong></h3>
+<h4><strong>The University of Mary Washington will change or rescind merit scholarships in the event housing or residency status changes after awarding</strong><strong>.</strong></h4>
 The university will credit one-half of the scholarship each semester to the student’s account (Fall/Spring).  The recipient qualifies to receive a scholarship for each of four academic years of continuous undergraduate study at the University of Mary Washington if all of the following conditions are satisfied:
 <ul>
  	<li>Recipients must be <strong>full-time</strong> at the University of Mary Washington and successfully complete at least 12 credit hours each semester.</li>

@@ -21,7 +21,6 @@ post_date: 2016-03-09 13:53:46
  	<li><a href="http://www.umw.edu/admissions/youarein/international-scholarship-acceptance/">International Scholarship Acceptance</a></li>
  	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/d8965a51-3433-4c8c-bdef-e7d410245a43">Merit Scholarship Appeal Form </a></li>
  	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/cae27c18-45c2-4956-94d4-3872dd1599e2">UMW Transfer Award Appeal Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/12/SAPAppeal.pdf">Satisfactory Academic Progress Appeal Form</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadSum.pdf">Study Abroad - Summer</a></li>
  	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadAY.pdf">Study Abroad - Fall/Spring</a></li>
  	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/82c2d632-6235-41ec-a276-046d23c56751">Spring 2020 Bookstore Voucher - Deadline: December 17, 2019</a></li>

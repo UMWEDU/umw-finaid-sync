@@ -20,21 +20,46 @@ The standards for determining progress at the University of Mary Washington are 
 &nbsp;
 <h2><strong>Minimum Cumulative Grade Point Average (GPA)</strong></h2>
 In order to receive federal financial aid or other need-based aid, a student’s cumulative grade point average (GPA) must meet the minimum requirement as defined below:
-
-<strong><u>Grade Point Average:</u></strong>                      Hours Earned                       Minimum Required Cumulative GPA (4.0 scale)
-
-<em>Undergraduate</em>                                       0 – 30                                                         1.80
-
-31 – 60                                                       1.90
-
-61 +                                                            2.00
-
-<em>Graduate/Advanced Degree Student</em>                                                                    3.0
-
-&nbsp;
+<table style="height: 232px" width="980">
+<tbody>
+<tr>
+<td width="183">
+<h4><strong>Grade Point Average</strong></h4>
+</td>
+<td style="text-align: center" width="193">
+<h4><strong>Hours Earned</strong></h4>
+</td>
+<td style="text-align: center" width="301"><strong>Minimum Required Cumulative GPA (4.0 scale)</strong></td>
+</tr>
+<tr>
+<td><em>Undergraduate</em></td>
+<td style="text-align: center">0 - 30</td>
+<td style="text-align: center">1.8</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center">31 - 60</td>
+<td style="text-align: center">1.9</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center">61+</td>
+<td style="text-align: center">2.0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Graduate/Advanced Degree</em></td>
+<td></td>
+<td style="text-align: center">3.0</td>
+</tr>
+</tbody>
+</table>
+<h2></h2>
 <h2><strong>Incremental Progress: Minimum Credit Hour Completion Rate</strong></h2>
-&nbsp;
-
 University of Mary Washington students must complete at least 70% of all hours attempted towards graduation.  Repeated courses and courses with a grade of W, WA, F, I, G, UN or FA will count as attempted coursework and not as completed coursework.  Students repeating a course, previously passed may do so only once.  A course repeated more than once will not be included when determining enrollment status. All students must earn a minimum of 70.0% of the credit hours that they have attempted.
 
 <em>Example A:</em>

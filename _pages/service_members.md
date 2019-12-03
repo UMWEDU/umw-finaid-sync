@@ -27,7 +27,7 @@ UMW's most recent Cohort Default Rate for federal student loans was 1.8%, which 
 <strong>Service Member Contact</strong>: Rick Ware,  UMW Loan Coordinator, rware9jm@umw.edu , (540)654-2468
 <h3></h3>
 <h3>Scholarships</h3>
-UMW automatically considers students for <a href="http://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/">Merit-based Freshmen and Transfer Scholarship</a> opportunities during the admissions process. Students also  may apply for scholarships through the <a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">UMW Online Scholarship Manager</a> from February 1st to May 1st for the upcoming academic year. UMW administers a variety of different scholarship opportunities throughout the academic year. Students are notified through their UMW email account when scholarships become available, and directions on how to apply.
+UMW automatically considers students for <a href="http://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/">Merit-based Freshmen and Transfer Scholarship</a> opportunities during the admissions process. Students also  may apply for scholarships through the <a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">UMW Online Scholarship Manager</a> from February 1st to May 15th for the upcoming academic year. UMW administers a variety of different scholarship opportunities throughout the academic year. Students are notified through their UMW email account when scholarships become available, and directions on how to apply.
 
 <strong>More information</strong>: <a href="https://www.umw.edu/financialaid/types/scholarship-opportunities/">https://www.umw.edu/financialaid/types/scholarship-opportunities/</a>
 

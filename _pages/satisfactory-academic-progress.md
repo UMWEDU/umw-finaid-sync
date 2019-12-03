@@ -23,13 +23,13 @@ In order to receive federal financial aid or other need-based aid, a student’s
 
 <strong><u>Grade Point Average:</u></strong>                      Hours Earned                       Minimum Required Cumulative GPA (4.0 scale)
 
-<em>Undergraduate</em>                                       0 – 30                                                                   1.80
+<em>Undergraduate</em>                                       0 – 30                                                         1.80
 
-31 – 60                                                      1.90
+31 – 60                                                       1.90
 
 61 +                                                            2.00
 
-<em>Graduate/Advanced Degree Student</em>                                                                               3.0
+<em>Graduate/Advanced Degree Student</em>                                                                    3.0
 
 &nbsp;
 <h2><strong>Incremental Progress: Minimum Credit Hour Completion Rate</strong></h2>

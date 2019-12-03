@@ -15,7 +15,7 @@ Federal regulations require institutions of higher education to establish minimu
 
 Financial aid at the University of Mary Washington is awarded to students for the entire academic year or summer session.  If an aid recipient’s grade point average falls below the minimum standards at the end of the spring semester, the recipient will be placed on financial aid suspension. The student will be ineligible for financial aid for the subsequent enrollment period and will not receive consideration for aid again until the standards have been met.  A student may attend summer school to meet the standards of satisfactory academic progress to regain eligibility.  The student should notify the Office of Financial Aid when standards for satisfactory academic progress have been met.
 
-The standards for determining progress at the University of Mary Washington are composed of three separate measurements.  These measurements are: grade point average (qualitative), incremental progress (quantitative), and accumulated hours (maximum timeframe).  A student whose average drops below the minimum requirement will be placed on financial aid warning for the subsequent semester.
+The standards for determining progress at the University of Mary Washington are composed of three separate measurements.  These measurements are: grade point average (qualitative), incremental progress (quantitative), and accumulated hours (maximum time-frame).  A student whose average drops below the minimum requirement will be placed on financial aid suspension after the spring semester.
 
 &nbsp;
 <h2><strong>Minimum Cumulative Grade Point Average (GPA)</strong></h2>

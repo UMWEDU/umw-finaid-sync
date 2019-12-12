@@ -24,9 +24,6 @@ Earned Credit Hours            Yearly GPA Requirement
 
 “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.
 <ul>
- 	<li>Should the recipient be placed on social or administrative probation, or be found guilty of an
-Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be
-adjusted according to the University’s refund policy.</li>
- 	<li>An adjustment to the amount of the scholarship will be made according to the University’s refund
-policy should the recipient withdraw during the academic year.</li>
+ 	<li>Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be adjusted according to the University’s refund policy.</li>
+ 	<li>An adjustment to the amount of the scholarship will be made according to the University’s refund policy should the recipient withdraw during the academic year.</li>
 </ul>

@@ -45,12 +45,10 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 <td width="168">---</td>
 </tr>
 <tr>
-<tr>
 <td width="265"><strong>CHARGES BILLED TO STUDENTS:</strong></td>
 <td width="138"><strong>$24,710</strong></td>
 <td width="144"><strong>$13,210</strong></td>
 <td width="168"><strong>$13,210</strong></td>
-</tr>
 </tr>
 <tr>
 <td width="265"><strong>Books and Supplies</strong></td>

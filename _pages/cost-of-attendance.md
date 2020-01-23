@@ -1,6 +1,6 @@
 ---
 ID: 178
-post_title: ""
+post_title: Cost of Attendance
 author: Emily
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-03-09 13:40:45
 ---
-<h1>2019-20 Cost of Attendance</h1>
+<h1>2019-20</h1>
 <h2>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h2>
 The Cost of Attendance (COA) in the chart below is an average cost to attend for one academic year (fall/spring). The COA is intended for budgeting purposes and may not reflect the actual charges to your student account. For example, choice of meal plan may increase or decrease your COA. Please contact the Office of Financial Aid if you have any unusual expenses that might affect your COA such as childcare expenses, special books and supplies, or the cost of purchasing a new computer.
 <h2 style="text-align: left"><strong>Virginia Residents</strong></h2>
@@ -171,7 +171,7 @@ The Cost of Attendance (COA) in the chart below is an average cost to attend for
 
 &nbsp;
 
-<h1>2020-21 Estimated Cost of Attendance</h1>
+<h1>2020-21 Estimated COA</h1>
 <h2>Undergraduate Students based on Full Time Enrollment (12 – 18 credits)</h2>
 The Cost of Attendance (COA) in the chart below is an average cost to attend for one academic year (fall/spring). The COA is intended for budgeting purposes and may not reflect the actual charges to your student account. For example, choice of meal plan may increase or decrease your COA. Please contact the Office of Financial Aid if you have any unusual expenses that might affect your COA such as childcare expenses, special books and supplies, or the cost of purchasing a new computer.
 <h2 style="text-align: left"><strong>Virginia Residents</strong></h2>

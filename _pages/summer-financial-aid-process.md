@@ -10,7 +10,7 @@ published: true
 post_date: 2017-04-18 12:42:33
 ---
 <ul>
- 	<li>Students must complete the Summer Financial Aid Request Form (available February through July)</li>
+ 	<li>Students must complete the Summer Financial Aid Request Form (available April through June)</li>
  	<li>Review of requests begin in mid-April</li>
  	<li>Students receive approval or denials via their UMW e-mail.</li>
  	<li>Awards can be viewed through the student MyUMW portal.</li>
@@ -26,7 +26,7 @@ post_date: 2017-04-18 12:42:33
 <h2><strong> </strong><span style="color: #b81237"><strong>TYPES OF SUMMER FINANCIAL AID</strong></span></h2>
 <h3><strong>Federal Financial Aid (Direct Student/Parent Loans/Federal Pell Grant)</strong></h3>
 <ul>
- 	<li>Student must have completed 2018-19 FAFSA</li>
+ 	<li>Student must have completed 2019-20 FAFSA</li>
  	<li>Students may be eligible for Federal Direct Student Loans if they have <strong>not</strong> used their maximum amount in the Fall 2018 and/or Spring 2019 semesters. Per year maximums are:
 <ul>
  	<li>Freshman (1-29 credits earned) $5,500 dependent, $9,500 independent</li>
@@ -46,6 +46,6 @@ post_date: 2017-04-18 12:42:33
 <h3><strong> </strong><strong>Scholarships or other Financial Aid</strong></h3>
 <ul>
  	<li>There are a limited number of grants and scholarships available during the summer semester. If eligible, students will be automatically awarded (no separate application)</li>
- 	<li>Students must have completed a 2018-19 FAFSA</li>
+ 	<li>Students must have completed a 2019-20 FAFSA</li>
  	<li>The Financial aid office will post any available scholarship opportunities to the MyUMW Financial Aid portal.</li>
 </ul>

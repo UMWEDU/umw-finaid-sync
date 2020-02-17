@@ -27,7 +27,7 @@ post_date: 2017-04-18 12:42:33
 <h3><strong>Federal Financial Aid (Direct Student/Parent Loans/Federal Pell Grant)</strong></h3>
 <ul>
  	<li>Student must have completed 2019-20 FAFSA</li>
- 	<li>Students may be eligible for Federal Direct Student Loans if they have <strong>not</strong> used their maximum amount in the Fall 2018 and/or Spring 2019 semesters. Per year maximums are:
+ 	<li>Students may be eligible for Federal Direct Student Loans if they have <strong>not</strong> used their maximum amount in the Fall and/or Spring semesters. Per year maximums are:
 <ul>
  	<li>Freshman (1-29 credits earned) $5,500 dependent, $9,500 independent</li>
  	<li>Sophomore (30-59 credits earned) $6,500 dependent, $10,500 independent</li>
@@ -35,7 +35,7 @@ post_date: 2017-04-18 12:42:33
  	<li>Graduate - $20,500</li>
 </ul>
 </li>
- 	<li>Year-round Pell will be available to eligible students for 2018-2019 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time (6 credits).</li>
+ 	<li>Year-round Pell will be available to eligible students for 2019-2020 award year.  This change to the Federal Pell Grant Program allows eligible students to receive up to 150 percent of a regular Federal Pell Grant Award over the course of the academic year (Fall, Spring, and Summer).  To be eligible to receive the additional Pell Grant funds, the student must be otherwise eligible to receive Pell Grant funds for the payment period and must be enrolled at least half-time (6 credits).</li>
  	<li>Parents may apply for a Parent Plus Loan at <a href="https://studentloans.gov">https://studentloans.gov</a>.</li>
 </ul>
 <h3 class="site-container"> <strong> </strong><strong>Private Educational Loans</strong></h3>

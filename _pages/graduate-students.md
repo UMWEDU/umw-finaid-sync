@@ -2,25 +2,12 @@
 ID: 22
 post_title: Graduate Students
 author: Emily
-post_date: 2016-02-10 14:02:08
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/process/graduate-students/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    Graduate students pursuing post-baccalaureate degrees, certificates, and licensing have different financial aid requirements and options.
-    <ul>
-    <li><a href="https://www.umw.edu/financialaid/the-financial-aid-process/timelines/graduate-student/">Graduate Student Timeline</a></li>
-    <li><a href="http://students.umw.edu/veterans/">Veterans/Military Student Resources</a></li>
-    <li><a href="https://www.umw.edu/financialaid/types/loans/student-loans/">Federal Direct Graduate Loans</a></li>
-    <li><a href="https://www.umw.edu/financialaid/process/graduate-students/">FA and Scholarship Information</a></li>
-    </ul>
+post_date: 2016-02-10 14:02:08
 ---
 <h2>Financial Aid &amp; Scholarship Information</h2>
 The University of Mary Washington offers financial assistance to graduate students enrolled at least half-time in degree programs and pathway programs. Half-time enrollment for graduate students is five graduate level credit hours per semester. A combination of 8 and 16 week courses can be taken.
@@ -54,3 +41,18 @@ See the <a href="http://www.umw.edu/financialaid/process/timelines/graduate-stud
  	<li><a href="http://www.umw.edu/financialaid/types/loans/private/">P</a><a href="http://www.umw.edu/financialaid/types/loans/private/">rivate educational loans</a></li>
  	<li><a href="http://umw.scholarships.ngwebsolutions.com">Graduate departmental scholarships</a></li>
 </ul>
+
+<h2>Federal TEACH Grant</h2>
+Through the College Cost Reduction and Access Act of 2007, Congress created the Teacher Education Assistance for College and Higher Education (TEACH) Grant Program that provides grants of up to $4,000 per year to students who are completing or plan to complete course work needed to begin a career in teaching.
+
+As a condition for receiving a TEACH Grant:
+
+You must complete the <a id="anch_145" href="https://studentloans.gov/myDirectLoan/launchTeach.action" target="_blank" rel="noreferrer noopener">TEACH Grant counseling</a> that explains the terms and conditions of the TEACH Grant service obligation. You must complete counseling each year that you receive a TEACH Grant.
+
+You must also sign a <em>TEACH Grant Agreement to Serve</em> in which you agree to (among other requirements) teach
+<ul>
+ 	<li>in a high-need field;</li>
+ 	<li>at an elementary school, secondary school, or educational service agency that serves students from low-income families; and</li>
+ 	<li>for at least four complete academic years within eight years after completing (or ceasing enrollment in) the course of study for which you received the grant.</li>
+</ul>
+For more information on the TEACH grant please review <a href="https://studentaid.ed.gov/sa/types/grants-scholarships/teach" target="_blank" rel="noopener noreferrer">https://studentaid.ed.gov/sa/types/grants-scholarships/teach</a>

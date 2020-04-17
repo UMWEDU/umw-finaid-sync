@@ -21,12 +21,12 @@ You will need to respond to all of the lender requests promptly and allow at lea
 <h3>Lender Information</h3>
 We invite all students to review lender options through our ELM Partner.
 
-Please visit <a href="http://www.elmselect.com/#/">elmselect.com</a> in order to view lenders, compare borrower benefits and other options.
+Please visit <a href="https://www.elmselect.com/v4/school/717/program-select">elmselect.com</a> in order to view lenders, compare borrower benefits and other options.
 
 
 <h3>Supplemental Loans for Graduate Students</h3>
 Graduate students who are enrolled at least half-time and have submitted a FAFSA qualify for up to $10,250 per semester ($20,500 maximum per academic year) in the Graduate Unsubsidized loan. For students taking between 6 and 9 credits this loan is typically more than enough to cover tuition and living expenses. If a student takes more than 9 credits per semester however, a supplemental loan might be needed. In this situation a student can apply for an additional private loan after he or she has utilized their full eligibility in the Graduate Unsubsidized loan. 
 
-The following options are available using <a href="http://www.elmselect.com/#/">elmselect.com</a> in order to view lenders, compare borrower benefits and other options.
+The following options are available using <a href="https://www.elmselect.com/v4/school/717/program-select">elmselect.com</a> in order to view lenders, compare borrower benefits and other options.
 
 &nbsp;

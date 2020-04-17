@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2016-03-09 13:53:46
 ---
+<h3><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/cb48edf3-0a33-4762-a6a7-0cd7c0b5b45a">Spring 2020 COVID-19 Relief Form: (For Current Students Only)</a></h3>
+Students in Need: Please complete this form if you are experiencing financial challenges as it relates to the closure of campus or the switch to online learning. 
+
 <h3>2019-2020 Forms:</h3>
 <ul>
  	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/397ec4ba-04e3-4136-8c76-2399d1d14b9d">2019/20 V1 Verification Worksheet for Dependent Students</a></li>

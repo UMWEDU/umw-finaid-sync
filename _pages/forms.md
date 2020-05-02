@@ -11,7 +11,8 @@ post_date: 2016-03-09 13:53:46
 ---
 <h3><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/cb48edf3-0a33-4762-a6a7-0cd7c0b5b45a">Spring 2020 COVID-19 Relief Form: (For Current Students Only)</a></h3>
 Students in Need: Please complete this form if you are experiencing financial challenges as it relates to the closure of campus or the switch to online learning.
-<p> <em><strong>(A completed FAFSA is not required to be eligible)</strong></em></p>
+<p> <em><strong>A completed 2019-20 FAFSA is required to be eligible</strong></em></p>
+<p><strong>Please note that a parent(s) loss of income due to the COVID-19 Pandemic is not a permissible expense and cannot be used for justification of CARES act funds</strong></P>
 
 <h3>2019-2020 Forms:</h3>
 <ul>

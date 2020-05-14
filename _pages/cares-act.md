@@ -5,7 +5,7 @@ author: tsaulnie
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/financialaid/consumer-information/cares-act/
+  http://www.umw.edu/financialaid/cares-act/
 published: true
 post_date: 2020-05-14 19:39:28
 ---

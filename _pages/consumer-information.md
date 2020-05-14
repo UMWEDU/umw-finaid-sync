@@ -206,4 +206,4 @@ This page contains University of Mary Washington consumer information, which mus
  	<li><a href="http://www.dol.gov/WHD/">U.S. Department of Labor FLSA, FMLA and Consumer Information</a></li>
  	<li><a href="http://www.ada.gov/">Americans with Disabilities Act</a></li>
 </ul>
-<h2>Federal CARES Act Emergency Aid Fund</h2>
+<h2><a href="http://www.umw.edu/financialaid/cares-act/">Federal CARES Act Emergency Aid Fund</a></h2>

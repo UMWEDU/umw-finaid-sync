@@ -2,14 +2,12 @@
 ID: 77
 post_title: Consumer Information
 author: Emily
-post_date: 2016-02-22 17:33:20
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/consumer-information/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-22 17:33:20
 ---
 This page contains University of Mary Washington consumer information, which must be made available to all students at the University of Mary Washington in accordance with the Higher Education Act of 1965. Under each general heading is a brief summary and link to the information that can be obtained.  To obtain a paper copy of this information, please contact the University of Mary Washington Office of Financial Aid at 540-654-2468 or <a href="mailto:finaid@umw.edu">finaid@umw.edu</a>.
 <h2>General Institutional Information</h2>
@@ -208,3 +206,4 @@ This page contains University of Mary Washington consumer information, which mus
  	<li><a href="http://www.dol.gov/WHD/">U.S. Department of Labor FLSA, FMLA and Consumer Information</a></li>
  	<li><a href="http://www.ada.gov/">Americans with Disabilities Act</a></li>
 </ul>
+<h2>Federal CARES Act Emergency Aid Fund</h2>

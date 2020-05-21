@@ -190,9 +190,9 @@ If a student is denied financial aid for failure to meet any of the above standa
 
 If the appeal is approved, a student will receive financial aid on a probationary status and an academic plan may be required.  At the end of the semester, the student will be evaluated according to the SAP Policy to determine if financial aid will be awarded for the next semester.
 
-Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2018/12/SAPAppeal.pdf">Satisfactory Academic Process Appeal Form</a> together with all required documents within 15 days of the notification that they have been placed on suspension.
+Students who wish to appeal must complete and submit a <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2020/05/1920-SAP-Appeal-Form.docx">Satisfactory Academic Progress Appeal Form</a> together with all required documents within 15 days of the notification that they have been placed on suspension.
 
-SAP Appeals should be submitted to the Office of Financial Aid either by mail, fax or in person to:
+SAP Appeals should be submitted to the Office of Financial Aid either by mail, email (finaid@umw.edu)  fax or in person to:
 
 Lee Hall – Second floor
 University of Mary Washington

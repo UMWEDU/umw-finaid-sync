@@ -21,7 +21,7 @@ Once the CARES Act was passed into law, it fell to the Department of Education (
 <h2>Who will receive funds?</h2>
 As a result of this guidance, UMW will be awarding the emergency financial aid funds from the CARES Act to the following groups of students, and under the following conditions:
 
-Group 1: Summer 2020 enrolled students who are in a degree program, enrolled at have a 2019-20 FAFSA on file with UMW, meet the Section 484 criteria, and have an Expected Family Contribution (EFC) from the FAFSA less than 5577, Pell eligible and have completed an application for funds.
+Group 1: Summer 2020 enrolled students who are in a degree program, enrolled an have a 2019-20 FAFSA on file with UMW, meet the Section 484 criteria, and have an Expected Family Contribution (EFC) from the FAFSA of 0, Pell eligible and have completed an application for funds.
 
 Group 2: Title IV eligible students meeting Section 484 of the Higher Education Act who have expressed challenges related to computer/internet access with the switch to online classes. Students must complete an application to be eligible for funds.
 

@@ -21,11 +21,13 @@ Once the CARES Act was passed into law, it fell to the Department of Education (
 <h2>Who will receive funds?</h2>
 As a result of this guidance, UMW will be awarding the emergency financial aid funds from the CARES Act to the following groups of students, and under the following conditions:
 
-Group 1: Summer 2020 enrolled students who are in a degree program, enrolled an have a 2019-20 FAFSA on file with UMW, meet the Section 484 criteria, and have an Expected Family Contribution (EFC) from the FAFSA of 0, Pell eligible and have completed an application for funds.
+Group 1: Title IV eligible students meeting Section 484 of the Higher Education Act who have expressed challenges related to computer/internet access with the switch to online classes. Students must complete an application to be eligible for funds.
 
-Group 2: Title IV eligible students meeting Section 484 of the Higher Education Act who have expressed challenges related to computer/internet access with the switch to online classes. Students must complete an application to be eligible for funds.
+Group 2: Summer 2020 enrolled students who are in a degree program, enrolled an have a 2019-20 FAFSA on file with UMW, meet the Section 484 criteria, and have an Expected Family Contribution (EFC) from the FAFSA of 0, Pell eligible and have completed an application for funds.
 
-Group 3: Funds will be saved to help students who have additional challenges related to the disruption of normal campus operations.
+Group 3: Pell Eligible Students who lived on Campus for the spring semester who did not previously meet one of the other conditions in Group 1 or 2. 
+
+Group 4: Funds will be saved to help students who have additional challenges related to the disruption of normal campus operations.
 
 At this time we are also reviewing the potential funds for students who have not graduated who were enrolled in the spring term who have been affected.
 
@@ -35,8 +37,8 @@ Awarding will take place in multiple phases:
 
 Students have acknowledged that the funds are for a qualifying expense by completion of the application.
 
-To date 5/14 no students have received a CARES Act distribution of funds. We expect to begin releasing funds starting next week.
+To date 7/1 450 students have received a total of $384,000.
 
-The number of potential eligible students who were enrolled for the spring 2020 semester who met the general criteria under section 484 of the 1965 Higher Education Act is 2,256.  However, the number of students who will meet our criteria and have need will be less.
+The number of potential eligible students who were enrolled for the spring 2020 semester who met the general criteria under section 484 of the 1965 Higher Education Act is 2,256.  However, the number of students who will meet our criteria and have need will be less.  Students will need to have completed the FAFSA by 5/1/2020 for Spring 2020.
 
-The current maximum amount a student will receive under the initial allocation will be $1,000 or less based on the students need (EFC) and answers on the COVID Relief Application.
+The current maximum amount a student will receive under the initial allocation will be $1,000 or less based on the students need (EFC) and answers on the COVID Relief Application.  Students have been awarded between $250-1,000.

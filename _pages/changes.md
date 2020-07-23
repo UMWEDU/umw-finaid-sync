@@ -2,14 +2,12 @@
 ID: 69
 post_title: Change of Address and Direct Deposit
 author: Emily
-post_date: 2016-02-22 14:08:06
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/financialaid/student-employment/applicants/changes/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-02-22 14:08:06
 ---
 Keeping your address current is important for the mail distribution of your W-2. Please completely follow the instructions below to update your address:
 <ul>
@@ -21,8 +19,8 @@ Keeping your address current is important for the mail distribution of your W-2.
  	<li>Then select “Accept” at the bottom of the screen</li>
  	<li>Log out</li>
 </ul>
-<h2>Change of Direct Depost</h2>
-Please submit a new <a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/06/DirectDepositUpdated5.31.17.pdf">direct deposit form</a> to the Office of Financial Aid and mark “Change” on the form. New forms should include one of the following:
+<h2>Change of Direct Deposit</h2>
+Please submit a new <a href="https://mailumw.sharepoint.com/sites/Staff-FN-TESS-FSTrain/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FStaff%2DFN%2DTESS%2DFSTrain%2FShared%20Documents%2FDirectDepositAuthorization%208%2E2019%2Epdf&amp;parent=%2Fsites%2FStaff%2DFN%2DTESS%2DFSTrain%2FShared%20Documents">direct deposit form</a> to the Office of Financial Aid and mark “Change” on the form. New forms should include one of the following:
 <ul>
  	<li>A voided check, <strong>OR</strong></li>
  	<li>A screen print of your account and routing numbers from online banking, <strong>OR</strong></li>

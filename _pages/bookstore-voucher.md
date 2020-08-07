@@ -11,9 +11,7 @@ post_date: 2016-02-16 14:02:08
 ---
 The Bookstore Voucher process allows students to use a portion of their financial aid refund in the UMW Bookstore or MBS Direct prior to their financial aid disbursement. Financial Aid refunds include federal, state, institutional and private resources that together equal a greater amount than the student bill.
 
-The Bookstore Voucher <strong>may not be used online (with the exception of MBS Direct for specified students), for rentals, or purchases outside of the University of Mary Washington’s bookstore.  </strong>
-
-<strong>Deadline to Apply: August 15th, 2019 (Fall 2019)</strong>
+<strong>Deadline to Apply: August 16th, 2020 (Fall 2020)</strong>
 <h2>Instructions</h2>
 <ol>
  	<li>Access the Bookstore Voucher Request form in the '<a href="https://www.umw.edu/financialaid/process/forms/">forms</a>' section.</li>

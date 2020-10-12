@@ -37,8 +37,17 @@ Awarding will take place in multiple phases:
 
 Students have acknowledged that the funds are for a qualifying expense by completion of the application.
 
-To date 7/1 450 students have received a total of $384,000.
-
-The number of potential eligible students who were enrolled for the spring 2020 semester who met the general criteria under section 484 of the 1965 Higher Education Act is 2,256.  However, the number of students who will meet our criteria and have need will be less.  Students will need to have completed the FAFSA by 5/1/2020 for Spring 2020.
+The number of potential eligible students who were enrolled for the spring 2020 semester who met the general criteria under section 484 of the 1965 Higher Education Act is 2,256.  However, the number of students who will meet our criteria and have need will be less.  Students will need to have completed the FAFSA by 5/1/2020 for Spring 2020. 
 
 The current maximum amount a student will receive under the initial allocation will be $1,000 or less based on the students need (EFC) and answers on the COVID Relief Application.  Students have been awarded between $250-1,000.
+
+<strong>Fall 2020 Criteria</strong>
+
+Students must have completed the 2021 FAFSA and be enrolled.  
+
+The current maximum a student will receive at any one time is $1,000.  
+
+Students with technology needs were identified and awarded funding via survey's and other means.
+Students with ongoing challenges are awarded as needed.
+
+To date we have awarded $560,025.00 to 656 students.

@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2020-05-14 19:39:28
 ---
+<h1>Federal Cares Act: Emergency Student Aid</h1>
+
 <h2>Overview</h2>
 
 As a result of Congress passing the Coronavirus Aid, Relief and Economic Security (CARES) Act, UMW has been allocated $1,444,341 in emergency student aid to assist eligible students who incurred “expenses related to the disruption of campus operations due to coronavirus, such as food, housing, course materials, technology, health care, and child-care expenses.” UMW accepted these funds and will be distributing them within the mandated time period.
@@ -51,3 +53,9 @@ Students with technology needs were identified and awarded funding via survey's 
 Students with ongoing challenges are awarded as needed.
 
 To date we have awarded $560,025.00 to 656 students.
+
+<h2><strong>CARES Act Institutional Funding</strong></h2>
+
+The Coronavirus Aid, Relief and Economic Security (CARES) Act also allocated $1,440,340 in institutional support.  UMW used these funds to offset the cost of providing refunds to students for Spring 2020 housing, meal plans and parking fees.  The link below is to UMW’s report on these funds as required by the Department of Education.
+
+<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2020/10/2020-09-30-heerf-quarterly-reporting.pdf">2020 09 30 heerf-quarterly-reporting</a>

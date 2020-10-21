@@ -57,10 +57,11 @@ The current maximum a student will receive at any one time is $1,000.
 Students with technology needs were identified and awarded funding via survey's and other means.
 Students with ongoing challenges are awarded as needed.
 
-To date we have awarded $560,025.00 to 656 students.
-
 <h4>Reporting Requirements</h4>
-
+5.23.2020: 54 students received $48,000
+7.7.2020: 443 students received $382,000
+8.21.2020: 570 students received $477,000
+10.6.2020:  654 students received $560,025
 
 <h4><strong>CARES Act Institutional Funding</strong></h4>
 The Coronavirus Aid, Relief and Economic Security (CARES) Act also allocated $1,440,340 in institutional support. UMW used these funds to offset the cost of providing refunds to students for Spring 2020 housing, meal plans and parking fees. The link below is to UMW’s report on these funds as required by the Department of Education.

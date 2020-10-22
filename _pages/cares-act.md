@@ -58,12 +58,63 @@ Students with technology needs were identified and awarded funding via survey's 
 Students with ongoing challenges are awarded as needed.
 
 <h4>Reporting Requirements</h4>
-5.23.2020: 54 students received $48,000
-7.7.2020: 443 students received $382,000
-8.21.2020: 570 students received $477,000
-10.6.2020:  654 students received $560,025
+<div class="accordion">
+
+[tabby title="May 23, 2020"]
+
+<strong>Introduction</strong>
+On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
+
+<strong>Student Eligibility</strong>
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,256. Students must have completed the FAFSA by 5/1/2020 for Spring and Summer 2020.
+
+<strong>Funds Distributed to Date</strong>
+As of May 23, 2020, UMW has awarded $48,000 in emergency relief grants to 54 students.
+
+
+[tabby title="July 7, 2020"]
+
+<strong>Introduction</strong>
+On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
+
+<strong>Student Eligibility</strong>
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,256. Students must have completed the FAFSA by 5/1/2020 for Spring and Summer 2020.
+
+<strong>Funds Distributed to Date</strong>
+As of July 7, 2020, UMW has awarded $382,000 in emergency relief grants to 443 students.
+
+
+[tabby title="August 21, 2020"]
+
+<strong>Introduction</strong>
+On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
+
+<strong>Student Eligibility</strong>
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,256. Students must have completed the FAFSA by 5/1/2020 for Spring and Summer 2020.
+
+<strong>Funds Distributed to Date</strong>
+As of August 21, 2020, UMW has awarded $477,000 in emergency relief grants to 570 students.
+
+
+[tabby title="October 6, 2020"]
+
+<strong>Introduction</strong>
+On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
+
+<strong>Student Eligibility</strong>
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,256. Students must have completed the FAFSA by 12/1/2020 for <strong>Fall 2020</strong>.
+
+<strong>Funds Distributed to Date</strong>
+As of October 6, 2020, UMW has awarded $560,025 in emergency relief grants to 654 students.
+
+
+
+[tabbyending]
+
+</div>
+
 
 <h4><strong>CARES Act Institutional Funding</strong></h4>
 The Coronavirus Aid, Relief and Economic Security (CARES) Act also allocated $1,440,340 in institutional support. UMW used these funds to offset the cost of providing refunds to students for Spring 2020 housing, meal plans and parking fees. The link below is to UMW’s report on these funds as required by the Department of Education.
 
-<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2020/10/2020-09-30-heerf-quarterly-reporting-2.pdf">2020 09 30 heerf-quarterly-reporting</a>
+<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2020/10/2020-09-30-heerf-quarterly-reporting.pdf">2020 09 30 heerf-quarterly-reporting</a>

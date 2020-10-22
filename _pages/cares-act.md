@@ -113,7 +113,7 @@ As of October 6, 2020, UMW has awarded $560,025 in emergency relief grants to 65
 
 </div>
 
-
+<br></br>
 <h4><strong>CARES Act Institutional Funding</strong></h4>
 The Coronavirus Aid, Relief and Economic Security (CARES) Act also allocated $1,440,340 in institutional support. UMW used these funds to offset the cost of providing refunds to students for Spring 2020 housing, meal plans and parking fees. The link below is to UMW’s report on these funds as required by the Department of Education.
 

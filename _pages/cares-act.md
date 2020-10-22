@@ -31,7 +31,7 @@ Students receiving these funds must meet the eligibility criteria in Section 484
 <h4>Who will receive funds?</h4>
 As a result of this guidance, UMW will be awarding the emergency financial aid funds from the CARES Act to the following groups of students, and under the following conditions:
 
-Group 1: Title IV eligible students meeting Section 484 of the Higher Education Act who have expressed challenges related to computer/internet access with the switch to online classes. Students must complete an application to be eligible for funds.
+Group 1: Title IV eligible students meeting Section 484 of the Higher Education Act who have expressed challenges related to computer/internet access with the switch to online classes. Students must complete an application to be eligible for funds for spring and summer 2020.
 
 Group 2: Summer 2020 enrolled students who are in a degree program, enrolled an have a 2019-20 FAFSA on file with UMW, meet the Section 484 criteria, and have an Expected Family Contribution (EFC) from the FAFSA of 0, Pell eligible and have completed an application for funds.
 
@@ -39,23 +39,22 @@ Group 3: Pell Eligible Students who lived on Campus for the spring semester who 
 
 Group 4: Funds will be saved to help students who have additional challenges related to the disruption of normal campus operations.
 
-Group 5: Purchasing personal computers and technology needs for online education classes.
+Group 5: Purchasing personal computers and technology needs for online education classes for the Fall 2020 Semester who have completed a 2020-21 FAFSA.
 
 Group 6: Remaining funds will be used to provide financial assistance to students with COVID-19 financial disruptions and to needy Federal Pell grant recipients.
 
 <h4>Student eligibility</h4>
 The number of potential eligible students who were enrolled for the spring 2020 semester who met the general criteria under section 484 of the 1965 Higher Education Act is 2,256. However, the number of students who will meet our criteria and have need will be less. Students will need to have completed the FAFSA by 5/1/2020 for Spring/Summer 2020.
 
-The current maximum amount a student will receive under the initial allocation will be $1,000 or less based on the students need (EFC) and answers on the COVID Relief Application. Students have been awarded between $250-1,000.
+The current maximum amount a student will receive under the initial allocation (group 1) will be $1,000 or less based on the students need (EFC) and answers on the COVID Relief Application. 
+Students have been awarded between $250-1,000.
 
 <strong>Fall 2020 Criteria</strong>
-
-Students must have completed the 2021 FAFSA and be enrolled.
+The number of potential eligible students who were enrolled for the Fall 2020 semester who met the general criteria under section 484 of the 1965 Higher Education Act is 2,568. Students must have completed the 2020-2021 FAFSA and be enrolled.
 
 The current maximum a student will receive at any one time is $1,000.
 
-Students with technology needs were identified and awarded funding via survey's and other means.
-Students with ongoing challenges are awarded as needed.
+Students with technology needs were identified and awarded funding via campus survey's and other means.  Students with ongoing challenges are awarded as needed.
 
 <h4>Reporting Requirements</h4>
 <div class="accordion">
@@ -102,7 +101,7 @@ As of August 21, 2020, UMW has awarded $477,000 in emergency relief grants to 57
 On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
 
 <strong>Student Eligibility</strong>
-The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,256. Students must have completed the FAFSA by 12/1/2020 for <strong>Fall 2020</strong>.
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,568. Students must have completed a 2020-21 FAFSA for for <strong>Fall 2020</strong>.
 
 <strong>Funds Distributed to Date</strong>
 As of October 6, 2020, UMW has awarded $560,025 in emergency relief grants to 654 students.

@@ -66,4 +66,4 @@ Students with ongoing challenges are awarded as needed.
 <h4><strong>CARES Act Institutional Funding</strong></h4>
 The Coronavirus Aid, Relief and Economic Security (CARES) Act also allocated $1,440,340 in institutional support. UMW used these funds to offset the cost of providing refunds to students for Spring 2020 housing, meal plans and parking fees. The link below is to UMW’s report on these funds as required by the Department of Education.
 
-<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2020/10/2020-09-30-heerf-quarterly-reporting.pdf">2020 09 30 heerf-quarterly-reporting</a>
+<a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2020/10/2020-09-30-heerf-quarterly-reporting-2.pdf">2020 09 30 heerf-quarterly-reporting</a>

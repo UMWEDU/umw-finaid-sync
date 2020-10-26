@@ -23,10 +23,3 @@ post_date: 2016-03-09 13:53:46
  	<li><a href="https://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/Consortium-Agreement.pdf">Request for Consortium Agreement with another Institution</a></li>
  	<li>Spring 2021 Bookstore Voucher Request Form - Not Available at this time</li>
 </ul>
-<h3>2019-2020 Forms:</h3>
-<ul>
- 	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/d8965a51-3433-4c8c-bdef-e7d410245a43">Merit Scholarship Appeal Form </a></li>
- 	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/cae27c18-45c2-4956-94d4-3872dd1599e2">UMW Transfer Award Appeal Form</a></li>
- 	<li><a href="http://www.umw.edu/financialaid/wp-content/uploads/sites/31/2017/12/StudyAbroadSum.pdf">Study Abroad - Summer</a></li>
- 	<li><a href="https://dynamicforms.ngwebsolutions.com/casAuthentication.ashx?InstID=a865adc6-8f77-4fb5-918d-9ecc2a2ae697&amp;targetURL=https://dynamicforms.ngwebsolutions.com/Submit/Form/Start/b5f603c6-7270-4a6b-9242-0d5b78fd84ed">2020 Summer Application for Financial Aid - Opens: April 1, 2020</a></li>
-</ul>

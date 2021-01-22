@@ -106,7 +106,27 @@ The total number of students at UMW eligible to participate in programs under Se
 <strong>Funds Distributed to Date</strong>
 As of October 6, 2020, UMW has awarded $560,025 in emergency relief grants to 654 students.
 
+[tabby title="November 20, 2020"]
 
+<strong>Introduction</strong>
+On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
+
+<strong>Student Eligibility</strong>
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,568. Students must have completed a 2020-21 FAFSA for for <strong>Fall 2020</strong>.
+
+<strong>Funds Distributed to Date</strong>
+As of November 20, 2020, UMW has awarded $560,025 in emergency relief grants to 654 students.
+
+[tabby title="January 4, 2021"]
+
+<strong>Introduction</strong>
+On March 27, 2020, the President of the United States signed the CARES Act (H.R. 748), which provides emergency relief funds to organizations and individuals affected by the coronavirus pandemic. The Higher Education Emergency Relief Fund (HEERF), found in Section 18004 of the CARES Act, provides funding to institutions of higher education "to prevent, prepare for, and respond to coronavirus." As a result of receiving this funding, UMW is required by the U.S. Department of Education to report the information listed below within 30 days of receiving funding and every 45 days thereafter.
+
+<strong>Student Eligibility</strong>
+The total number of students at UMW eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 is 2,568. Students must have completed a 2020-21 FAFSA for for <strong>Fall 2020</strong>.
+
+<strong>Funds Distributed to Date</strong>
+As of January 4, 2021, UMW has awarded $567,525 in emergency relief grants to 660 students.
 
 [tabbyending]
 
